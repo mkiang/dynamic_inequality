@@ -1,0 +1,162 @@
+---
+title: "Tables 1 and S1"
+author: "Mathew Kiang"
+date: "5/3/2022"
+output: 
+  html_document:
+    toc: true
+    code_folding: 'hide'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(error = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+```
+
+## Set up
+
+```{r}
+library(tidyverse)
+library(here)
+library(DT)
+source(here("code", "utils.R"))
+source(here("code", "mk_nytimes.R"))
+
+age_std <- readRDS(here("data", "age_standardized_death_rates.RDS")) %>% 
+    categorize_age_groups() %>% 
+    categorize_race()
+rr_df <- readRDS(here("data", "joinpoint_rate_ratio_results.RDS")) %>% 
+    categorize_age_groups() %>% 
+    categorize_race()
+```
+
+
+## Table 1 of monthly rate ratios by race/ethnicity and age group
+```{r}
+rr_df %>%
+  transmute(
+    age_cat,
+    race_cat,
+    date,
+    rr = sprintf(
+      "%0.2f (%0.2f, %0.2f)",
+      round(rr, 2),
+      round(rr_lower, 2),
+      round(rr_upper, 2)
+    ),
+    modeled_rr = sprintf("%0.2f", round(modeled_rr, 2)),
+    modeled_se = sprintf("%0.2f", round(modeled_se, 2))
+  ) %>%
+  arrange(age_cat,
+          race_cat,
+          date) %>%
+  DT::datatable(
+    rownames = FALSE,
+    colnames = c(
+      "Age Bin",
+      "Race/Ethnicity",
+      "Month Start",
+      "Observed Rate Ratio (95% CI)",
+      "Modeled Rate Ratio",
+      "Model SE"
+    ),
+    filter = "top"
+  )
+```
+
+### Table of monthly percent change (MPC) of the rate ratios
+
+This summarizes the joinpoint model fits based on "segments" in the model. For each one, I put down the start date and the monthly percent change from that start date until the next segment. The MPC p-value represents whether or not that percent change is different from 0. 
+
+```{r}
+rr_df %>%
+  transmute(
+    age_cat,
+    race_cat,
+    segment,
+    date,
+    mpc = sprintf(
+      "%0.2f%% (%0.2f, %0.2f)",
+      round(mpc, 2),
+      round(mpc_lower, 2),
+      round(mpc_upper, 2)
+    ),
+    mpc_pval = round(mpc_pval, 3)
+  ) %>%
+  group_by(age_cat, race_cat, segment) %>%
+  slice(1) %>%
+  ungroup() %>%
+  DT::datatable(
+    rownames = FALSE,
+    colnames = c(
+      "Age Bin",
+      "Race/Ethnicity",
+      "Joinpoint Segment",
+      "Segment Start",
+      "Monthly Percent Change (95% CI)",
+      "MPC P-Value"
+    ),
+    filter = "top"
+  )
+```
+### Table of the overall monthly percent change
+
+Here, I show the average monthly percent change which is the weighted average of all monthly percent changes (with the weights equal the the amount of time in each segment). You can think of this as from Jan 1, 2018 to Dec, 31, 2021, what is the average slope. 
+
+Notably, for the most part the average monthly percent change over the entire time period is more or less ~0% indicating there's no strong secular trend. 
+
+```{r}
+rr_df %>%
+    transmute(
+      age_cat, 
+        race_cat,
+        ampc = sprintf(
+            "%0.2f%% (%0.2f, %0.2f)",
+            round(ampc, 2),
+            round(ampc_lower, 2),
+            round(ampc_upper, 2)
+        ),
+        ampc_pval = round(mpc_pval, 3)
+    ) %>%
+    group_by(age_cat, race_cat) %>%
+    slice(1) %>%
+    ungroup() %>%
+  DT::datatable(
+    rownames = FALSE,
+    colnames = c(
+      "Age Bin",
+      "Race/Ethnicity",
+      "Average Monthly Percent Change (95% CI)",
+      "AMPC P-Value"
+    ),
+    filter = "top"
+  )
+```
+
+## Table S1. Age-standardized mortality rates by race/ethnicity and age group
+
+```{r}
+age_std %>% 
+    transmute(age_cat, 
+              race_cat,
+              date, 
+              all_cause_rate = sprintf("%0.1f (%0.1f, %0.1f)", 
+                                       round(all_cause_rate, 1), 
+                                       round(all_cause_rate - 1.96*all_cause_var, 1), 
+                                       round(all_cause_rate + 1.96*all_cause_var, 1)))  %>%
+    arrange(age_cat, 
+              race_cat,
+              date) %>%
+    DT::datatable(
+        rownames = FALSE,
+        colnames = c(
+            "Age Bin",
+            "Race/Ethnicity",
+            "Month Start",
+            "Observed Rate (95% CI)"
+        ),
+        filter = "top"
+    )
+```
