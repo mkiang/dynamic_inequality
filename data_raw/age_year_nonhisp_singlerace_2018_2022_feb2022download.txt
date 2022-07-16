@@ -1,0 +1,759 @@
+"Notes"	"Single Race 6"	"Single Race 6 Code"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"< 1 year"	"1"	229	31525	726.4
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"1-4 years"	"1-4"	58	130716	44.4
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"5-9 years"	"5-9"	37	171054	21.6
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"10-14 years"	"10-14"	60	177641	33.8
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"15-19 years"	"15-19"	168	178610	94.1
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"20-24 years"	"20-24"	301	184162	163.4
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"25-29 years"	"25-29"	527	200130	263.3
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"30-34 years"	"30-34"	603	170496	353.7
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"35-39 years"	"35-39"	625	156743	398.7
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"40-44 years"	"40-44"	700	140766	497.3
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"45-49 years"	"45-49"	873	144577	603.8
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"50-54 years"	"50-54"	1207	149197	809.0
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"55-59 years"	"55-59"	1621	156860	1033.4
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"60-64 years "	"60-64"	1723	137914	1249.3
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"65-69 years"	"65-69"	1828	106787	1711.8
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"70-74 years"	"70-74"	1807	76293	2368.5
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"75-79 years"	"75-79"	1671	48614	3437.3
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"80-84 years"	"80-84"	1535	29364	5227.5
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"85-89 years"	"85-89"	1159	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"90-94 years"	"90-94"	724	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"95-99 years"	"95-99"	286	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"	"100+ years"	"100+"	48	Not Applicable	Not Applicable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"2018"	"2018"			17790	2417371	735.9
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"< 1 year"	"1"	229	31497	727.1
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"1-4 years"	"1-4"	75	130397	57.5
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"5-9 years"	"5-9"	35	172598	20.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"10-14 years"	"10-14"	52	176829	29.4
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"15-19 years"	"15-19"	193	177333	108.8
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"20-24 years"	"20-24"	309	181686	170.1
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"25-29 years"	"25-29"	483	200776	240.6
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"30-34 years"	"30-34"	643	175046	367.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"35-39 years"	"35-39"	684	159155	429.8
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"40-44 years"	"40-44"	728	142290	511.6
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"45-49 years"	"45-49"	873	142567	612.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"50-54 years"	"50-54"	1205	145125	830.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"55-59 years"	"55-59"	1545	157082	983.6
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"60-64 years "	"60-64"	1777	141109	1259.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"65-69 years"	"65-69"	1878	110613	1697.8
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"70-74 years"	"70-74"	1815	81240	2234.1
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"75-79 years"	"75-79"	1675	51392	3259.3
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"80-84 years"	"80-84"	1595	31257	5102.9
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"85-89 years"	"85-89"	1149	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"90-94 years"	"90-94"	753	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"95-99 years"	"95-99"	289	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	"100+ years"	"100+"	72	Not Applicable	Not Applicable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"			18057	2434908	741.6
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"< 1 year"	"1"	196	28154	696.2
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"1-4 years"	"1-4"	64	119843	53.4
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"5-9 years"	"5-9"	37	165935	22.3
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"10-14 years"	"10-14"	51	175476	29.1
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"15-19 years"	"15-19"	199	175915	113.1
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"20-24 years"	"20-24"	376	181390	207.3
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"25-29 years"	"25-29"	681	197916	344.1
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"30-34 years"	"30-34"	941	181510	518.4
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"35-39 years"	"35-39"	1044	160442	650.7
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"40-44 years"	"40-44"	1040	145650	714.0
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"45-49 years"	"45-49"	1271	140258	906.2
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"50-54 years"	"50-54"	1596	142590	1119.3
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"55-59 years"	"55-59"	2185	155170	1408.1
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"60-64 years "	"60-64"	2510	144543	1736.5
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"65-69 years"	"65-69"	2529	114759	2203.7
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"70-74 years"	"70-74"	2604	86663	3004.7
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"75-79 years"	"75-79"	2378	54076	4397.5
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"80-84 years"	"80-84"	2070	33178	6239.1
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"85-89 years"	"85-89"	1615	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"90-94 years"	"90-94"	905	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"95-99 years"	"95-99"	357	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	"100+ years"	"100+"	76	Not Applicable	Not Applicable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"			24725	2432338	1016.5
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	179	28154	635.8
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	50	119843	41.7
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	28	165935	16.9
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	51	175476	29.1
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	226	175915	128.5
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	452	181390	249.2
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	735	197916	371.4
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	1068	181510	588.4
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	1223	160442	762.3
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	1258	145650	863.7
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	1499	140258	1068.7
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	1770	142590	1241.3
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	2412	155170	1554.4
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	2794	144543	1933.0
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	2692	114759	2345.8
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	2696	86663	3110.9
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	2328	54076	4305.1
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	1978	33178	5961.8
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	1495	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	927	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	309	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	54	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"2021 (provisional)"	"2021"			26225	2432338	1078.2
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	1	28154	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	1	119843	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	1	165935	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	5	175915	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	11	181390	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	30	197916	15.2
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	45	181510	24.8
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	47	160442	29.3
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	38	145650	26.1
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	63	140258	44.9
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	87	142590	61.0
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	116	155170	74.8
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	138	144543	95.5
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	123	114759	107.2
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	117	86663	135.0
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	122	54076	225.6
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	108	33178	325.5
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	69	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	46	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	15	Not Applicable	Not Applicable
+	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	8	Not Applicable	Not Applicable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional and partial)"	"2022"			1191	2432338	49.0
+"Total"	"American Indian or Alaska Native"	"1002-5"					87988	12149293	724.2
+	"Asian"	"A"	"2018"	"2018"	"< 1 year"	"1"	700	182275	384.0
+	"Asian"	"A"	"2018"	"2018"	"1-4 years"	"1-4"	137	810104	16.9
+	"Asian"	"A"	"2018"	"2018"	"5-9 years"	"5-9"	97	1024398	9.5
+	"Asian"	"A"	"2018"	"2018"	"10-14 years"	"10-14"	110	1061466	10.4
+	"Asian"	"A"	"2018"	"2018"	"15-19 years"	"15-19"	260	1097417	23.7
+	"Asian"	"A"	"2018"	"2018"	"20-24 years"	"20-24"	468	1292983	36.2
+	"Asian"	"A"	"2018"	"2018"	"25-29 years"	"25-29"	564	1605360	35.1
+	"Asian"	"A"	"2018"	"2018"	"30-34 years"	"30-34"	655	1634132	40.1
+	"Asian"	"A"	"2018"	"2018"	"35-39 years"	"35-39"	876	1562088	56.1
+	"Asian"	"A"	"2018"	"2018"	"40-44 years"	"40-44"	1057	1437081	73.6
+	"Asian"	"A"	"2018"	"2018"	"45-49 years"	"45-49"	1696	1390607	122.0
+	"Asian"	"A"	"2018"	"2018"	"50-54 years"	"50-54"	2212	1183352	186.9
+	"Asian"	"A"	"2018"	"2018"	"55-59 years"	"55-59"	3279	1091473	300.4
+	"Asian"	"A"	"2018"	"2018"	"60-64 years "	"60-64"	4484	986559	454.5
+	"Asian"	"A"	"2018"	"2018"	"65-69 years"	"65-69"	5676	823758	689.0
+	"Asian"	"A"	"2018"	"2018"	"70-74 years"	"70-74"	6385	599679	1064.7
+	"Asian"	"A"	"2018"	"2018"	"75-79 years"	"75-79"	7693	404835	1900.3
+	"Asian"	"A"	"2018"	"2018"	"80-84 years"	"80-84"	9319	268634	3469.0
+	"Asian"	"A"	"2018"	"2018"	"85-89 years"	"85-89"	10093	Not Applicable	Not Applicable
+	"Asian"	"A"	"2018"	"2018"	"90-94 years"	"90-94"	8081	Not Applicable	Not Applicable
+	"Asian"	"A"	"2018"	"2018"	"95-99 years"	"95-99"	3956	Not Applicable	Not Applicable
+	"Asian"	"A"	"2018"	"2018"	"100+ years"	"100+"	966	Not Applicable	Not Applicable
+	"Asian"	"A"	"2018"	"2018"	"Not Stated"	"NS"	4	Not Applicable	Not Applicable
+"Total"	"Asian"	"A"	"2018"	"2018"			68768	18728675	367.2
+	"Asian"	"A"	"2019"	"2019"	"< 1 year"	"1"	628	175227	358.4
+	"Asian"	"A"	"2019"	"2019"	"1-4 years"	"1-4"	123	784029	15.7
+	"Asian"	"A"	"2019"	"2019"	"5-9 years"	"5-9"	83	1019975	8.1
+	"Asian"	"A"	"2019"	"2019"	"10-14 years"	"10-14"	96	1055572	9.1
+	"Asian"	"A"	"2019"	"2019"	"15-19 years"	"15-19"	266	1107305	24.0
+	"Asian"	"A"	"2019"	"2019"	"20-24 years"	"20-24"	452	1256369	36.0
+	"Asian"	"A"	"2019"	"2019"	"25-29 years"	"25-29"	593	1575091	37.6
+	"Asian"	"A"	"2019"	"2019"	"30-34 years"	"30-34"	730	1661341	43.9
+	"Asian"	"A"	"2019"	"2019"	"35-39 years"	"35-39"	869	1600457	54.3
+	"Asian"	"A"	"2019"	"2019"	"40-44 years"	"40-44"	1074	1445094	74.3
+	"Asian"	"A"	"2019"	"2019"	"45-49 years"	"45-49"	1698	1411300	120.3
+	"Asian"	"A"	"2019"	"2019"	"50-54 years"	"50-54"	2319	1201079	193.1
+	"Asian"	"A"	"2019"	"2019"	"55-59 years"	"55-59"	3285	1117164	294.0
+	"Asian"	"A"	"2019"	"2019"	"60-64 years "	"60-64"	4551	1003002	453.7
+	"Asian"	"A"	"2019"	"2019"	"65-69 years"	"65-69"	5659	848563	666.9
+	"Asian"	"A"	"2019"	"2019"	"70-74 years"	"70-74"	6750	643700	1048.6
+	"Asian"	"A"	"2019"	"2019"	"75-79 years"	"75-79"	7986	426489	1872.5
+	"Asian"	"A"	"2019"	"2019"	"80-84 years"	"80-84"	9439	283340	3331.3
+	"Asian"	"A"	"2019"	"2019"	"85-89 years"	"85-89"	10286	Not Applicable	Not Applicable
+	"Asian"	"A"	"2019"	"2019"	"90-94 years"	"90-94"	8512	Not Applicable	Not Applicable
+	"Asian"	"A"	"2019"	"2019"	"95-99 years"	"95-99"	4067	Not Applicable	Not Applicable
+	"Asian"	"A"	"2019"	"2019"	"100+ years"	"100+"	1064	Not Applicable	Not Applicable
+	"Asian"	"A"	"2019"	"2019"	"Not Stated"	"NS"	2	Not Applicable	Not Applicable
+"Total"	"Asian"	"A"	"2019"	"2019"			70532	18905879	373.1
+	"Asian"	"A"	"2020"	"2020"	"< 1 year"	"1"	514	201653	254.9
+	"Asian"	"A"	"2020"	"2020"	"1-4 years"	"1-4"	111	886849	12.5
+	"Asian"	"A"	"2020"	"2020"	"5-9 years"	"5-9"	72	1135208	6.3
+	"Asian"	"A"	"2020"	"2020"	"10-14 years"	"10-14"	99	1057249	9.4
+	"Asian"	"A"	"2020"	"2020"	"15-19 years"	"15-19"	291	1108791	26.2
+	"Asian"	"A"	"2020"	"2020"	"20-24 years"	"20-24"	538	1237726	43.5
+	"Asian"	"A"	"2020"	"2020"	"25-29 years"	"25-29"	661	1531610	43.2
+	"Asian"	"A"	"2020"	"2020"	"30-34 years"	"30-34"	818	1683958	48.6
+	"Asian"	"A"	"2020"	"2020"	"35-39 years"	"35-39"	1114	1629573	68.4
+	"Asian"	"A"	"2020"	"2020"	"40-44 years"	"40-44"	1390	1464535	94.9
+	"Asian"	"A"	"2020"	"2020"	"45-49 years"	"45-49"	2098	1423370	147.4
+	"Asian"	"A"	"2020"	"2020"	"50-54 years"	"50-54"	2938	1240000	236.9
+	"Asian"	"A"	"2020"	"2020"	"55-59 years"	"55-59"	4129	1125808	366.8
+	"Asian"	"A"	"2020"	"2020"	"60-64 years "	"60-64"	5961	1021363	583.6
+	"Asian"	"A"	"2020"	"2020"	"65-69 years"	"65-69"	7709	869190	886.9
+	"Asian"	"A"	"2020"	"2020"	"70-74 years"	"70-74"	9367	691915	1353.8
+	"Asian"	"A"	"2020"	"2020"	"75-79 years"	"75-79"	10219	448599	2278.0
+	"Asian"	"A"	"2020"	"2020"	"80-84 years"	"80-84"	12228	300460	4069.8
+	"Asian"	"A"	"2020"	"2020"	"85-89 years"	"85-89"	13229	Not Applicable	Not Applicable
+	"Asian"	"A"	"2020"	"2020"	"90-94 years"	"90-94"	10766	Not Applicable	Not Applicable
+	"Asian"	"A"	"2020"	"2020"	"95-99 years"	"95-99"	5469	Not Applicable	Not Applicable
+	"Asian"	"A"	"2020"	"2020"	"100+ years"	"100+"	1453	Not Applicable	Not Applicable
+	"Asian"	"A"	"2020"	"2020"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"Asian"	"A"	"2020"	"2020"			91175	19367197	470.8
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	590	201653	292.6
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	115	886849	13.0
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	88	1135208	7.8
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	99	1057249	9.4
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	280	1108791	25.3
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	607	1237726	49.0
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	722	1531610	47.1
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	925	1683958	54.9
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	1197	1629573	73.5
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	1532	1464535	104.6
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	2200	1423370	154.6
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	3197	1240000	257.8
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	4196	1125808	372.7
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	6030	1021363	590.4
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	7860	869190	904.3
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	9620	691915	1390.3
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	10536	448599	2348.6
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	12200	300460	4060.4
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	12822	Not Applicable	Not Applicable
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	10321	Not Applicable	Not Applicable
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	4957	Not Applicable	Not Applicable
+	"Asian"	"A"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	1329	Not Applicable	Not Applicable
+"Total"	"Asian"	"A"	"2021 (provisional)"	"2021"			91423	19367197	472.1
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	17	201653	Unreliable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	3	886849	Unreliable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	1	1135208	Unreliable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	5	1057249	Unreliable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	8	1108791	Unreliable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	22	1237726	1.8
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	25	1531610	1.6
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	56	1683958	3.3
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	54	1629573	3.3
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	83	1464535	5.7
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	109	1423370	7.7
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	155	1240000	12.5
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	206	1125808	18.3
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	274	1021363	26.8
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	403	869190	46.4
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	523	691915	75.6
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	574	448599	128.0
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	722	300460	240.3
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	833	Not Applicable	Not Applicable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	666	Not Applicable	Not Applicable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	309	Not Applicable	Not Applicable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	108	Not Applicable	Not Applicable
+	"Asian"	"A"	"2022 (provisional and partial)"	"2022"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"Asian"	"A"	"2022 (provisional and partial)"	"2022"			5157	19367197	26.6
+"Total"	"Asian"	"A"					327055	95736145	341.6
+	"Black or African American"	"2054-5"	"2018"	"2018"	"< 1 year"	"1"	6127	528430	1159.5
+	"Black or African American"	"2054-5"	"2018"	"2018"	"1-4 years"	"1-4"	938	2195577	42.7
+	"Black or African American"	"2054-5"	"2018"	"2018"	"5-9 years"	"5-9"	597	2781726	21.5
+	"Black or African American"	"2054-5"	"2018"	"2018"	"10-14 years"	"10-14"	675	2846100	23.7
+	"Black or African American"	"2054-5"	"2018"	"2018"	"15-19 years"	"15-19"	2383	2927001	81.4
+	"Black or African American"	"2054-5"	"2018"	"2018"	"20-24 years"	"20-24"	4440	3127543	142.0
+	"Black or African American"	"2054-5"	"2018"	"2018"	"25-29 years"	"25-29"	5988	3477092	172.2
+	"Black or African American"	"2054-5"	"2018"	"2018"	"30-34 years"	"30-34"	6125	2915530	210.1
+	"Black or African American"	"2054-5"	"2018"	"2018"	"35-39 years"	"35-39"	7315	2767220	264.3
+	"Black or African American"	"2054-5"	"2018"	"2018"	"40-44 years"	"40-44"	8668	2490221	348.1
+	"Black or African American"	"2054-5"	"2018"	"2018"	"45-49 years"	"45-49"	12385	2589420	478.3
+	"Black or African American"	"2054-5"	"2018"	"2018"	"50-54 years"	"50-54"	18497	2591715	713.7
+	"Black or African American"	"2054-5"	"2018"	"2018"	"55-59 years"	"55-59"	28371	2609607	1087.2
+	"Black or African American"	"2054-5"	"2018"	"2018"	"60-64 years "	"60-64"	36596	2284200	1602.1
+	"Black or African American"	"2054-5"	"2018"	"2018"	"65-69 years"	"65-69"	38803	1754604	2211.5
+	"Black or African American"	"2054-5"	"2018"	"2018"	"70-74 years"	"70-74"	35675	1205737	2958.8
+	"Black or African American"	"2054-5"	"2018"	"2018"	"75-79 years"	"75-79"	34070	796677	4276.5
+	"Black or African American"	"2054-5"	"2018"	"2018"	"80-84 years"	"80-84"	32837	513818	6390.8
+	"Black or African American"	"2054-5"	"2018"	"2018"	"85-89 years"	"85-89"	28568	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2018"	"2018"	"90-94 years"	"90-94"	20394	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2018"	"2018"	"95-99 years"	"95-99"	9334	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2018"	"2018"	"100+ years"	"100+"	2609	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2018"	"2018"	"Not Stated"	"NS"	13	Not Applicable	Not Applicable
+"Total"	"Black or African American"	"2054-5"	"2018"	"2018"			341408	40902223	834.7
+	"Black or African American"	"2054-5"	"2019"	"2019"	"< 1 year"	"1"	6092	518590	1174.7
+	"Black or African American"	"2054-5"	"2019"	"2019"	"1-4 years"	"1-4"	901	2165799	41.6
+	"Black or African American"	"2054-5"	"2019"	"2019"	"5-9 years"	"5-9"	603	2776150	21.7
+	"Black or African American"	"2054-5"	"2019"	"2019"	"10-14 years"	"10-14"	653	2856810	22.9
+	"Black or African American"	"2054-5"	"2019"	"2019"	"15-19 years"	"15-19"	2521	2895818	87.1
+	"Black or African American"	"2054-5"	"2019"	"2019"	"20-24 years"	"20-24"	4617	3060213	150.9
+	"Black or African American"	"2054-5"	"2019"	"2019"	"25-29 years"	"25-29"	6003	3493114	171.9
+	"Black or African American"	"2054-5"	"2019"	"2019"	"30-34 years"	"30-34"	6532	3026581	215.8
+	"Black or African American"	"2054-5"	"2019"	"2019"	"35-39 years"	"35-39"	7687	2783964	276.1
+	"Black or African American"	"2054-5"	"2019"	"2019"	"40-44 years"	"40-44"	9029	2533979	356.3
+	"Black or African American"	"2054-5"	"2019"	"2019"	"45-49 years"	"45-49"	12373	2566124	482.2
+	"Black or African American"	"2054-5"	"2019"	"2019"	"50-54 years"	"50-54"	17998	2537690	709.2
+	"Black or African American"	"2054-5"	"2019"	"2019"	"55-59 years"	"55-59"	28170	2612639	1078.2
+	"Black or African American"	"2054-5"	"2019"	"2019"	"60-64 years "	"60-64"	37178	2340884	1588.2
+	"Black or African American"	"2054-5"	"2019"	"2019"	"65-69 years"	"65-69"	39543	1814861	2178.8
+	"Black or African American"	"2054-5"	"2019"	"2019"	"70-74 years"	"70-74"	37261	1285799	2897.9
+	"Black or African American"	"2054-5"	"2019"	"2019"	"75-79 years"	"75-79"	34547	831780	4153.4
+	"Black or African American"	"2054-5"	"2019"	"2019"	"80-84 years"	"80-84"	33555	535153	6270.2
+	"Black or African American"	"2054-5"	"2019"	"2019"	"85-89 years"	"85-89"	28985	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2019"	"2019"	"90-94 years"	"90-94"	20467	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2019"	"2019"	"95-99 years"	"95-99"	9355	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2019"	"2019"	"100+ years"	"100+"	2588	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2019"	"2019"	"Not Stated"	"NS"	19	Not Applicable	Not Applicable
+"Total"	"Black or African American"	"2054-5"	"2019"	"2019"			346677	41147488	842.5
+	"Black or African American"	"2054-5"	"2020"	"2020"	"< 1 year"	"1"	5749	522731	1099.8
+	"Black or African American"	"2054-5"	"2020"	"2020"	"1-4 years"	"1-4"	917	2158900	42.5
+	"Black or African American"	"2054-5"	"2020"	"2020"	"5-9 years"	"5-9"	572	2777908	20.6
+	"Black or African American"	"2054-5"	"2020"	"2020"	"10-14 years"	"10-14"	782	2860425	27.3
+	"Black or African American"	"2054-5"	"2020"	"2020"	"15-19 years"	"15-19"	3298	2854747	115.5
+	"Black or African American"	"2054-5"	"2020"	"2020"	"20-24 years"	"20-24"	6304	3039212	207.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"25-29 years"	"25-29"	8025	3438045	233.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"30-34 years"	"30-34"	9089	3162414	287.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"35-39 years"	"35-39"	9928	2792908	355.5
+	"Black or African American"	"2054-5"	"2020"	"2020"	"40-44 years"	"40-44"	12062	2602941	463.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"45-49 years"	"45-49"	15854	2521896	628.7
+	"Black or African American"	"2054-5"	"2020"	"2020"	"50-54 years"	"50-54"	22540	2520576	894.2
+	"Black or African American"	"2054-5"	"2020"	"2020"	"55-59 years"	"55-59"	34751	2597447	1337.9
+	"Black or African American"	"2054-5"	"2020"	"2020"	"60-64 years "	"60-64"	47551	2392646	1987.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"65-69 years"	"65-69"	52130	1875220	2779.9
+	"Black or African American"	"2054-5"	"2020"	"2020"	"70-74 years"	"70-74"	51243	1371154	3737.2
+	"Black or African American"	"2054-5"	"2020"	"2020"	"75-79 years"	"75-79"	46068	862143	5343.4
+	"Black or African American"	"2054-5"	"2020"	"2020"	"80-84 years"	"80-84"	43217	551363	7838.2
+	"Black or African American"	"2054-5"	"2020"	"2020"	"85-89 years"	"85-89"	37583	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2020"	"2020"	"90-94 years"	"90-94"	26009	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2020"	"2020"	"95-99 years"	"95-99"	12039	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2020"	"2020"	"100+ years"	"100+"	3490	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2020"	"2020"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+"Total"	"Black or African American"	"2054-5"	"2020"	"2020"			449213	41427341	1084.3
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	5328	522731	1019.3
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	1001	2158900	46.4
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	629	2777908	22.6
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	825	2860425	28.8
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	3636	2854747	127.4
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	6325	3039212	208.1
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	8583	3438045	249.6
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	10354	3162414	327.4
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	11361	2792908	406.8
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	13835	2602941	531.5
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	16864	2521896	668.7
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	24077	2520576	955.2
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	35399	2597447	1362.8
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	47748	2392646	1995.6
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	51884	1875220	2766.8
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	51097	1371154	3726.6
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	42683	862143	4950.8
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	39284	551363	7124.9
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	32977	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	22217	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	10125	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	2928	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"	"Not Stated"	"NS"	8	Not Applicable	Not Applicable
+"Total"	"Black or African American"	"2054-5"	"2021 (provisional)"	"2021"			439168	41427341	1060.1
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	140	522731	26.8
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	32	2158900	1.5
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	24	2777908	0.9
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	28	2860425	1.0
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	93	2854747	3.3
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	199	3039212	6.5
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	306	3438045	8.9
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	362	3162414	11.4
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	425	2792908	15.2
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	516	2602941	19.8
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	702	2521896	27.8
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	951	2520576	37.7
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	1445	2597447	55.6
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	2089	2392646	87.3
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	2317	1875220	123.6
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	2399	1371154	175.0
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	2127	862143	246.7
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	2022	551363	366.7
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	1704	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	1236	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	587	Not Applicable	Not Applicable
+	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	193	Not Applicable	Not Applicable
+"Total"	"Black or African American"	"2054-5"	"2022 (provisional and partial)"	"2022"			19897	41427341	48.0
+"Total"	"Black or African American"	"2054-5"					1596363	206331734	773.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"< 1 year"	"1"	79	7856	1005.6
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"1-4 years"	"1-4"	10	32818	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"5-9 years"	"5-9"	8	40354	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"10-14 years"	"10-14"	8	41889	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"15-19 years"	"15-19"	23	40969	56.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"20-24 years"	"20-24"	56	43835	127.8
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"25-29 years"	"25-29"	65	51313	126.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"30-34 years"	"30-34"	75	50670	148.0
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"35-39 years"	"35-39"	91	47615	191.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"40-44 years"	"40-44"	109	39421	276.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"45-49 years"	"45-49"	163	36989	440.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"50-54 years"	"50-54"	250	34697	720.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"55-59 years"	"55-59"	295	33467	881.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"60-64 years "	"60-64"	362	27659	1308.8
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"65-69 years"	"65-69"	373	21656	1722.4
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"70-74 years"	"70-74"	369	15153	2435.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"75-79 years"	"75-79"	317	9142	3467.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"80-84 years"	"80-84"	287	5655	5075.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"85-89 years"	"85-89"	171	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"90-94 years"	"90-94"	120	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"95-99 years"	"95-99"	38	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"	"100+ years"	"100+"	8	Not Applicable	Not Applicable
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2018"	"2018"			3277	586346	558.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"< 1 year"	"1"	71	7621	931.6
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"1-4 years"	"1-4"	11	32464	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"5-9 years"	"5-9"	8	40058	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"10-14 years"	"10-14"	10	42183	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"15-19 years"	"15-19"	37	41462	89.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"20-24 years"	"20-24"	55	43020	127.8
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"25-29 years"	"25-29"	71	50839	139.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"30-34 years"	"30-34"	106	52049	203.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"35-39 years"	"35-39"	131	49305	265.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"40-44 years"	"40-44"	129	40787	316.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"45-49 years"	"45-49"	185	37302	496.0
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"50-54 years"	"50-54"	229	35062	653.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"55-59 years"	"55-59"	277	34337	806.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"60-64 years "	"60-64"	376	28962	1298.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"65-69 years"	"65-69"	424	22369	1895.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"70-74 years"	"70-74"	418	16508	2532.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"75-79 years"	"75-79"	297	9873	3008.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"80-84 years"	"80-84"	282	6046	4664.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"85-89 years"	"85-89"	208	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"90-94 years"	"90-94"	120	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"95-99 years"	"95-99"	36	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	"100+ years"	"100+"	10	Not Applicable	Not Applicable
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"			3491	595908	585.8
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"< 1 year"	"1"	67	8467	791.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"1-4 years"	"1-4"	15	35791	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"5-9 years"	"5-9"	8	43795	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"10-14 years"	"10-14"	12	42224	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"15-19 years"	"15-19"	21	41807	50.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"20-24 years"	"20-24"	61	42916	142.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"25-29 years"	"25-29"	97	49711	195.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"30-34 years"	"30-34"	123	53354	230.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"35-39 years"	"35-39"	127	50031	253.8
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"40-44 years"	"40-44"	184	42796	429.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"45-49 years"	"45-49"	262	37629	696.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"50-54 years"	"50-54"	313	35693	876.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"55-59 years"	"55-59"	393	34819	1128.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"60-64 years "	"60-64"	510	30138	1692.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"65-69 years"	"65-69"	540	23285	2319.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"70-74 years"	"70-74"	476	17732	2684.4
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"75-79 years"	"75-79"	392	10694	3665.6
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"80-84 years"	"80-84"	358	6515	5495.0
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"85-89 years"	"85-89"	287	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"90-94 years"	"90-94"	152	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"95-99 years"	"95-99"	36	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	"100+ years"	"100+"	5	Not Applicable	Not Applicable
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"			4439	613507	723.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	66	8467	779.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	15	35791	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	7	43795	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	6	42224	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	36	41807	86.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	86	42916	200.4
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	107	49711	215.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	152	53354	284.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	209	50031	417.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	262	42796	612.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	332	37629	882.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	421	35693	1179.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	485	34819	1392.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	543	30138	1801.7
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	567	23285	2435.0
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	584	17732	3293.5
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	430	10694	4020.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	384	6515	5894.1
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	300	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	143	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	39	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	6	Not Applicable	Not Applicable
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021 (provisional)"	"2021"			5180	613507	844.3
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	5	8467	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	1	43795	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	1	42224	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	1	41807	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	4	42916	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	1	49711	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	6	53354	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	10	50031	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	10	42796	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	14	37629	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	22	35693	61.6
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	19	34819	Unreliable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	28	30138	92.9
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	34	23285	146.0
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	26	17732	146.6
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	29	10694	271.2
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	27	6515	414.4
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	16	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	5	Not Applicable	Not Applicable
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	6	Not Applicable	Not Applicable
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional and partial)"	"2022"			265	613507	43.2
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"					16652	3022775	550.9
+	"White"	"2106-3"	"2018"	"2018"	"< 1 year"	"1"	8893	1901862	467.6
+	"White"	"2106-3"	"2018"	"2018"	"1-4 years"	"1-4"	1767	7864666	22.5
+	"White"	"2106-3"	"2018"	"2018"	"5-9 years"	"5-9"	1042	9993820	10.4
+	"White"	"2106-3"	"2018"	"2018"	"10-14 years"	"10-14"	1529	10614714	14.4
+	"White"	"2106-3"	"2018"	"2018"	"15-19 years"	"15-19"	5284	11142697	47.4
+	"White"	"2106-3"	"2018"	"2018"	"20-24 years"	"20-24"	10408	11730085	88.7
+	"White"	"2106-3"	"2018"	"2018"	"25-29 years"	"25-29"	15571	12793828	121.7
+	"White"	"2106-3"	"2018"	"2018"	"30-34 years"	"30-34"	19158	12392215	154.6
+	"White"	"2106-3"	"2018"	"2018"	"35-39 years"	"35-39"	22987	12184509	188.7
+	"White"	"2106-3"	"2018"	"2018"	"40-44 years"	"40-44"	25797	11201675	230.3
+	"White"	"2106-3"	"2018"	"2018"	"45-49 years"	"45-49"	41140	12552736	327.7
+	"White"	"2106-3"	"2018"	"2018"	"50-54 years"	"50-54"	66034	13424380	491.9
+	"White"	"2106-3"	"2018"	"2018"	"55-59 years"	"55-59"	111809	15067528	742.1
+	"White"	"2106-3"	"2018"	"2018"	"60-64 years "	"60-64"	152583	14557417	1048.1
+	"White"	"2106-3"	"2018"	"2018"	"65-69 years"	"65-69"	185381	12666029	1463.6
+	"White"	"2106-3"	"2018"	"2018"	"70-74 years"	"70-74"	227734	10285916	2214.0
+	"White"	"2106-3"	"2018"	"2018"	"75-79 years"	"75-79"	256539	7199125	3563.5
+	"White"	"2106-3"	"2018"	"2018"	"80-84 years"	"80-84"	285738	4772053	5987.7
+	"White"	"2106-3"	"2018"	"2018"	"85-89 years"	"85-89"	321177	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2018"	"2018"	"90-94 years"	"90-94"	273065	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2018"	"2018"	"95-99 years"	"95-99"	123927	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2018"	"2018"	"100+ years"	"100+"	24942	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2018"	"2018"	"Not Stated"	"NS"	47	Not Applicable	Not Applicable
+"Total"	"White"	"2106-3"	"2018"	"2018"			2182552	197546407	1104.8
+	"White"	"2106-3"	"2019"	"2019"	"< 1 year"	"1"	8366	1881774	444.6
+	"White"	"2106-3"	"2019"	"2019"	"1-4 years"	"1-4"	1637	7815471	20.9
+	"White"	"2106-3"	"2019"	"2019"	"5-9 years"	"5-9"	1023	10011063	10.2
+	"White"	"2106-3"	"2019"	"2019"	"10-14 years"	"10-14"	1602	10460991	15.3
+	"White"	"2106-3"	"2019"	"2019"	"15-19 years"	"15-19"	4804	11038241	43.5
+	"White"	"2106-3"	"2019"	"2019"	"20-24 years"	"20-24"	9831	11574506	84.9
+	"White"	"2106-3"	"2019"	"2019"	"25-29 years"	"25-29"	14891	12665969	117.6
+	"White"	"2106-3"	"2019"	"2019"	"30-34 years"	"30-34"	18954	12488443	151.8
+	"White"	"2106-3"	"2019"	"2019"	"35-39 years"	"35-39"	23262	12257885	189.8
+	"White"	"2106-3"	"2019"	"2019"	"40-44 years"	"40-44"	26437	11304550	233.9
+	"White"	"2106-3"	"2019"	"2019"	"45-49 years"	"45-49"	39550	12149412	325.5
+	"White"	"2106-3"	"2019"	"2019"	"50-54 years"	"50-54"	63202	13007754	485.9
+	"White"	"2106-3"	"2019"	"2019"	"55-59 years"	"55-59"	109203	14872649	734.3
+	"White"	"2106-3"	"2019"	"2019"	"60-64 years "	"60-64"	153957	14624720	1052.7
+	"White"	"2106-3"	"2019"	"2019"	"65-69 years"	"65-69"	186949	12863198	1453.4
+	"White"	"2106-3"	"2019"	"2019"	"70-74 years"	"70-74"	233429	10706123	2180.3
+	"White"	"2106-3"	"2019"	"2019"	"75-79 years"	"75-79"	262995	7480246	3515.9
+	"White"	"2106-3"	"2019"	"2019"	"80-84 years"	"80-84"	289722	4889393	5925.5
+	"White"	"2106-3"	"2019"	"2019"	"85-89 years"	"85-89"	314246	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2019"	"2019"	"90-94 years"	"90-94"	269199	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2019"	"2019"	"95-99 years"	"95-99"	125192	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2019"	"2019"	"100+ years"	"100+"	25341	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2019"	"2019"	"Not Stated"	"NS"	52	Not Applicable	Not Applicable
+"Total"	"White"	"2106-3"	"2019"	"2019"			2183844	197309822	1106.8
+	"White"	"2106-3"	"2020"	"2020"	"< 1 year"	"1"	7909	1806934	437.7
+	"White"	"2106-3"	"2020"	"2020"	"1-4 years"	"1-4"	1553	7540986	20.6
+	"White"	"2106-3"	"2020"	"2020"	"5-9 years"	"5-9"	986	9959335	9.9
+	"White"	"2106-3"	"2020"	"2020"	"10-14 years"	"10-14"	1600	10342236	15.5
+	"White"	"2106-3"	"2020"	"2020"	"15-19 years"	"15-19"	5392	10897824	49.5
+	"White"	"2106-3"	"2020"	"2020"	"20-24 years"	"20-24"	10862	11494014	94.5
+	"White"	"2106-3"	"2020"	"2020"	"25-29 years"	"25-29"	16764	12443335	134.7
+	"White"	"2106-3"	"2020"	"2020"	"30-34 years"	"30-34"	22643	12623723	179.4
+	"White"	"2106-3"	"2020"	"2020"	"35-39 years"	"35-39"	27423	12296527	223.0
+	"White"	"2106-3"	"2020"	"2020"	"40-44 years"	"40-44"	31615	11498214	275.0
+	"White"	"2106-3"	"2020"	"2020"	"45-49 years"	"45-49"	43758	11708316	373.7
+	"White"	"2106-3"	"2020"	"2020"	"50-54 years"	"50-54"	69772	12824273	544.1
+	"White"	"2106-3"	"2020"	"2020"	"55-59 years"	"55-59"	118063	14528254	812.6
+	"White"	"2106-3"	"2020"	"2020"	"60-64 years "	"60-64"	172354	14671824	1174.7
+	"White"	"2106-3"	"2020"	"2020"	"65-69 years"	"65-69"	212642	13103149	1622.8
+	"White"	"2106-3"	"2020"	"2020"	"70-74 years"	"70-74"	271738	11133708	2440.7
+	"White"	"2106-3"	"2020"	"2020"	"75-79 years"	"75-79"	306544	7714273	3973.7
+	"White"	"2106-3"	"2020"	"2020"	"80-84 years"	"80-84"	331924	4977652	6668.3
+	"White"	"2106-3"	"2020"	"2020"	"85-89 years"	"85-89"	354128	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2020"	"2020"	"90-94 years"	"90-94"	303753	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2020"	"2020"	"95-99 years"	"95-99"	143176	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2020"	"2020"	"100+ years"	"100+"	29430	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2020"	"2020"	"Not Stated"	"NS"	43	Not Applicable	Not Applicable
+"Total"	"White"	"2106-3"	"2020"	"2020"			2484072	196773390	1262.4
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	7627	1806934	422.1
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	1572	7540986	20.8
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	1016	9959335	10.2
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	1575	10342236	15.2
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	5697	10897824	52.3
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	11054	11494014	96.2
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	17083	12443335	137.3
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	24829	12623723	196.7
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	31044	12296527	252.5
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	37811	11498214	328.8
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	48540	11708316	414.6
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	78730	12824273	613.9
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	126674	14528254	871.9
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	188845	14671824	1287.1
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	231097	13103149	1763.7
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	291480	11133708	2618.0
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	315772	7714273	4093.3
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	330384	4977652	6637.3
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	333350	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	278115	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	129143	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	26807	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2021 (provisional)"	"2021"	"Not Stated"	"NS"	40	Not Applicable	Not Applicable
+"Total"	"White"	"2106-3"	"2021 (provisional)"	"2021"			2518285	196773390	1279.8
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	240	1806934	13.3
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	48	7540986	0.6
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	32	9959335	0.3
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	42	10342236	0.4
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	201	10897824	1.8
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	423	11494014	3.7
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	678	12443335	5.4
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	1082	12623723	8.6
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	1357	12296527	11.0
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	1824	11498214	15.9
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	2283	11708316	19.5
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	3923	12824273	30.6
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	6589	14528254	45.4
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	10049	14671824	68.5
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	12853	13103149	98.1
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	15982	11133708	143.5
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	18531	7714273	240.2
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	19605	4977652	393.9
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	19944	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	16536	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	8069	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	1702	Not Applicable	Not Applicable
+	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"	"Not Stated"	"NS"	3	Not Applicable	Not Applicable
+"Total"	"White"	"2106-3"	"2022 (provisional and partial)"	"2022"			141996	196773390	72.2
+"Total"	"White"	"2106-3"					9510749	985176399	965.4
+	"More than one race"	"M"	"2018"	"2018"	"< 1 year"	"1"	733	188683	388.5
+	"More than one race"	"M"	"2018"	"2018"	"1-4 years"	"1-4"	112	763790	14.7
+	"More than one race"	"M"	"2018"	"2018"	"5-9 years"	"5-9"	78	927883	8.4
+	"More than one race"	"M"	"2018"	"2018"	"10-14 years"	"10-14"	75	858969	8.7
+	"More than one race"	"M"	"2018"	"2018"	"15-19 years"	"15-19"	212	735443	28.8
+	"More than one race"	"M"	"2018"	"2018"	"20-24 years"	"20-24"	345	655799	52.6
+	"More than one race"	"M"	"2018"	"2018"	"25-29 years"	"25-29"	418	556658	75.1
+	"More than one race"	"M"	"2018"	"2018"	"30-34 years"	"30-34"	335	421184	79.5
+	"More than one race"	"M"	"2018"	"2018"	"35-39 years"	"35-39"	416	366630	113.5
+	"More than one race"	"M"	"2018"	"2018"	"40-44 years"	"40-44"	387	296807	130.4
+	"More than one race"	"M"	"2018"	"2018"	"45-49 years"	"45-49"	459	271889	168.8
+	"More than one race"	"M"	"2018"	"2018"	"50-54 years"	"50-54"	631	236575	266.7
+	"More than one race"	"M"	"2018"	"2018"	"55-59 years"	"55-59"	951	232251	409.5
+	"More than one race"	"M"	"2018"	"2018"	"60-64 years "	"60-64"	1061	197268	537.8
+	"More than one race"	"M"	"2018"	"2018"	"65-69 years"	"65-69"	1105	148029	746.5
+	"More than one race"	"M"	"2018"	"2018"	"70-74 years"	"70-74"	1203	105991	1135.0
+	"More than one race"	"M"	"2018"	"2018"	"75-79 years"	"75-79"	1157	67898	1704.0
+	"More than one race"	"M"	"2018"	"2018"	"80-84 years"	"80-84"	1078	42185	2555.4
+	"More than one race"	"M"	"2018"	"2018"	"85-89 years"	"85-89"	961	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2018"	"2018"	"90-94 years"	"90-94"	663	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2018"	"2018"	"95-99 years"	"95-99"	270	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2018"	"2018"	"100+ years"	"100+"	54	Not Applicable	Not Applicable
+"Total"	"More than one race"	"M"	"2018"	"2018"			12704	7114666	178.6
+	"More than one race"	"M"	"2019"	"2019"	"< 1 year"	"1"	723	184864	391.1
+	"More than one race"	"M"	"2019"	"2019"	"1-4 years"	"1-4"	147	754739	19.5
+	"More than one race"	"M"	"2019"	"2019"	"5-9 years"	"5-9"	69	932226	7.4
+	"More than one race"	"M"	"2019"	"2019"	"10-14 years"	"10-14"	73	882122	8.3
+	"More than one race"	"M"	"2019"	"2019"	"15-19 years"	"15-19"	232	754363	30.8
+	"More than one race"	"M"	"2019"	"2019"	"20-24 years"	"20-24"	357	672604	53.1
+	"More than one race"	"M"	"2019"	"2019"	"25-29 years"	"25-29"	391	584149	66.9
+	"More than one race"	"M"	"2019"	"2019"	"30-34 years"	"30-34"	383	441660	86.7
+	"More than one race"	"M"	"2019"	"2019"	"35-39 years"	"35-39"	390	376828	103.5
+	"More than one race"	"M"	"2019"	"2019"	"40-44 years"	"40-44"	425	308365	137.8
+	"More than one race"	"M"	"2019"	"2019"	"45-49 years"	"45-49"	504	275317	183.1
+	"More than one race"	"M"	"2019"	"2019"	"50-54 years"	"50-54"	632	237962	265.6
+	"More than one race"	"M"	"2019"	"2019"	"55-59 years"	"55-59"	952	234946	405.2
+	"More than one race"	"M"	"2019"	"2019"	"60-64 years "	"60-64"	1109	204115	543.3
+	"More than one race"	"M"	"2019"	"2019"	"65-69 years"	"65-69"	1091	155063	703.6
+	"More than one race"	"M"	"2019"	"2019"	"70-74 years"	"70-74"	1185	113277	1046.1
+	"More than one race"	"M"	"2019"	"2019"	"75-79 years"	"75-79"	1151	72571	1586.0
+	"More than one race"	"M"	"2019"	"2019"	"80-84 years"	"80-84"	1099	44581	2465.2
+	"More than one race"	"M"	"2019"	"2019"	"85-89 years"	"85-89"	998	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2019"	"2019"	"90-94 years"	"90-94"	675	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2019"	"2019"	"95-99 years"	"95-99"	263	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2019"	"2019"	"100+ years"	"100+"	48	Not Applicable	Not Applicable
+"Total"	"More than one race"	"M"	"2019"	"2019"			12897	7273281	177.3
+	"More than one race"	"M"	"2020"	"2020"	"< 1 year"	"1"	708	196690	360.0
+	"More than one race"	"M"	"2020"	"2020"	"1-4 years"	"1-4"	122	794493	15.4
+	"More than one race"	"M"	"2020"	"2020"	"5-9 years"	"5-9"	66	983060	6.7
+	"More than one race"	"M"	"2020"	"2020"	"10-14 years"	"10-14"	92	908111	10.1
+	"More than one race"	"M"	"2020"	"2020"	"15-19 years"	"15-19"	252	775419	32.5
+	"More than one race"	"M"	"2020"	"2020"	"20-24 years"	"20-24"	456	692210	65.9
+	"More than one race"	"M"	"2020"	"2020"	"25-29 years"	"25-29"	561	608484	92.2
+	"More than one race"	"M"	"2020"	"2020"	"30-34 years"	"30-34"	539	468263	115.1
+	"More than one race"	"M"	"2020"	"2020"	"35-39 years"	"35-39"	530	385424	137.5
+	"More than one race"	"M"	"2020"	"2020"	"40-44 years"	"40-44"	505	324261	155.7
+	"More than one race"	"M"	"2020"	"2020"	"45-49 years"	"45-49"	628	276936	226.8
+	"More than one race"	"M"	"2020"	"2020"	"50-54 years"	"50-54"	779	244364	318.8
+	"More than one race"	"M"	"2020"	"2020"	"55-59 years"	"55-59"	1081	234936	460.1
+	"More than one race"	"M"	"2020"	"2020"	"60-64 years "	"60-64"	1343	210801	637.1
+	"More than one race"	"M"	"2020"	"2020"	"65-69 years"	"65-69"	1384	162997	849.1
+	"More than one race"	"M"	"2020"	"2020"	"70-74 years"	"70-74"	1471	121040	1215.3
+	"More than one race"	"M"	"2020"	"2020"	"75-79 years"	"75-79"	1369	76895	1780.3
+	"More than one race"	"M"	"2020"	"2020"	"80-84 years"	"80-84"	1290	47233	2731.1
+	"More than one race"	"M"	"2020"	"2020"	"85-89 years"	"85-89"	1145	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2020"	"2020"	"90-94 years"	"90-94"	836	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2020"	"2020"	"95-99 years"	"95-99"	296	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2020"	"2020"	"100+ years"	"100+"	70	Not Applicable	Not Applicable
+"Total"	"More than one race"	"M"	"2020"	"2020"			15523	7557471	205.4
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"< 1 year"	"1"	736	196690	374.2
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	129	794493	16.2
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	66	983060	6.7
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	103	908111	11.3
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	317	775419	40.9
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	513	692210	74.1
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	562	608484	92.4
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	616	468263	131.6
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	621	385424	161.1
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	698	324261	215.3
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	752	276936	271.5
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	933	244364	381.8
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	1163	234936	495.0
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	1507	210801	714.9
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	1617	162997	992.0
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	1539	121040	1271.5
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	1510	76895	1963.7
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	1324	47233	2803.1
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	1145	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	835	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	366	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2021 (provisional)"	"2021"	"100+ years"	"100+"	83	Not Applicable	Not Applicable
+"Total"	"More than one race"	"M"	"2021 (provisional)"	"2021"			17135	7557471	226.7
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	20	196690	10.2
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	5	794493	Unreliable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	2	983060	Unreliable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	2	908111	Unreliable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	10	775419	Unreliable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	23	692210	3.3
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	25	608484	4.1
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	31	468263	6.6
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	30	385424	7.8
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	26	324261	8.0
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	35	276936	12.6
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	45	244364	18.4
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	62	234936	26.4
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	75	210801	35.6
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	93	162997	57.1
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	80	121040	66.1
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	84	76895	109.2
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	86	47233	182.1
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	60	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	50	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	14	Not Applicable	Not Applicable
+	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	8	Not Applicable	Not Applicable
+"Total"	"More than one race"	"M"	"2022 (provisional and partial)"	"2022"			866	7557471	11.5
+"Total"	"More than one race"	"M"					59125	37060360	159.5
+"Total"							11597932	1339476706	865.9
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Hispanic Origin: Not Hispanic or Latino"
+"Group By: Single Race 6; Year; Five-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Feb 17, 2022 7:48:29 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Provisional Multiple"
+"Cause of Death on CDC WONDER Online Database, released 2021. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2020-2021, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Feb 17, 2022 7:48:29"
+"PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Racial Differences."
+"6. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"8. Deaths occurring through January 22,2022 as of February 06,2022."

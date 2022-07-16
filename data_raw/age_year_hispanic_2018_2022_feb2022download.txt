@@ -1,0 +1,171 @@
+"Notes"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"< 1 year"	"1"	4487	1007577	445.3
+	"2018"	"2018"	"1-4 years"	"1-4"	794	4164396	19.1
+	"2018"	"2018"	"5-9 years"	"5-9"	461	5256407	8.8
+	"2018"	"2018"	"10-14 years"	"10-14"	656	5278748	12.4
+	"2018"	"2018"	"15-19 years"	"15-19"	2033	4975084	40.9
+	"2018"	"2018"	"20-24 years"	"20-24"	3707	4839172	76.6
+	"2018"	"2018"	"25-29 years"	"25-29"	4266	4877375	87.5
+	"2018"	"2018"	"30-34 years"	"30-34"	4345	4551791	95.5
+	"2018"	"2018"	"35-39 years"	"35-39"	5225	4478782	116.7
+	"2018"	"2018"	"40-44 years"	"40-44"	5905	4108330	143.7
+	"2018"	"2018"	"45-49 years"	"45-49"	7915	3760917	210.5
+	"2018"	"2018"	"50-54 years"	"50-54"	10742	3264648	329.0
+	"2018"	"2018"	"55-59 years"	"55-59"	13920	2749799	506.2
+	"2018"	"2018"	"60-64 years "	"60-64"	16087	2140634	751.5
+	"2018"	"2018"	"65-69 years"	"65-69"	17054	1566030	1089.0
+	"2018"	"2018"	"70-74 years"	"70-74"	18379	1116654	1645.9
+	"2018"	"2018"	"75-79 years"	"75-79"	19433	740775	2623.3
+	"2018"	"2018"	"80-84 years"	"80-84"	21971	495599	4433.2
+	"2018"	"2018"	"85-89 years"	"85-89"	22370	Not Applicable	Not Applicable
+	"2018"	"2018"	"90-94 years"	"90-94"	16541	Not Applicable	Not Applicable
+	"2018"	"2018"	"95-99 years"	"95-99"	6838	Not Applicable	Not Applicable
+	"2018"	"2018"	"100+ years"	"100+"	1578	Not Applicable	Not Applicable
+	"2018"	"2018"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+"Total"	"2018"	"2018"			204719	59871746	341.9
+	"2019"	"2019"	"< 1 year"	"1"	4607	983479	468.4
+	"2019"	"2019"	"1-4 years"	"1-4"	772	4110732	18.8
+	"2019"	"2019"	"5-9 years"	"5-9"	510	5243825	9.7
+	"2019"	"2019"	"10-14 years"	"10-14"	671	5323761	12.6
+	"2019"	"2019"	"15-19 years"	"15-19"	2188	5040048	43.4
+	"2019"	"2019"	"20-24 years"	"20-24"	3866	4844542	79.8
+	"2019"	"2019"	"25-29 years"	"25-29"	4486	4939078	90.8
+	"2019"	"2019"	"30-34 years"	"30-34"	4783	4586185	104.3
+	"2019"	"2019"	"35-39 years"	"35-39"	5528	4509927	122.6
+	"2019"	"2019"	"40-44 years"	"40-44"	6401	4146558	154.4
+	"2019"	"2019"	"45-49 years"	"45-49"	8330	3815729	218.3
+	"2019"	"2019"	"50-54 years"	"50-54"	10732	3312479	324.0
+	"2019"	"2019"	"55-59 years"	"55-59"	14362	2848574	504.2
+	"2019"	"2019"	"60-64 years "	"60-64"	16680	2228354	748.5
+	"2019"	"2019"	"65-69 years"	"65-69"	17925	1640334	1092.8
+	"2019"	"2019"	"70-74 years"	"70-74"	19412	1181785	1642.6
+	"2019"	"2019"	"75-79 years"	"75-79"	20145	780314	2581.7
+	"2019"	"2019"	"80-84 years"	"80-84"	22230	527437	4214.7
+	"2019"	"2019"	"85-89 years"	"85-89"	22572	Not Applicable	Not Applicable
+	"2019"	"2019"	"90-94 years"	"90-94"	17353	Not Applicable	Not Applicable
+	"2019"	"2019"	"95-99 years"	"95-99"	7260	Not Applicable	Not Applicable
+	"2019"	"2019"	"100+ years"	"100+"	1574	Not Applicable	Not Applicable
+	"2019"	"2019"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+"Total"	"2019"	"2019"			212397	60572237	350.7
+	"2020"	"2020"	"< 1 year"	"1"	4238	970381	436.7
+	"2020"	"2020"	"1-4 years"	"1-4"	742	4029420	18.4
+	"2020"	"2020"	"5-9 years"	"5-9"	468	5172470	9.0
+	"2020"	"2020"	"10-14 years"	"10-14"	772	5368702	14.4
+	"2020"	"2020"	"15-19 years"	"15-19"	2803	5106426	54.9
+	"2020"	"2020"	"20-24 years"	"20-24"	4906	4907287	100.0
+	"2020"	"2020"	"25-29 years"	"25-29"	5844	4962142	117.8
+	"2020"	"2020"	"30-34 years"	"30-34"	6559	4665181	140.6
+	"2020"	"2020"	"35-39 years"	"35-39"	7793	4513399	172.7
+	"2020"	"2020"	"40-44 years"	"40-44"	9459	4229491	223.6
+	"2020"	"2020"	"45-49 years"	"45-49"	12327	3862201	319.2
+	"2020"	"2020"	"50-54 years"	"50-54"	16325	3388031	481.8
+	"2020"	"2020"	"55-59 years"	"55-59"	21864	2926665	747.1
+	"2020"	"2020"	"60-64 years "	"60-64"	26035	2329263	1117.7
+	"2020"	"2020"	"65-69 years"	"65-69"	28266	1725067	1638.5
+	"2020"	"2020"	"70-74 years"	"70-74"	29973	1253519	2391.1
+	"2020"	"2020"	"75-79 years"	"75-79"	30243	820153	3687.5
+	"2020"	"2020"	"80-84 years"	"80-84"	31988	548313	5833.9
+	"2020"	"2020"	"85-89 years"	"85-89"	30562	Not Applicable	Not Applicable
+	"2020"	"2020"	"90-94 years"	"90-94"	22812	Not Applicable	Not Applicable
+	"2020"	"2020"	"95-99 years"	"95-99"	9664	Not Applicable	Not Applicable
+	"2020"	"2020"	"100+ years"	"100+"	2054	Not Applicable	Not Applicable
+	"2020"	"2020"	"Not Stated"	"NS"	11	Not Applicable	Not Applicable
+"Total"	"2020"	"2020"			305708	61312879	498.6
+	"2021 (provisional)"	"2021"	"< 1 year"	"1"	4327	970381	445.9
+	"2021 (provisional)"	"2021"	"1-4 years"	"1-4"	787	4029420	19.5
+	"2021 (provisional)"	"2021"	"5-9 years"	"5-9"	506	5172470	9.8
+	"2021 (provisional)"	"2021"	"10-14 years"	"10-14"	816	5368702	15.2
+	"2021 (provisional)"	"2021"	"15-19 years"	"15-19"	2927	5106426	57.3
+	"2021 (provisional)"	"2021"	"20-24 years"	"20-24"	5367	4907287	109.4
+	"2021 (provisional)"	"2021"	"25-29 years"	"25-29"	6644	4962142	133.9
+	"2021 (provisional)"	"2021"	"30-34 years"	"30-34"	8064	4665181	172.9
+	"2021 (provisional)"	"2021"	"35-39 years"	"35-39"	9400	4513399	208.3
+	"2021 (provisional)"	"2021"	"40-44 years"	"40-44"	11585	4229491	273.9
+	"2021 (provisional)"	"2021"	"45-49 years"	"45-49"	14164	3862201	366.7
+	"2021 (provisional)"	"2021"	"50-54 years"	"50-54"	18094	3388031	534.1
+	"2021 (provisional)"	"2021"	"55-59 years"	"55-59"	23367	2926665	798.4
+	"2021 (provisional)"	"2021"	"60-64 years "	"60-64"	27735	2329263	1190.7
+	"2021 (provisional)"	"2021"	"65-69 years"	"65-69"	29255	1725067	1695.9
+	"2021 (provisional)"	"2021"	"70-74 years"	"70-74"	30013	1253519	2394.3
+	"2021 (provisional)"	"2021"	"75-79 years"	"75-79"	29720	820153	3623.7
+	"2021 (provisional)"	"2021"	"80-84 years"	"80-84"	29905	548313	5454.0
+	"2021 (provisional)"	"2021"	"85-89 years"	"85-89"	28086	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"90-94 years"	"90-94"	21003	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"95-99 years"	"95-99"	9031	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"100+ years"	"100+"	1982	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"2021 (provisional)"	"2021"			312779	61312879	510.1
+	"2022 (provisional and partial)"	"2022"	"< 1 year"	"1"	128	970381	13.2
+	"2022 (provisional and partial)"	"2022"	"1-4 years"	"1-4"	22	4029420	0.5
+	"2022 (provisional and partial)"	"2022"	"5-9 years"	"5-9"	19	5172470	Unreliable
+	"2022 (provisional and partial)"	"2022"	"10-14 years"	"10-14"	33	5368702	0.6
+	"2022 (provisional and partial)"	"2022"	"15-19 years"	"15-19"	90	5106426	1.8
+	"2022 (provisional and partial)"	"2022"	"20-24 years"	"20-24"	185	4907287	3.8
+	"2022 (provisional and partial)"	"2022"	"25-29 years"	"25-29"	232	4962142	4.7
+	"2022 (provisional and partial)"	"2022"	"30-34 years"	"30-34"	310	4665181	6.6
+	"2022 (provisional and partial)"	"2022"	"35-39 years"	"35-39"	361	4513399	8.0
+	"2022 (provisional and partial)"	"2022"	"40-44 years"	"40-44"	498	4229491	11.8
+	"2022 (provisional and partial)"	"2022"	"45-49 years"	"45-49"	605	3862201	15.7
+	"2022 (provisional and partial)"	"2022"	"50-54 years"	"50-54"	719	3388031	21.2
+	"2022 (provisional and partial)"	"2022"	"55-59 years"	"55-59"	972	2926665	33.2
+	"2022 (provisional and partial)"	"2022"	"60-64 years "	"60-64"	1182	2329263	50.7
+	"2022 (provisional and partial)"	"2022"	"65-69 years"	"65-69"	1222	1725067	70.8
+	"2022 (provisional and partial)"	"2022"	"70-74 years"	"70-74"	1413	1253519	112.7
+	"2022 (provisional and partial)"	"2022"	"75-79 years"	"75-79"	1450	820153	176.8
+	"2022 (provisional and partial)"	"2022"	"80-84 years"	"80-84"	1500	548313	273.6
+	"2022 (provisional and partial)"	"2022"	"85-89 years"	"85-89"	1586	Not Applicable	Not Applicable
+	"2022 (provisional and partial)"	"2022"	"90-94 years"	"90-94"	1248	Not Applicable	Not Applicable
+	"2022 (provisional and partial)"	"2022"	"95-99 years"	"95-99"	589	Not Applicable	Not Applicable
+	"2022 (provisional and partial)"	"2022"	"100+ years"	"100+"	131	Not Applicable	Not Applicable
+"Total"	"2022 (provisional and partial)"	"2022"			14495	61312879	23.6
+"Total"					1050098	304382620	345.0
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Hispanic Origin: Hispanic or Latino"
+"Group By: Year; Five-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Feb 17, 2022 7:57:24 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Provisional Multiple"
+"Cause of Death on CDC WONDER Online Database, released 2021. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2020-2021, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Feb 17, 2022 7:57:24"
+"PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Ages 85-100."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Racial Differences."
+"6. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"8. Deaths occurring through January 22,2022 as of February 06,2022."
