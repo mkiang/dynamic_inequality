@@ -1,0 +1,106 @@
+"age_grp";"race_eth";"Test #";"Null Hypothesis";"Alt Hypothesis";"Selected Hypothesis";"Numerator DF";"Denominator DF";"# of Permutations";"P-Value";"Significance level"
+"65andup";"American Indian or Alaska Native";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"65andup";"American Indian or Alaska Native";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"65andup";"American Indian or Alaska Native";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"65andup";"American Indian or Alaska Native";3;3;5;5;   4;  36;4500;       0.0015556;       0.0250000
+"65andup";"American Indian or Alaska Native";4;4;5;4;   2;  36;4500;       0.1557778;       0.0500000
+"65andup";"Asian";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"65andup";"Asian";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"65andup";"Asian";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"65andup";"Asian";3;3;5;5;   4;  36;4500;       0.0044444;       0.0250000
+"65andup";"Asian";4;4;5;5;   2;  36;4500;       0.0035556;       0.0500000
+"65andup";"Black or African American";0;0;5;5;  10;  36;4500;       0.0008889;       0.0100000
+"65andup";"Black or African American";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"65andup";"Black or African American";2;2;5;5;   6;  36;4500;       0.0022222;       0.0166667
+"65andup";"Black or African American";3;3;5;5;   4;  36;4500;       0.0013333;       0.0250000
+"65andup";"Black or African American";4;4;5;5;   2;  36;4500;       0.0004444;       0.0500000
+"65andup";"hispanic";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"65andup";"hispanic";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"65andup";"hispanic";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"65andup";"hispanic";3;3;5;5;   4;  36;4500;       0.0042222;       0.0250000
+"65andup";"hispanic";4;4;5;5;   2;  36;4500;       0.0160000;       0.0500000
+"65andup";"More than one race";0;0;5;5;  10;  36;4500;       0.0013333;       0.0100000
+"65andup";"More than one race";1;1;5;5;   8;  36;4500;       0.0015556;       0.0125000
+"65andup";"More than one race";2;2;5;5;   6;  36;4500;       0.0006667;       0.0166667
+"65andup";"More than one race";3;3;5;5;   4;  36;4500;       0.0153333;       0.0250000
+"65andup";"More than one race";4;4;5;4;   2;  36;4500;       0.2608889;       0.0500000
+"65andup";"Native Hawaiian or Other Pacific Islander";0;0;5;5;  10;  36;4500;       0.0028889;       0.0100000
+"65andup";"Native Hawaiian or Other Pacific Islander";1;1;5;5;   8;  36;4500;       0.0026667;       0.0125000
+"65andup";"Native Hawaiian or Other Pacific Islander";2;2;5;5;   6;  36;4500;       0.0008889;       0.0166667
+"65andup";"Native Hawaiian or Other Pacific Islander";3;3;5;3;   4;  36;4500;       0.1880000;       0.0250000
+"65andup";"Native Hawaiian or Other Pacific Islander";4;3;4;3;   2;  38;4500;       0.0933333;       0.0250000
+"65andup";"White";0;0;5;5;  10;  36;4500;       0.0004444;       0.0100000
+"65andup";"White";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"65andup";"White";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"65andup";"White";3;3;5;5;   4;  36;4500;       0.0151111;       0.0250000
+"65andup";"White";4;4;5;4;   2;  36;4500;       0.4475556;       0.0500000
+"all_ages";"American Indian or Alaska Native";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"all_ages";"American Indian or Alaska Native";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"all_ages";"American Indian or Alaska Native";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"all_ages";"American Indian or Alaska Native";3;3;5;3;   4;  36;4500;       0.0273333;       0.0250000
+"all_ages";"American Indian or Alaska Native";4;3;4;3;   2;  38;4500;       0.0286667;       0.0250000
+"all_ages";"Asian";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"all_ages";"Asian";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"all_ages";"Asian";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"all_ages";"Asian";3;3;5;5;   4;  36;4500;       0.0037778;       0.0250000
+"all_ages";"Asian";4;4;5;5;   2;  36;4500;       0.0020000;       0.0500000
+"all_ages";"Black or African American";0;0;5;5;  10;  36;4500;       0.0011111;       0.0100000
+"all_ages";"Black or African American";1;1;5;5;   8;  36;4500;       0.0004444;       0.0125000
+"all_ages";"Black or African American";2;2;5;2;   6;  36;4500;       0.0364444;       0.0166667
+"all_ages";"Black or African American";3;2;4;2;   4;  38;4500;       0.2220000;       0.0166667
+"all_ages";"Black or African American";4;2;3;2;   2;  40;4500;       0.4291111;       0.0166667
+"all_ages";"hispanic";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"all_ages";"hispanic";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"all_ages";"hispanic";2;2;5;5;   6;  36;4500;       0.0004444;       0.0166667
+"all_ages";"hispanic";3;3;5;5;   4;  36;4500;       0.0053333;       0.0250000
+"all_ages";"hispanic";4;4;5;5;   2;  36;4500;       0.0108889;       0.0500000
+"all_ages";"More than one race";0;0;5;5;  10;  36;4500;       0.0026667;       0.0100000
+"all_ages";"More than one race";1;1;5;5;   8;  36;4500;       0.0068889;       0.0125000
+"all_ages";"More than one race";2;2;5;5;   6;  36;4500;       0.0042222;       0.0166667
+"all_ages";"More than one race";3;3;5;3;   4;  36;4500;       0.0620000;       0.0250000
+"all_ages";"More than one race";4;3;4;3;   2;  38;4500;       0.0673333;       0.0250000
+"all_ages";"Native Hawaiian or Other Pacific Islander";0;0;5;5;  10;  36;4500;       0.0008889;       0.0100000
+"all_ages";"Native Hawaiian or Other Pacific Islander";1;1;5;5;   8;  36;4500;       0.0028889;       0.0125000
+"all_ages";"Native Hawaiian or Other Pacific Islander";2;2;5;5;   6;  36;4500;       0.0004444;       0.0166667
+"all_ages";"Native Hawaiian or Other Pacific Islander";3;3;5;5;   4;  36;4500;       0.0044444;       0.0250000
+"all_ages";"Native Hawaiian or Other Pacific Islander";4;4;5;4;   2;  36;4500;       0.0835556;       0.0500000
+"all_ages";"White";0;0;5;5;  10;  36;4500;       0.0006667;       0.0100000
+"all_ages";"White";1;1;5;5;   8;  36;4500;       0.0031111;       0.0125000
+"all_ages";"White";2;2;5;5;   6;  36;4500;       0.0002222;       0.0166667
+"all_ages";"White";3;3;5;5;   4;  36;4500;       0.0226667;       0.0250000
+"all_ages";"White";4;4;5;4;   2;  36;4500;       0.6720000;       0.0500000
+"under65";"American Indian or Alaska Native";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"American Indian or Alaska Native";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"under65";"American Indian or Alaska Native";2;2;5;5;   6;  36;4500;       0.0006667;       0.0166667
+"under65";"American Indian or Alaska Native";3;3;5;5;   4;  36;4500;       0.0004444;       0.0250000
+"under65";"American Indian or Alaska Native";4;4;5;4;   2;  36;4500;       0.0524444;       0.0500000
+"under65";"Asian";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"Asian";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"under65";"Asian";2;2;5;5;   6;  36;4500;       0.0013333;       0.0166667
+"under65";"Asian";3;3;5;5;   4;  36;4500;       0.0017778;       0.0250000
+"under65";"Asian";4;4;5;5;   2;  36;4500;       0.0035556;       0.0500000
+"under65";"Black or African American";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"Black or African American";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"under65";"Black or African American";2;2;5;5;   6;  36;4500;       0.0128889;       0.0166667
+"under65";"Black or African American";3;3;5;5;   4;  36;4500;       0.0146667;       0.0250000
+"under65";"Black or African American";4;4;5;4;   2;  36;4500;       0.4826667;       0.0500000
+"under65";"hispanic";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"hispanic";1;1;5;5;   8;  36;4500;       0.0002222;       0.0125000
+"under65";"hispanic";2;2;5;5;   6;  36;4500;       0.0020000;       0.0166667
+"under65";"hispanic";3;3;5;5;   4;  36;4500;       0.0066667;       0.0250000
+"under65";"hispanic";4;4;5;5;   2;  36;4500;       0.0306667;       0.0500000
+"under65";"More than one race";0;0;5;5;  10;  36;4500;       0.0020000;       0.0100000
+"under65";"More than one race";1;1;5;1;   8;  36;4500;       0.0524444;       0.0125000
+"under65";"More than one race";2;1;4;1;   6;  38;4500;       0.0288889;       0.0125000
+"under65";"More than one race";3;1;3;1;   4;  40;4500;       0.2988889;       0.0125000
+"under65";"More than one race";4;1;2;1;   2;  42;4500;       0.1328889;       0.0125000
+"under65";"Native Hawaiian or Other Pacific Islander";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"Native Hawaiian or Other Pacific Islander";1;1;5;5;   8;  36;4500;       0.0046667;       0.0125000
+"under65";"Native Hawaiian or Other Pacific Islander";2;2;5;5;   6;  36;4500;       0.0026667;       0.0166667
+"under65";"Native Hawaiian or Other Pacific Islander";3;3;5;5;   4;  36;4500;       0.0082222;       0.0250000
+"under65";"Native Hawaiian or Other Pacific Islander";4;4;5;4;   2;  36;4500;       0.3520000;       0.0500000
+"under65";"White";0;0;5;5;  10;  36;4500;       0.0002222;       0.0100000
+"under65";"White";1;1;5;5;   8;  36;4500;       0.0031111;       0.0125000
+"under65";"White";2;2;5;5;   6;  36;4500;       0.0017778;       0.0166667
+"under65";"White";3;3;5;5;   4;  36;4500;       0.0173333;       0.0250000
+"under65";"White";4;4;5;4;   2;  36;4500;       0.3777778;       0.0500000

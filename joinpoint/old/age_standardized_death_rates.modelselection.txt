@@ -1,0 +1,211 @@
+"age_grp";"race_eth";"Model";"# Joinpoints";"# Observations";"# Parameters";"D.F.";"SSE";"BIC";"BIC3"
+65andup;American Indian or Alaska Native;1;0;50;2;48;   30930.9315181;       6.5839699;       6.5839699
+65andup;American Indian or Alaska Native;2;1;50;4;46;   28276.8087273;       6.6507361;       6.7289766
+65andup;American Indian or Alaska Native;3;2;50;6;44;   23204.6437087;       6.6095275;       6.7660084
+65andup;American Indian or Alaska Native;4;3;50;8;42;   11317.9090097;       6.0480423;       6.2827637
+65andup;American Indian or Alaska Native;5;4;50;10;40;    8397.8492381;       5.9061125;       6.2190743
+65andup;American Indian or Alaska Native;6;5;50;12;38;    7169.1882425;       5.9044102;       6.2956125
+65andup;American Indian or Alaska Native;7;6;50;14;36;    6319.4588350;       5.9347323;       6.4041751
+65andup;American Indian or Alaska Native;8;7;50;16;34;    5180.0766141;       5.8923995;       6.4400827
+65andup;American Indian or Alaska Native;9;8;50;18;32;    4525.5345754;       5.9137963;       6.5397199
+65andup;American Indian or Alaska Native;10;9;50;20;30;    4205.3633471;       5.9969022;       6.7010663
+65andup;Asian;1;0;50;2;48; 2944120.6401334;      11.1397787;      11.1397787
+65andup;Asian;2;1;50;4;46; 2779318.6083279;      11.2386552;      11.3168956
+65andup;Asian;3;2;50;6;44; 2204279.5967207;      11.1633311;      11.3198120
+65andup;Asian;4;3;50;8;42; 1399749.2629538;      10.8657044;      11.1004257
+65andup;Asian;5;4;50;10;40; 1206793.7269874;      10.8738592;      11.1868210
+65andup;Asian;6;5;50;12;38;  821442.0565467;      10.6456792;      11.0368815
+65andup;Asian;7;6;50;14;36;  754094.2726583;      10.7166161;      11.1860589
+65andup;Asian;8;7;50;16;34;  633573.1808605;      10.6989551;      11.2466384
+65andup;Asian;9;8;50;18;32;  582516.7417808;      10.7714185;      11.3973422
+65andup;Asian;10;9;50;20;30;  548342.5539031;      10.8674417;      11.5716058
+65andup;Black or African American;1;0;50;2;48; 8164830.6462097;      12.1598045;      12.1598045
+65andup;Black or African American;2;1;50;4;46; 7441534.1950760;      12.2235264;      12.3017669
+65andup;Black or African American;3;2;50;6;44; 5605339.7458305;      12.0966500;      12.2531309
+65andup;Black or African American;4;3;50;8;42; 5043063.8889675;      12.1474250;      12.3821464
+65andup;Black or African American;5;4;50;10;40; 4652637.1236362;      12.2233263;      12.5362882
+65andup;Black or African American;6;5;50;12;38; 3152978.3741608;      11.9907206;      12.3819229
+65andup;Black or African American;7;6;50;14;36; 2843918.2372684;      12.0440368;      12.5134795
+65andup;Black or African American;8;7;50;16;34; 2745732.1213703;      12.1653827;      12.7130659
+65andup;Black or African American;9;8;50;18;32; 2614068.3772564;      12.2727236;      12.8986473
+65andup;Black or African American;10;9;50;20;30; 2521087.9531250;      12.3929873;      13.0971514
+65andup;hispanic;1;0;50;2;48;11766145.2960320;      12.5251948;      12.5251948
+65andup;hispanic;2;1;50;4;46;10805761.8578053;      12.5965289;      12.6747694
+65andup;hispanic;3;2;50;6;44; 8361793.4760704;      12.4966032;      12.6530842
+65andup;hispanic;4;3;50;8;42; 5045292.7951736;      12.1478669;      12.3825883
+65andup;hispanic;5;4;50;10;40; 4239681.1968365;      12.1303802;      12.4433421
+65andup;hispanic;6;5;50;12;38; 3172574.1487942;      11.9969164;      12.3881187
+65andup;hispanic;7;6;50;14;36; 2869270.5614433;      12.0529118;      12.5223546
+65andup;hispanic;8;7;50;16;34; 2747663.4725075;      12.1660858;      12.7137690
+65andup;hispanic;9;8;50;18;32; 2599542.0342121;      12.2671511;      12.8930748
+65andup;hispanic;10;9;50;20;30; 2543584.1032810;      12.4018709;      13.1060350
+65andup;More than one race;1;0;50;2;48;   34822.8162912;       6.7024860;       6.7024860
+65andup;More than one race;2;1;50;4;46;   30108.8209634;       6.7135123;       6.7917528
+65andup;More than one race;3;2;50;6;44;   27966.5866639;       6.7961855;       6.9526664
+65andup;More than one race;4;3;50;8;42;   19026.2163762;       6.5674738;       6.8021952
+65andup;More than one race;5;4;50;10;40;   15555.3076378;       6.5225388;       6.8355006
+65andup;More than one race;6;5;50;12;38;   14266.8890926;       6.5925592;       6.9837615
+65andup;More than one race;7;6;50;14;36;   13428.3587911;       6.6884675;       7.1579103
+65andup;More than one race;8;7;50;16;34;   12529.4814525;       6.7756640;       7.3233472
+65andup;More than one race;9;8;50;18;32;   11759.8022746;       6.8687477;       7.4946714
+65andup;More than one race;10;9;50;20;30;   11504.1869258;       7.0032525;       7.7074167
+65andup;Native Hawaiian or Other Pacific Islander;1;0;50;2;48;    1219.5168948;       3.3506680;       3.3506680
+65andup;Native Hawaiian or Other Pacific Islander;2;1;50;4;46;    1097.5966594;       3.4018170;       3.4800575
+65andup;Native Hawaiian or Other Pacific Islander;3;2;50;6;44;    1013.2069972;       3.4782956;       3.6347765
+65andup;Native Hawaiian or Other Pacific Islander;4;3;50;8;42;     646.8039720;       3.1859439;       3.4206653
+65andup;Native Hawaiian or Other Pacific Islander;5;4;50;10;40;     567.1365241;       3.2109817;       3.5239435
+65andup;Native Hawaiian or Other Pacific Islander;6;5;50;12;38;     547.0833217;       3.3314636;       3.7226659
+65andup;Native Hawaiian or Other Pacific Islander;7;6;50;14;36;     490.8318801;       3.3794451;       3.8488879
+65andup;Native Hawaiian or Other Pacific Islander;8;7;50;16;34;     459.7584898;       3.4705257;       4.0182089
+65andup;Native Hawaiian or Other Pacific Islander;9;8;50;18;32;     446.3701650;       3.5974539;       4.2233775
+65andup;Native Hawaiian or Other Pacific Islander;10;9;50;20;30;     422.2232521;       3.6983204;       4.4024845
+65andup;White;1;0;50;2;48;341486830.6014404;      15.8932776;      15.8932776
+65andup;White;2;1;50;4;46;290660640.3662109;      15.8886058;      15.9668463
+65andup;White;3;2;50;6;44;278800331.0385742;      16.0034262;      16.1599071
+65andup;White;4;3;50;8;42;170105622.9683838;      15.6658308;      15.9005522
+65andup;White;5;4;50;10;40;129405856.5905762;      15.5488458;      15.8618076
+65andup;White;6;5;50;12;38;122082246.1120605;      15.6470680;      16.0382703
+65andup;White;7;6;50;14;36;107589639.8923340;      15.6771784;      16.1466211
+65andup;White;8;7;50;16;34;85162072.2231445;      15.5998911;      16.1475743
+65andup;White;9;8;50;18;32;79860089.2857666;      15.6920921;      16.3180157
+65andup;White;10;9;50;20;30;75747359.1623535;      15.7957003;      16.4998645
+all_ages;American Indian or Alaska Native;1;0;50;2;48;     418.4507109;       2.2810170;       2.2810170
+all_ages;American Indian or Alaska Native;2;1;50;4;46;     375.5823320;       2.3294165;       2.4076570
+all_ages;American Indian or Alaska Native;3;2;50;6;44;     254.8293021;       2.0980137;       2.2544946
+all_ages;American Indian or Alaska Native;4;3;50;8;42;     166.6707628;       1.8299211;       2.0646424
+all_ages;American Indian or Alaska Native;5;4;50;10;40;     113.5141597;       1.6023092;       1.9152710
+all_ages;American Indian or Alaska Native;6;5;50;12;38;     103.9834950;       1.6710947;       2.0622970
+all_ages;American Indian or Alaska Native;7;6;50;14;36;      93.6752137;       1.7231771;       2.1926198
+all_ages;American Indian or Alaska Native;8;7;50;16;34;      86.6947574;       1.8022178;       2.3499010
+all_ages;American Indian or Alaska Native;9;8;50;18;32;      77.2025775;       1.8427381;       2.4686618
+all_ages;American Indian or Alaska Native;10;9;50;20;30;      71.7700979;       1.9262541;       2.6304183
+all_ages;Asian;1;0;50;2;48;   40564.5023854;       6.8551066;       6.8551066
+all_ages;Asian;2;1;50;4;46;   38400.0517113;       6.9567529;       7.0349934
+all_ages;Asian;3;2;50;6;44;   31713.4029466;       6.9219144;       7.0783954
+all_ages;Asian;4;3;50;8;42;   20121.3111147;       6.6234355;       6.8581568
+all_ages;Asian;5;4;50;10;40;   17595.7561902;       6.6457946;       6.9587565
+all_ages;Asian;6;5;50;12;38;   11595.5841561;       6.3852421;       6.7764444
+all_ages;Asian;7;6;50;14;36;   10725.9008688;       6.4637602;       6.9332029
+all_ages;Asian;8;7;50;16;34;    9352.0771196;       6.4831781;       7.0308613
+all_ages;Asian;9;8;50;18;32;    8662.4707258;       6.5630605;       7.1889842
+all_ages;Asian;10;9;50;20;30;    8042.0852573;       6.6452299;       7.3493940
+all_ages;Black or African American;1;0;50;2;48;  110871.0458324;       7.8605810;       7.8605810
+all_ages;Black or African American;2;1;50;4;46;  100457.2077746;       7.9184260;       7.9966664
+all_ages;Black or African American;3;2;50;6;44;   70287.6122723;       7.7177706;       7.8742515
+all_ages;Black or African American;4;3;50;8;42;   64884.7726151;       7.7942689;       8.0289903
+all_ages;Black or African American;5;4;50;10;40;   60396.6126485;       7.8790699;       8.1920317
+all_ages;Black or African American;6;5;50;12;38;   49232.2815373;       7.8311673;       8.2223696
+all_ages;Black or African American;7;6;50;14;36;   45373.1727882;       7.9060197;       8.3754625
+all_ages;Black or African American;8;7;50;16;34;   42158.4505069;       7.9890148;       8.5366980
+all_ages;Black or African American;9;8;50;18;32;   41546.7475965;       8.1308798;       8.7568035
+all_ages;Black or African American;10;9;50;20;30;   40022.1925762;       8.2499756;       8.9541397
+all_ages;hispanic;1;0;50;2;48;  205787.2916777;       8.4790563;       8.4790563
+all_ages;hispanic;2;1;50;4;46;  189561.4781582;       8.5534075;       8.6316480
+all_ages;hispanic;3;2;50;6;44;  141678.8501756;       8.4187379;       8.5752188
+all_ages;hispanic;4;3;50;8;42;   91826.7392526;       8.1415595;       8.3762809
+all_ages;hispanic;5;4;50;10;40;   79753.2213657;       8.1570740;       8.4700358
+all_ages;hispanic;6;5;50;12;38;   59725.6456913;       8.0243793;       8.4155816
+all_ages;hispanic;7;6;50;14;36;   55224.2912782;       8.1025016;       8.5719444
+all_ages;hispanic;8;7;50;16;34;   51725.5714029;       8.1935319;       8.7412151
+all_ages;hispanic;9;8;50;18;32;   49694.0918290;       8.3099466;       8.9358703
+all_ages;hispanic;10;9;50;20;30;   48716.3394691;       8.4465560;       9.1507201
+all_ages;More than one race;1;0;50;2;48;     543.7406120;       2.5429302;       2.5429302
+all_ages;More than one race;2;1;50;4;46;     456.2175878;       2.5239087;       2.6021492
+all_ages;More than one race;3;2;50;6;44;     403.0632023;       2.5565131;       2.7129941
+all_ages;More than one race;4;3;50;8;42;     316.4731998;       2.4711392;       2.7058606
+all_ages;More than one race;5;4;50;10;40;     275.6384947;       2.4894718;       2.8024336
+all_ages;More than one race;6;5;50;12;38;     247.4987901;       2.5382682;       2.9294705
+all_ages;More than one race;7;6;50;14;36;     220.9819629;       2.5814245;       3.0508673
+all_ages;More than one race;8;7;50;16;34;     201.9443113;       2.6478163;       3.1954995
+all_ages;More than one race;9;8;50;18;32;     190.4064881;       2.7454665;       3.3713902
+all_ages;More than one race;10;9;50;20;30;     182.5872636;       2.8600144;       3.5641786
+all_ages;Native Hawaiian or Other Pacific Islander;1;0;50;2;48;      18.9360501;      -0.8144746;      -0.8144746
+all_ages;Native Hawaiian or Other Pacific Islander;2;1;50;4;46;      16.0989409;      -0.8203077;      -0.7420672
+all_ages;Native Hawaiian or Other Pacific Islander;3;2;50;6;44;      14.7987894;      -0.7480349;      -0.5915539
+all_ages;Native Hawaiian or Other Pacific Islander;4;3;50;8;42;      12.5401258;      -0.7571658;      -0.5224444
+all_ages;Native Hawaiian or Other Pacific Islander;5;4;50;10;40;       9.3752497;      -0.8915452;      -0.5785834
+all_ages;Native Hawaiian or Other Pacific Islander;6;5;50;12;38;       8.2370273;      -0.8644980;      -0.4732957
+all_ages;Native Hawaiian or Other Pacific Islander;7;6;50;14;36;       7.8824001;      -0.7520241;      -0.2825814
+all_ages;Native Hawaiian or Other Pacific Islander;8;7;50;16;34;       7.0918134;      -0.7012346;      -0.1535513
+all_ages;Native Hawaiian or Other Pacific Islander;9;8;50;18;32;       6.8400991;      -0.5808925;       0.0450312
+all_ages;Native Hawaiian or Other Pacific Islander;10;9;50;20;30;       6.7308951;      -0.4405057;       0.2636585
+all_ages;White;1;0;50;2;48; 3050278.0906563;      11.1752012;      11.1752012
+all_ages;White;2;1;50;4;46; 2511586.2056971;      11.1373639;      11.2156044
+all_ages;White;3;2;50;6;44; 2467985.2697277;      11.2763325;      11.4328134
+all_ages;White;4;3;50;8;42; 1792490.5226021;      11.1130172;      11.3477386
+all_ages;White;5;4;50;10;40; 1395307.5908346;      11.0190070;      11.3319689
+all_ages;White;6;5;50;12;38; 1260628.2802992;      11.0739833;      11.4651856
+all_ages;White;7;6;50;14;36; 1187771.4451675;      11.1709328;      11.6403756
+all_ages;White;8;7;50;16;34; 1038078.2788200;      11.1927061;      11.7403893
+all_ages;White;9;8;50;18;32;  905261.1641607;      11.2122840;      11.8382077
+all_ages;White;10;9;50;20;30;  850429.5211878;      11.3062830;      12.0104472
+under65;American Indian or Alaska Native;1;0;50;2;48;     628.5608408;       2.6878907;       2.6878907
+under65;American Indian or Alaska Native;2;1;50;4;46;     527.9452715;       2.6699315;       2.7481719
+under65;American Indian or Alaska Native;3;2;50;6;44;     301.9909452;       2.2678168;       2.4242977
+under65;American Indian or Alaska Native;4;3;50;8;42;     242.9400165;       2.2067152;       2.4414366
+under65;American Indian or Alaska Native;5;4;50;10;40;     164.8747787;       1.9755679;       2.2885297
+under65;American Indian or Alaska Native;6;5;50;12;38;     142.9796389;       1.9895648;       2.3807671
+under65;American Indian or Alaska Native;7;6;50;14;36;     122.9872813;       1.9954244;       2.4648671
+under65;American Indian or Alaska Native;8;7;50;16;34;     115.5816832;       2.0898019;       2.6374851
+under65;American Indian or Alaska Native;9;8;50;18;32;     111.5315657;       2.2106129;       2.8365366
+under65;American Indian or Alaska Native;10;9;50;20;30;     109.3995218;       2.3477927;       3.0519569
+under65;Asian;1;0;50;2;48;   33683.6690699;       6.6692263;       6.6692263
+under65;Asian;2;1;50;4;46;   30250.4659804;       6.7182057;       6.7964462
+under65;Asian;3;2;50;6;44;   23883.4525588;       6.6383609;       6.7948418
+under65;Asian;4;3;50;8;42;   21034.6172830;       6.6678255;       6.9025469
+under65;Asian;5;4;50;10;40;   16330.1324552;       6.5711489;       6.8841107
+under65;Asian;6;5;50;12;38;   11984.7613774;       6.4182538;       6.8094561
+under65;Asian;7;6;50;14;36;    9720.9553663;       6.3653826;       6.8348254
+under65;Asian;8;7;50;16;34;    8781.1718748;       6.4201895;       6.9678727
+under65;Asian;9;8;50;18;32;    8710.2031484;       6.5685557;       7.1944794
+under65;Asian;10;9;50;20;30;    8462.9934859;       6.6962444;       7.4004086
+under65;Black or African American;1;0;50;2;48;  141160.1232470;       8.1021081;       8.1021081
+under65;Black or African American;2;1;50;4;46;  111696.3087425;       8.0244778;       8.1027182
+under65;Black or African American;3;2;50;6;44;   83974.5994252;       7.8956894;       8.0521703
+under65;Black or African American;4;3;50;8;42;   70834.9415466;       7.8820084;       8.1167297
+under65;Black or African American;5;4;50;10;40;   59704.8807208;       7.8675506;       8.1805125
+under65;Black or African American;6;5;50;12;38;   57239.4818853;       7.9818617;       8.3730640
+under65;Black or African American;7;6;50;14;36;   53626.0465420;       8.0731336;       8.5425764
+under65;Black or African American;8;7;50;16;34;   51229.7737435;       8.1839005;       8.7315837
+under65;Black or African American;9;8;50;18;32;   50854.8215793;       8.3330355;       8.9589592
+under65;Black or African American;10;9;50;20;30;   50603.8032753;       8.4845682;       9.1887324
+under65;hispanic;1;0;50;2;48;  500056.8021500;       9.3669349;       9.3669349
+under65;hispanic;2;1;50;4;46;  461234.3969605;       9.4426005;       9.5208409
+under65;hispanic;3;2;50;6;44;  300775.5685260;       9.1715394;       9.3280203
+under65;hispanic;4;3;50;8;42;  264471.0936394;       9.1993879;       9.4341093
+under65;hispanic;5;4;50;10;40;  195084.9844193;       9.0515722;       9.3645340
+under65;hispanic;6;5;50;12;38;  181199.9896062;       9.1342191;       9.5254214
+under65;hispanic;7;6;50;14;36;  117281.6449484;       8.8556770;       9.3251197
+under65;hispanic;8;7;50;16;34;  111781.3101454;       8.9641240;       9.5118072
+under65;hispanic;9;8;50;18;32;  107945.1458105;       9.0856837;       9.7116074
+under65;hispanic;10;9;50;20;30;  107705.1572792;       9.2399389;       9.9441031
+under65;More than one race;1;0;50;2;48;    1374.5989547;       3.4703752;       3.4703752
+under65;More than one race;2;1;50;4;46;    1122.1847457;       3.4239716;       3.5022120
+under65;More than one race;3;2;50;6;44;     932.2175584;       3.3949860;       3.5514669
+under65;More than one race;4;3;50;8;42;     862.6344448;       3.4738917;       3.7086131
+under65;More than one race;5;4;50;10;40;     705.6011607;       3.4294317;       3.7423936
+under65;More than one race;6;5;50;12;38;     683.0244179;       3.5533931;       3.9445954
+under65;More than one race;7;6;50;14;36;     580.0100969;       3.5463889;       4.0158317
+under65;More than one race;8;7;50;16;34;     551.0536598;       3.6516565;       4.1993398
+under65;More than one race;9;8;50;18;32;     495.7960359;       3.7024699;       4.3283936
+under65;More than one race;10;9;50;20;30;     489.4267868;       3.8460211;       4.5501852
+under65;Native Hawaiian or Other Pacific Islander;1;0;50;2;48;      62.4510180;       0.3788405;       0.3788405
+under65;Native Hawaiian or Other Pacific Islander;2;1;50;4;46;      53.7339110;       0.3849831;       0.4632236
+under65;Native Hawaiian or Other Pacific Islander;3;2;50;6;44;      38.9508534;       0.2197204;       0.3762014
+under65;Native Hawaiian or Other Pacific Islander;4;3;50;8;42;      32.8363154;       0.2054358;       0.4401571
+under65;Native Hawaiian or Other Pacific Islander;5;4;50;10;40;      24.8945677;       0.0850312;       0.3979931
+under65;Native Hawaiian or Other Pacific Islander;6;5;50;12;38;      23.1489316;       0.1688111;       0.5600134
+under65;Native Hawaiian or Other Pacific Islander;7;6;50;14;36;      21.8659064;       0.2682721;       0.7377148
+under65;Native Hawaiian or Other Pacific Islander;8;7;50;16;34;      21.0694840;       0.3876501;       0.9353333
+under65;Native Hawaiian or Other Pacific Islander;9;8;50;18;32;      20.4223351;       0.5129344;       1.1388581
+under65;Native Hawaiian or Other Pacific Islander;10;9;50;20;30;      19.6259848;       0.6296406;       1.3338048
+under65;White;1;0;50;2;48; 1509565.2617846;      10.4717902;      10.4717902
+under65;White;2;1;50;4;46; 1209477.0366993;      10.4066375;      10.4848779
+under65;White;3;2;50;6;44;  887880.0340514;      10.2540117;      10.4104926
+under65;White;4;3;50;8;42;  768631.3680162;      10.2662674;      10.5009888
+under65;White;5;4;50;10;40;  638449.4100733;      10.2371793;      10.5501412
+under65;White;6;5;50;12;38;  607496.5570345;      10.3439643;      10.7351666
+under65;White;7;6;50;14;36;  601354.7019963;      10.4902837;      10.9597264
+under65;White;8;7;50;16;34;  569979.9967923;      10.5931809;      11.1408641
+under65;White;9;8;50;18;32;  560429.9406209;      10.7327648;      11.3586885
+under65;White;10;9;50;20;30;  550935.4673133;      10.8721592;      11.5763233

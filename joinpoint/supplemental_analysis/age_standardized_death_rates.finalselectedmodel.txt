@@ -1,0 +1,22 @@
+"age_grp";"race_eth";"Model"
+65andup;American Indian or Alaska Native;4
+65andup;Asian;5
+65andup;Black or African American;5
+65andup;hispanic;5
+65andup;More than one race;0
+65andup;Native Hawaiian or Other Pacific Islander;0
+65andup;White;4
+all_ages;American Indian or Alaska Native;4
+all_ages;Asian;5
+all_ages;Black or African American;2
+all_ages;hispanic;3
+all_ages;More than one race;3
+all_ages;Native Hawaiian or Other Pacific Islander;4
+all_ages;White;0
+under65;American Indian or Alaska Native;4
+under65;Asian;6
+under65;Black or African American;2
+under65;hispanic;6
+under65;More than one race;0
+under65;Native Hawaiian or Other Pacific Islander;0
+under65;White;2

@@ -1,0 +1,22 @@
+"age_grp";"race_eth";"BIC Selected Model";"BIC3 Selected Model";"Delta BIC";"Delta BIC3";"maxDelta <= 10";"diffDelta > 200";"Chosen Method";"Final Selected Model"
+65andup;American Indian or Alaska Native;   6;   4;       6.2593773;      22.8711668;No;No;BIC3;   4
+65andup;Asian;   5;   5;      15.7238080;      15.7238080;No;No;BIC3;   5
+65andup;Black or African American;   5;   0;       9.5181883;       0.0000000;Yes;No;BIC;   5
+65andup;hispanic;   5;   5;       5.8376438;       5.8376438;Yes;No;BIC;   5
+65andup;More than one race;   4;   0;      10.0759696;       0.0000000;No;No;BIC3;   0
+65andup;Native Hawaiian or Other Pacific Islander;   3;   0;      15.0344509;       0.0000000;No;No;BIC3;   0
+65andup;White;   4;   4;      17.9844975;      17.9844975;No;No;BIC3;   4
+all_ages;American Indian or Alaska Native;   4;   4;      13.1052333;      13.1052333;No;No;BIC3;   4
+all_ages;Asian;   5;   5;      15.5957528;      15.5957528;No;No;BIC3;   5
+all_ages;Black or African American;   2;   0;       9.2310071;       0.0000000;Yes;No;BIC;   2
+all_ages;hispanic;   5;   3;       5.6923136;      10.8347975;No;No;BIC3;   3
+all_ages;More than one race;   3;   0;       4.4096929;       0.0000000;Yes;No;BIC;   3
+all_ages;Native Hawaiian or Other Pacific Islander;   4;   0;       5.7978552;       0.0000000;Yes;No;BIC;   4
+all_ages;White;   4;   0;      13.0472913;       0.0000000;No;No;BIC3;   0
+under65;American Indian or Alaska Native;   6;   4;       3.0889112;      18.9627463;No;No;BIC3;   4
+under65;Asian;   6;   0;       4.7324107;       0.0000000;Yes;No;BIC;   6
+under65;Black or African American;   2;   2;       5.7906378;       5.7906378;Yes;No;BIC;   2
+under65;hispanic;   6;   6;      11.9546392;      11.9546392;No;No;BIC3;   6
+under65;More than one race;   2;   0;      13.2543204;       0.0000000;No;No;BIC3;   0
+under65;Native Hawaiian or Other Pacific Islander;   4;   0;      12.9472460;       0.0000000;No;No;BIC3;   0
+under65;White;   4;   2;       7.3690881;      20.3384481;No;No;BIC3;   2

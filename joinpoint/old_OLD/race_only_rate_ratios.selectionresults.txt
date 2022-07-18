@@ -1,0 +1,19 @@
+"age_grp";"race";"BIC Selected Model";"BIC3 Selected Model";"Delta BIC";"Delta BIC3";"maxDelta <= 10";"diffDelta > 200";"Chosen Method";"Final Selected Model"
+"65andup";"aian";   4;   3;       7.4743062;      19.7811425;"No";"No";"BIC3";   3
+"65andup";"asian";   5;   5;      19.8845779;      19.8845779;"No";"No";"BIC3";   5
+"65andup";"black";   4;   4;       8.7441194;       8.7441194;"Yes";"No";"BIC";   4
+"65andup";"hisp";   5;   5;      11.5949633;      11.5949633;"No";"No";"BIC3";   5
+"65andup";"multirace";   0;   0;       0.0000000;       0.0000000;"Yes";"No";"BIC";   0
+"65andup";"nhopi";   0;   0;       0.0000000;       0.0000000;"Yes";"No";"BIC";   0
+"all_ages";"aian";   5;   5;      20.2207035;      20.2207035;"No";"No";"BIC3";   5
+"all_ages";"asian";   6;   5;       2.7300550;      25.1036599;"No";"No";"BIC3";   5
+"all_ages";"black";   4;   4;      18.9320973;      18.9320973;"No";"No";"BIC3";   4
+"all_ages";"hisp";   5;   5;      15.6295761;      15.6295761;"No";"No";"BIC3";   5
+"all_ages";"multirace";   0;   0;       0.0000000;       0.0000000;"Yes";"No";"BIC";   0
+"all_ages";"nhopi";   1;   0;      10.9806909;       0.0000000;"No";"No";"BIC3";   0
+"under65";"aian";   6;   4;       4.6352482;      13.8683043;"No";"No";"BIC3";   4
+"under65";"asian";   5;   5;      13.7875890;      13.7875890;"No";"No";"BIC3";   5
+"under65";"black";   4;   4;       7.6269263;       7.6269263;"Yes";"No";"BIC";   4
+"under65";"hisp";   6;   5;       4.8143274;      24.0679283;"No";"No";"BIC3";   5
+"under65";"multirace";   0;   0;       0.0000000;       0.0000000;"Yes";"No";"BIC";   0
+"under65";"nhopi";   4;   0;       5.4083486;       0.0000000;"Yes";"No";"BIC";   4

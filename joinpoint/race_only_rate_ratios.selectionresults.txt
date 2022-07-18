@@ -1,0 +1,19 @@
+"age_grp";"race";"BIC Selected Model";"BIC3 Selected Model";"Delta BIC";"Delta BIC3";"maxDelta <= 10";"diffDelta > 200";"Chosen Method";"Final Selected Model"
+65andup;aian;   3;   3;      19.0855337;      19.0855337;No;No;BIC3;   3
+65andup;asian;   5;   5;      24.8649866;      24.8649866;No;No;BIC3;   5
+65andup;black;   3;   3;      15.3987084;      15.3987084;No;No;BIC3;   3
+65andup;hisp;   5;   5;      24.6126490;      24.6126490;No;No;BIC3;   5
+65andup;multirace;   0;   0;       0.0000000;       0.0000000;Yes;No;BIC;   0
+65andup;nhopi;   0;   0;       0.0000000;       0.0000000;Yes;No;BIC;   0
+all_ages;aian;   5;   5;      18.3682223;      18.3682223;No;No;BIC3;   5
+all_ages;asian;   7;   5;       2.6270985;      24.6624848;No;No;BIC3;   5
+all_ages;black;   4;   3;       3.8640310;      11.3891376;No;No;BIC3;   3
+all_ages;hisp;   5;   5;      20.8957040;      20.8957040;No;No;BIC3;   5
+all_ages;multirace;   0;   0;       0.0000000;       0.0000000;Yes;No;BIC;   0
+all_ages;nhopi;   0;   0;       0.0000000;       0.0000000;Yes;No;BIC;   0
+under65;aian;   6;   5;       4.4702332;       8.4747189;Yes;No;BIC;   6
+under65;asian;   5;   5;      28.2707497;      28.2707497;No;No;BIC3;   5
+under65;black;   5;   2;       6.0267617;       9.8039916;Yes;No;BIC;   5
+under65;hisp;   6;   5;       4.1386515;      24.5424940;No;No;BIC3;   5
+under65;multirace;   0;   0;       0.0000000;       0.0000000;Yes;No;BIC;   0
+under65;nhopi;   4;   0;       5.7384434;       0.0000000;Yes;No;BIC;   4

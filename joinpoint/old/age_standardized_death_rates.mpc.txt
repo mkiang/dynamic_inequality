@@ -1,0 +1,94 @@
+"age_grp";"race_eth";"Model";"Segment";"Segment Start";"Segment End";"MPC";"MPC 95% LCL";"MPC 95% UCL";"MPC Significant";"Test Statistic";"P-Value"
+65andup;American Indian or Alaska Native;4;0;1;20;-0.6;-1.4;0.1;0;-1.7;0.106
+65andup;American Indian or Alaska Native;4;1;20;33;1.9;0.4;3.4;1;2.6;0.013
+65andup;American Indian or Alaska Native;4;2;33;36;15.6;-8.7;46.4;0;1.2;0.222
+65andup;American Indian or Alaska Native;4;3;36;40;-15.2;-24.5;-4.6;1;-2.8;0.007
+65andup;American Indian or Alaska Native;4;4;40;50;3.6;1.7;5.4;1;3.9;0.000
+65andup;Asian;5;0;1;22;-0.7;-1.3;-0.0;1;-2.1;0.043
+65andup;Asian;5;1;22;28;6.5;1.0;12.3;1;2.4;0.022
+65andup;Asian;5;2;28;34;-5.1;-9.9;-0.1;1;-2.1;0.047
+65andup;Asian;5;3;34;37;25.2;-0.2;57.0;0;2.0;0.052
+65andup;Asian;5;4;37;40;-22.1;-37.7;-2.6;1;-2.3;0.030
+65andup;Asian;5;5;40;50;3.6;1.8;5.4;1;4.1;0.000
+65andup;Black or African American;5;0;1;25;-0.2;-0.8;0.3;0;-0.9;0.401
+65andup;Black or African American;5;1;25;28;16.7;-10.6;52.3;0;1.2;0.248
+65andup;Black or African American;5;2;28;33;-7.5;-14.9;0.5;0;-1.9;0.066
+65andup;Black or African American;5;3;33;37;10.7;-2.8;26.0;0;1.6;0.122
+65andup;Black or African American;5;4;37;40;-14.1;-33.5;11.0;0;-1.2;0.238
+65andup;Black or African American;5;5;40;50;1.9;-0.1;4.0;0;2.0;0.058
+65andup;hispanic;3;0;1;21;-0.5;-1.5;0.5;0;-1.0;0.316
+65andup;hispanic;3;1;21;37;3.9;2.4;5.5;1;5.2;0.000
+65andup;hispanic;3;2;37;40;-17.0;-40.7;16.3;0;-1.1;0.272
+65andup;hispanic;3;3;40;50;3.6;0.9;6.3;1;2.7;0.011
+65andup;More than one race;4;0;1;4;-8.1;-18.6;3.8;0;-1.4;0.169
+65andup;More than one race;4;1;4;34;0.3;-0.0;0.7;0;1.9;0.068
+65andup;More than one race;4;2;34;37;12.2;-8.5;37.5;0;1.1;0.262
+65andup;More than one race;4;3;37;40;-13.2;-29.1;6.4;0;-1.4;0.167
+65andup;More than one race;4;4;40;50;2.6;1.0;4.2;1;3.3;0.002
+65andup;Native Hawaiian or Other Pacific Islander;0;0;1;50;0.6;0.3;0.9;1;4.0;0.000
+65andup;White;4;0;1;5;-5.4;-11.6;1.2;0;-1.7;0.102
+65andup;White;4;1;5;33;0.4;0.0;0.7;1;2.1;0.042
+65andup;White;4;2;33;36;11.3;-9.2;36.4;0;1.1;0.292
+65andup;White;4;3;36;40;-10.3;-18.9;-0.7;1;-2.2;0.036
+65andup;White;4;4;40;50;2.9;1.3;4.5;1;3.7;0.001
+all_ages;American Indian or Alaska Native;4;0;1;23;-0.3;-0.9;0.2;0;-1.2;0.238
+all_ages;American Indian or Alaska Native;4;1;23;37;4.1;2.9;5.2;1;7.3;0.000
+all_ages;American Indian or Alaska Native;4;2;37;40;-14.7;-30.7;5.0;0;-1.6;0.129
+all_ages;American Indian or Alaska Native;4;3;40;45;8.0;1.2;15.2;1;2.4;0.022
+all_ages;American Indian or Alaska Native;4;4;45;50;-3.7;-8.1;0.9;0;-1.6;0.110
+all_ages;Asian;5;0;1;22;-0.6;-1.2;0.0;0;-2.0;0.052
+all_ages;Asian;5;1;22;28;6.2;1.1;11.5;1;2.5;0.018
+all_ages;Asian;5;2;28;34;-4.7;-9.1;-0.1;1;-2.1;0.048
+all_ages;Asian;5;3;34;37;22.9;-0.2;51.4;0;2.0;0.052
+all_ages;Asian;5;4;37;40;-19.8;-34.7;-1.4;1;-2.2;0.037
+all_ages;Asian;5;5;40;50;2.9;1.3;4.6;1;3.6;0.001
+all_ages;Black or African American;2;0;1;23;-0.3;-1.0;0.4;0;-0.9;0.369
+all_ages;Black or African American;2;1;23;28;6.5;-2.3;16.2;0;1.5;0.148
+all_ages;Black or African American;2;2;28;50;-0.6;-1.3;-0.0;1;-2.0;0.048
+all_ages;hispanic;5;0;1;25;-0.1;-0.7;0.5;0;-0.5;0.647
+all_ages;hispanic;5;1;25;28;15.2;-12.6;51.8;0;1.0;0.304
+all_ages;hispanic;5;2;28;34;-3.0;-8.6;3.0;0;-1.0;0.306
+all_ages;hispanic;5;3;34;37;19.3;-8.6;55.6;0;1.3;0.186
+all_ages;hispanic;5;4;37;40;-20.3;-38.5;3.4;0;-1.8;0.085
+all_ages;hispanic;5;5;40;50;3.3;1.2;5.4;1;3.3;0.002
+all_ages;More than one race;3;0;1;22;-0.5;-1.0;0.1;0;-1.7;0.102
+all_ages;More than one race;3;1;22;37;2.2;1.2;3.1;1;4.5;0.000
+all_ages;More than one race;3;2;37;40;-5.9;-22.8;14.7;0;-0.6;0.537
+all_ages;More than one race;3;3;40;50;1.8;0.3;3.4;1;2.4;0.024
+all_ages;Native Hawaiian or Other Pacific Islander;4;0;1;21;-0.5;-1.3;0.3;0;-1.2;0.232
+all_ages;Native Hawaiian or Other Pacific Islander;4;1;21;37;2.7;1.6;3.9;1;4.8;0.000
+all_ages;Native Hawaiian or Other Pacific Islander;4;2;37;41;-8.0;-19.1;4.5;0;-1.3;0.191
+all_ages;Native Hawaiian or Other Pacific Islander;4;3;41;44;14.3;-10.5;45.9;0;1.1;0.275
+all_ages;Native Hawaiian or Other Pacific Islander;4;4;44;50;-2.3;-6.4;2.1;0;-1.1;0.290
+all_ages;White;0;0;1;50;0.4;0.2;0.6;1;4.5;0.000
+under65;American Indian or Alaska Native;4;0;1;23;0.0;-0.5;0.5;0;0.1;0.926
+under65;American Indian or Alaska Native;4;1;23;37;4.3;3.1;5.5;1;7.7;0.000
+under65;American Indian or Alaska Native;4;2;37;40;-11.8;-28.7;9.3;0;-1.2;0.244
+under65;American Indian or Alaska Native;4;3;40;45;8.9;1.7;16.6;1;2.5;0.016
+under65;American Indian or Alaska Native;4;4;45;50;-7.2;-11.5;-2.7;1;-3.2;0.003
+under65;Asian;6;0;1;25;-0.1;-0.4;0.3;0;-0.3;0.772
+under65;Asian;6;1;25;28;11.6;-5.8;32.1;0;1.3;0.195
+under65;Asian;6;2;28;33;-5.6;-10.4;-0.5;1;-2.2;0.033
+under65;Asian;6;3;33;37;10.7;2.0;20.1;1;2.5;0.017
+under65;Asian;6;4;37;42;-7.8;-12.4;-2.9;1;-3.2;0.003
+under65;Asian;6;5;42;45;8.6;-7.9;28.0;0;1.0;0.316
+under65;Asian;6;6;45;50;-3.4;-6.9;0.2;0;-1.9;0.062
+under65;Black or African American;4;0;1;25;0.0;-0.4;0.5;0;0.2;0.855
+under65;Black or African American;4;1;25;28;10.1;-10.1;34.7;0;1.0;0.342
+under65;Black or African American;4;2;28;42;-0.4;-1.4;0.7;0;-0.7;0.464
+under65;Black or African American;4;3;42;45;6.5;-13.2;30.7;0;0.6;0.536
+under65;Black or African American;4;4;45;50;-6.9;-11.1;-2.6;1;-3.2;0.003
+under65;hispanic;6;0;1;25;0.2;-0.3;0.7;0;0.7;0.460
+under65;hispanic;6;1;25;31;8.9;3.3;14.9;1;3.3;0.003
+under65;hispanic;6;2;31;34;-9.6;-28.7;14.6;0;-0.9;0.391
+under65;hispanic;6;3;34;37;19.6;-5.6;51.5;0;1.5;0.132
+under65;hispanic;6;4;37;40;-18.6;-35.6;3.0;0;-1.8;0.084
+under65;hispanic;6;5;40;45;9.1;1.3;17.4;1;2.4;0.023
+under65;hispanic;6;6;45;50;-5.6;-10.5;-0.5;1;-2.2;0.034
+under65;More than one race;0;0;1;50;0.8;0.6;1.0;1;8.9;0.000
+under65;Native Hawaiian or Other Pacific Islander;2;0;1;42;1.1;0.7;1.4;1;6.2;0.000
+under65;Native Hawaiian or Other Pacific Islander;2;1;42;45;17.2;-18.8;69.1;0;0.9;0.388
+under65;Native Hawaiian or Other Pacific Islander;2;2;45;50;-12.1;-19.1;-4.5;1;-3.1;0.003
+under65;White;2;0;1;20;-0.2;-0.6;0.3;0;-0.7;0.495
+under65;White;2;1;20;48;1.1;0.8;1.4;1;7.9;0.000
+under65;White;2;2;48;50;-10.5;-23.4;4.7;0;-1.4;0.161
