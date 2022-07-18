@@ -1,7 +1,7 @@
 ---
 title: "Tables 1 and S1"
 author: "Mathew Kiang"
-date: "5/3/2022"
+date: "7/15/2022"
 output: 
   html_document:
     toc: true
@@ -142,10 +142,10 @@ age_std %>%
     transmute(age_cat, 
               race_cat,
               date, 
-              all_cause_rate = sprintf("%0.1f (%0.1f, %0.1f)", 
-                                       round(all_cause_rate, 1), 
-                                       round(all_cause_rate - 1.96*all_cause_var, 1), 
-                                       round(all_cause_rate + 1.96*all_cause_var, 1)))  %>%
+              all_cause_rate = sprintf("%0.2f (%0.2f, %0.2f)", 
+                                       round(all_cause_rate, 2), 
+                                       round(all_cause_rate - 1.96*all_cause_var, 2), 
+                                       round(all_cause_rate + 1.96*all_cause_var, 2)))  %>%
     arrange(age_cat, 
               race_cat,
               date) %>%
