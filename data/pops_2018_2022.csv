@@ -1,0 +1,631 @@
+geography,sex,educ,year,race_eth,age,pop
+all,all,all,2018,American Indian or Alaska Native,0,162241
+all,all,all,2018,American Indian or Alaska Native,5,171054
+all,all,all,2018,American Indian or Alaska Native,10,177641
+all,all,all,2018,American Indian or Alaska Native,15,178610
+all,all,all,2018,American Indian or Alaska Native,20,184162
+all,all,all,2018,American Indian or Alaska Native,25,200130
+all,all,all,2018,American Indian or Alaska Native,30,170496
+all,all,all,2018,American Indian or Alaska Native,35,156743
+all,all,all,2018,American Indian or Alaska Native,40,140766
+all,all,all,2018,American Indian or Alaska Native,45,144577
+all,all,all,2018,American Indian or Alaska Native,50,149197
+all,all,all,2018,American Indian or Alaska Native,55,156860
+all,all,all,2018,American Indian or Alaska Native,60,137914
+all,all,all,2018,American Indian or Alaska Native,65,106787
+all,all,all,2018,American Indian or Alaska Native,70,76293
+all,all,all,2018,American Indian or Alaska Native,75,48614
+all,all,all,2018,American Indian or Alaska Native,80,29364
+all,all,all,2018,American Indian or Alaska Native,85,25922
+all,all,all,2018,Asian,0,992379
+all,all,all,2018,Asian,5,1024398
+all,all,all,2018,Asian,10,1061466
+all,all,all,2018,Asian,15,1097417
+all,all,all,2018,Asian,20,1292983
+all,all,all,2018,Asian,25,1605360
+all,all,all,2018,Asian,30,1634132
+all,all,all,2018,Asian,35,1562088
+all,all,all,2018,Asian,40,1437081
+all,all,all,2018,Asian,45,1390607
+all,all,all,2018,Asian,50,1183352
+all,all,all,2018,Asian,55,1091473
+all,all,all,2018,Asian,60,986559
+all,all,all,2018,Asian,65,823758
+all,all,all,2018,Asian,70,599679
+all,all,all,2018,Asian,75,404835
+all,all,all,2018,Asian,80,268634
+all,all,all,2018,Asian,85,272474
+all,all,all,2018,Black or African American,0,2724007
+all,all,all,2018,Black or African American,5,2781726
+all,all,all,2018,Black or African American,10,2846100
+all,all,all,2018,Black or African American,15,2927001
+all,all,all,2018,Black or African American,20,3127543
+all,all,all,2018,Black or African American,25,3477092
+all,all,all,2018,Black or African American,30,2915530
+all,all,all,2018,Black or African American,35,2767220
+all,all,all,2018,Black or African American,40,2490221
+all,all,all,2018,Black or African American,45,2589420
+all,all,all,2018,Black or African American,50,2591715
+all,all,all,2018,Black or African American,55,2609607
+all,all,all,2018,Black or African American,60,2284200
+all,all,all,2018,Black or African American,65,1754604
+all,all,all,2018,Black or African American,70,1205737
+all,all,all,2018,Black or African American,75,796677
+all,all,all,2018,Black or African American,80,513818
+all,all,all,2018,Black or African American,85,500005
+all,all,all,2018,hispanic,0,5171973
+all,all,all,2018,hispanic,5,5256407
+all,all,all,2018,hispanic,10,5278748
+all,all,all,2018,hispanic,15,4975084
+all,all,all,2018,hispanic,20,4839172
+all,all,all,2018,hispanic,25,4877375
+all,all,all,2018,hispanic,30,4551791
+all,all,all,2018,hispanic,35,4478782
+all,all,all,2018,hispanic,40,4108330
+all,all,all,2018,hispanic,45,3760917
+all,all,all,2018,hispanic,50,3264648
+all,all,all,2018,hispanic,55,2749799
+all,all,all,2018,hispanic,60,2140634
+all,all,all,2018,hispanic,65,1566030
+all,all,all,2018,hispanic,70,1116654
+all,all,all,2018,hispanic,75,740775
+all,all,all,2018,hispanic,80,495599
+all,all,all,2018,hispanic,85,499028
+all,all,all,2018,More than one race,0,952473
+all,all,all,2018,More than one race,5,927883
+all,all,all,2018,More than one race,10,858969
+all,all,all,2018,More than one race,15,735443
+all,all,all,2018,More than one race,20,655799
+all,all,all,2018,More than one race,25,556658
+all,all,all,2018,More than one race,30,421184
+all,all,all,2018,More than one race,35,366630
+all,all,all,2018,More than one race,40,296807
+all,all,all,2018,More than one race,45,271889
+all,all,all,2018,More than one race,50,236575
+all,all,all,2018,More than one race,55,232251
+all,all,all,2018,More than one race,60,197268
+all,all,all,2018,More than one race,65,148029
+all,all,all,2018,More than one race,70,105991
+all,all,all,2018,More than one race,75,67898
+all,all,all,2018,More than one race,80,42185
+all,all,all,2018,More than one race,85,40734
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,0,40674
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,5,40354
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,10,41889
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,15,40969
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,20,43835
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,25,51313
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,30,50670
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,35,47615
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,40,39421
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,45,36989
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,50,34697
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,55,33467
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,60,27659
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,65,21656
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,70,15153
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,75,9142
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,80,5655
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,85,5188
+all,all,all,2018,White,0,9766528
+all,all,all,2018,White,5,9993820
+all,all,all,2018,White,10,10614714
+all,all,all,2018,White,15,11142697
+all,all,all,2018,White,20,11730085
+all,all,all,2018,White,25,12793828
+all,all,all,2018,White,30,12392215
+all,all,all,2018,White,35,12184509
+all,all,all,2018,White,40,11201675
+all,all,all,2018,White,45,12552736
+all,all,all,2018,White,50,13424380
+all,all,all,2018,White,55,15067528
+all,all,all,2018,White,60,14557417
+all,all,all,2018,White,65,12666029
+all,all,all,2018,White,70,10285916
+all,all,all,2018,White,75,7199125
+all,all,all,2018,White,80,4772053
+all,all,all,2018,White,85,5201152
+all,all,all,2019,American Indian or Alaska Native,0,161894
+all,all,all,2019,American Indian or Alaska Native,5,172598
+all,all,all,2019,American Indian or Alaska Native,10,176829
+all,all,all,2019,American Indian or Alaska Native,15,177333
+all,all,all,2019,American Indian or Alaska Native,20,181686
+all,all,all,2019,American Indian or Alaska Native,25,200776
+all,all,all,2019,American Indian or Alaska Native,30,175046
+all,all,all,2019,American Indian or Alaska Native,35,159155
+all,all,all,2019,American Indian or Alaska Native,40,142290
+all,all,all,2019,American Indian or Alaska Native,45,142567
+all,all,all,2019,American Indian or Alaska Native,50,145125
+all,all,all,2019,American Indian or Alaska Native,55,157082
+all,all,all,2019,American Indian or Alaska Native,60,141109
+all,all,all,2019,American Indian or Alaska Native,65,110613
+all,all,all,2019,American Indian or Alaska Native,70,81240
+all,all,all,2019,American Indian or Alaska Native,75,51392
+all,all,all,2019,American Indian or Alaska Native,80,31257
+all,all,all,2019,American Indian or Alaska Native,85,26916
+all,all,all,2019,Asian,0,959256
+all,all,all,2019,Asian,5,1019975
+all,all,all,2019,Asian,10,1055572
+all,all,all,2019,Asian,15,1107305
+all,all,all,2019,Asian,20,1256369
+all,all,all,2019,Asian,25,1575091
+all,all,all,2019,Asian,30,1661341
+all,all,all,2019,Asian,35,1600457
+all,all,all,2019,Asian,40,1445094
+all,all,all,2019,Asian,45,1411300
+all,all,all,2019,Asian,50,1201079
+all,all,all,2019,Asian,55,1117164
+all,all,all,2019,Asian,60,1003002
+all,all,all,2019,Asian,65,848563
+all,all,all,2019,Asian,70,643700
+all,all,all,2019,Asian,75,426489
+all,all,all,2019,Asian,80,283340
+all,all,all,2019,Asian,85,290782
+all,all,all,2019,Black or African American,0,2684389
+all,all,all,2019,Black or African American,5,2776150
+all,all,all,2019,Black or African American,10,2856810
+all,all,all,2019,Black or African American,15,2895818
+all,all,all,2019,Black or African American,20,3060213
+all,all,all,2019,Black or African American,25,3493114
+all,all,all,2019,Black or African American,30,3026581
+all,all,all,2019,Black or African American,35,2783964
+all,all,all,2019,Black or African American,40,2533979
+all,all,all,2019,Black or African American,45,2566124
+all,all,all,2019,Black or African American,50,2537690
+all,all,all,2019,Black or African American,55,2612639
+all,all,all,2019,Black or African American,60,2340884
+all,all,all,2019,Black or African American,65,1814861
+all,all,all,2019,Black or African American,70,1285799
+all,all,all,2019,Black or African American,75,831780
+all,all,all,2019,Black or African American,80,535153
+all,all,all,2019,Black or African American,85,511540
+all,all,all,2019,hispanic,0,5094211
+all,all,all,2019,hispanic,5,5243825
+all,all,all,2019,hispanic,10,5323761
+all,all,all,2019,hispanic,15,5040048
+all,all,all,2019,hispanic,20,4844542
+all,all,all,2019,hispanic,25,4939078
+all,all,all,2019,hispanic,30,4586185
+all,all,all,2019,hispanic,35,4509927
+all,all,all,2019,hispanic,40,4146558
+all,all,all,2019,hispanic,45,3815729
+all,all,all,2019,hispanic,50,3312479
+all,all,all,2019,hispanic,55,2848574
+all,all,all,2019,hispanic,60,2228354
+all,all,all,2019,hispanic,65,1640334
+all,all,all,2019,hispanic,70,1181785
+all,all,all,2019,hispanic,75,780314
+all,all,all,2019,hispanic,80,527437
+all,all,all,2019,hispanic,85,509096
+all,all,all,2019,More than one race,0,939603
+all,all,all,2019,More than one race,5,932226
+all,all,all,2019,More than one race,10,882122
+all,all,all,2019,More than one race,15,754363
+all,all,all,2019,More than one race,20,672604
+all,all,all,2019,More than one race,25,584149
+all,all,all,2019,More than one race,30,441660
+all,all,all,2019,More than one race,35,376828
+all,all,all,2019,More than one race,40,308365
+all,all,all,2019,More than one race,45,275317
+all,all,all,2019,More than one race,50,237962
+all,all,all,2019,More than one race,55,234946
+all,all,all,2019,More than one race,60,204115
+all,all,all,2019,More than one race,65,155063
+all,all,all,2019,More than one race,70,113277
+all,all,all,2019,More than one race,75,72571
+all,all,all,2019,More than one race,80,44581
+all,all,all,2019,More than one race,85,43529
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,0,40085
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,5,40058
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,10,42183
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,15,41462
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,20,43020
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,25,50839
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,30,52049
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,35,49305
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,40,40787
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,45,37302
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,50,35062
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,55,34337
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,60,28962
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,65,22369
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,70,16508
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,75,9873
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,80,6046
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,85,5661
+all,all,all,2019,White,0,9697245
+all,all,all,2019,White,5,10011063
+all,all,all,2019,White,10,10460991
+all,all,all,2019,White,15,11038241
+all,all,all,2019,White,20,11574506
+all,all,all,2019,White,25,12665969
+all,all,all,2019,White,30,12488443
+all,all,all,2019,White,35,12257885
+all,all,all,2019,White,40,11304550
+all,all,all,2019,White,45,12149412
+all,all,all,2019,White,50,13007754
+all,all,all,2019,White,55,14872649
+all,all,all,2019,White,60,14624720
+all,all,all,2019,White,65,12863198
+all,all,all,2019,White,70,10706123
+all,all,all,2019,White,75,7480246
+all,all,all,2019,White,80,4889393
+all,all,all,2019,White,85,5217434
+all,all,all,2020,American Indian or Alaska Native,0,147997
+all,all,all,2020,American Indian or Alaska Native,5,165935
+all,all,all,2020,American Indian or Alaska Native,10,175476
+all,all,all,2020,American Indian or Alaska Native,15,175915
+all,all,all,2020,American Indian or Alaska Native,20,181390
+all,all,all,2020,American Indian or Alaska Native,25,197916
+all,all,all,2020,American Indian or Alaska Native,30,181510
+all,all,all,2020,American Indian or Alaska Native,35,160442
+all,all,all,2020,American Indian or Alaska Native,40,145650
+all,all,all,2020,American Indian or Alaska Native,45,140258
+all,all,all,2020,American Indian or Alaska Native,50,142590
+all,all,all,2020,American Indian or Alaska Native,55,155170
+all,all,all,2020,American Indian or Alaska Native,60,144543
+all,all,all,2020,American Indian or Alaska Native,65,114759
+all,all,all,2020,American Indian or Alaska Native,70,86663
+all,all,all,2020,American Indian or Alaska Native,75,54076
+all,all,all,2020,American Indian or Alaska Native,80,33178
+all,all,all,2020,American Indian or Alaska Native,85,28870
+all,all,all,2020,Asian,0,1088502
+all,all,all,2020,Asian,5,1135208
+all,all,all,2020,Asian,10,1057249
+all,all,all,2020,Asian,15,1108791
+all,all,all,2020,Asian,20,1237726
+all,all,all,2020,Asian,25,1531610
+all,all,all,2020,Asian,30,1683958
+all,all,all,2020,Asian,35,1629573
+all,all,all,2020,Asian,40,1464535
+all,all,all,2020,Asian,45,1423370
+all,all,all,2020,Asian,50,1240000
+all,all,all,2020,Asian,55,1125808
+all,all,all,2020,Asian,60,1021363
+all,all,all,2020,Asian,65,869190
+all,all,all,2020,Asian,70,691915
+all,all,all,2020,Asian,75,448599
+all,all,all,2020,Asian,80,300460
+all,all,all,2020,Asian,85,309340
+all,all,all,2020,Black or African American,0,2681631
+all,all,all,2020,Black or African American,5,2777908
+all,all,all,2020,Black or African American,10,2860425
+all,all,all,2020,Black or African American,15,2854747
+all,all,all,2020,Black or African American,20,3039212
+all,all,all,2020,Black or African American,25,3438045
+all,all,all,2020,Black or African American,30,3162414
+all,all,all,2020,Black or African American,35,2792908
+all,all,all,2020,Black or African American,40,2602941
+all,all,all,2020,Black or African American,45,2521896
+all,all,all,2020,Black or African American,50,2520576
+all,all,all,2020,Black or African American,55,2597447
+all,all,all,2020,Black or African American,60,2392646
+all,all,all,2020,Black or African American,65,1875220
+all,all,all,2020,Black or African American,70,1371154
+all,all,all,2020,Black or African American,75,862143
+all,all,all,2020,Black or African American,80,551363
+all,all,all,2020,Black or African American,85,524665
+all,all,all,2020,hispanic,0,4999801
+all,all,all,2020,hispanic,5,5172470
+all,all,all,2020,hispanic,10,5368702
+all,all,all,2020,hispanic,15,5106426
+all,all,all,2020,hispanic,20,4907287
+all,all,all,2020,hispanic,25,4962142
+all,all,all,2020,hispanic,30,4665181
+all,all,all,2020,hispanic,35,4513399
+all,all,all,2020,hispanic,40,4229491
+all,all,all,2020,hispanic,45,3862201
+all,all,all,2020,hispanic,50,3388031
+all,all,all,2020,hispanic,55,2926665
+all,all,all,2020,hispanic,60,2329263
+all,all,all,2020,hispanic,65,1725067
+all,all,all,2020,hispanic,70,1253519
+all,all,all,2020,hispanic,75,820153
+all,all,all,2020,hispanic,80,548313
+all,all,all,2020,hispanic,85,534768
+all,all,all,2020,More than one race,0,991183
+all,all,all,2020,More than one race,5,983060
+all,all,all,2020,More than one race,10,908111
+all,all,all,2020,More than one race,15,775419
+all,all,all,2020,More than one race,20,692210
+all,all,all,2020,More than one race,25,608484
+all,all,all,2020,More than one race,30,468263
+all,all,all,2020,More than one race,35,385424
+all,all,all,2020,More than one race,40,324261
+all,all,all,2020,More than one race,45,276936
+all,all,all,2020,More than one race,50,244364
+all,all,all,2020,More than one race,55,234936
+all,all,all,2020,More than one race,60,210801
+all,all,all,2020,More than one race,65,162997
+all,all,all,2020,More than one race,70,121040
+all,all,all,2020,More than one race,75,76895
+all,all,all,2020,More than one race,80,47233
+all,all,all,2020,More than one race,85,45854
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,0,44258
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,5,43795
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,10,42224
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,15,41807
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,20,42916
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,25,49711
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,30,53354
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,35,50031
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,40,42796
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,45,37629
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,50,35693
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,55,34819
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,60,30138
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,65,23285
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,70,17732
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,75,10694
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,80,6515
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,85,6110
+all,all,all,2020,White,0,9347920
+all,all,all,2020,White,5,9959335
+all,all,all,2020,White,10,10342236
+all,all,all,2020,White,15,10897824
+all,all,all,2020,White,20,11494014
+all,all,all,2020,White,25,12443335
+all,all,all,2020,White,30,12623723
+all,all,all,2020,White,35,12296527
+all,all,all,2020,White,40,11498214
+all,all,all,2020,White,45,11708316
+all,all,all,2020,White,50,12824273
+all,all,all,2020,White,55,14528254
+all,all,all,2020,White,60,14671824
+all,all,all,2020,White,65,13103149
+all,all,all,2020,White,70,11133708
+all,all,all,2020,White,75,7714273
+all,all,all,2020,White,80,4977652
+all,all,all,2020,White,85,5208813
+all,all,all,2021,American Indian or Alaska Native,0,147997
+all,all,all,2021,American Indian or Alaska Native,5,165935
+all,all,all,2021,American Indian or Alaska Native,10,175476
+all,all,all,2021,American Indian or Alaska Native,15,175915
+all,all,all,2021,American Indian or Alaska Native,20,181390
+all,all,all,2021,American Indian or Alaska Native,25,197916
+all,all,all,2021,American Indian or Alaska Native,30,181510
+all,all,all,2021,American Indian or Alaska Native,35,160442
+all,all,all,2021,American Indian or Alaska Native,40,145650
+all,all,all,2021,American Indian or Alaska Native,45,140258
+all,all,all,2021,American Indian or Alaska Native,50,142590
+all,all,all,2021,American Indian or Alaska Native,55,155170
+all,all,all,2021,American Indian or Alaska Native,60,144543
+all,all,all,2021,American Indian or Alaska Native,65,114759
+all,all,all,2021,American Indian or Alaska Native,70,86663
+all,all,all,2021,American Indian or Alaska Native,75,54076
+all,all,all,2021,American Indian or Alaska Native,80,33178
+all,all,all,2021,American Indian or Alaska Native,85,28870
+all,all,all,2021,Asian,0,1088502
+all,all,all,2021,Asian,5,1135208
+all,all,all,2021,Asian,10,1057249
+all,all,all,2021,Asian,15,1108791
+all,all,all,2021,Asian,20,1237726
+all,all,all,2021,Asian,25,1531610
+all,all,all,2021,Asian,30,1683958
+all,all,all,2021,Asian,35,1629573
+all,all,all,2021,Asian,40,1464535
+all,all,all,2021,Asian,45,1423370
+all,all,all,2021,Asian,50,1240000
+all,all,all,2021,Asian,55,1125808
+all,all,all,2021,Asian,60,1021363
+all,all,all,2021,Asian,65,869190
+all,all,all,2021,Asian,70,691915
+all,all,all,2021,Asian,75,448599
+all,all,all,2021,Asian,80,300460
+all,all,all,2021,Asian,85,309340
+all,all,all,2021,Black or African American,0,2681631
+all,all,all,2021,Black or African American,5,2777908
+all,all,all,2021,Black or African American,10,2860425
+all,all,all,2021,Black or African American,15,2854747
+all,all,all,2021,Black or African American,20,3039212
+all,all,all,2021,Black or African American,25,3438045
+all,all,all,2021,Black or African American,30,3162414
+all,all,all,2021,Black or African American,35,2792908
+all,all,all,2021,Black or African American,40,2602941
+all,all,all,2021,Black or African American,45,2521896
+all,all,all,2021,Black or African American,50,2520576
+all,all,all,2021,Black or African American,55,2597447
+all,all,all,2021,Black or African American,60,2392646
+all,all,all,2021,Black or African American,65,1875220
+all,all,all,2021,Black or African American,70,1371154
+all,all,all,2021,Black or African American,75,862143
+all,all,all,2021,Black or African American,80,551363
+all,all,all,2021,Black or African American,85,524665
+all,all,all,2021,hispanic,0,4999801
+all,all,all,2021,hispanic,5,5172470
+all,all,all,2021,hispanic,10,5368702
+all,all,all,2021,hispanic,15,5106426
+all,all,all,2021,hispanic,20,4907287
+all,all,all,2021,hispanic,25,4962142
+all,all,all,2021,hispanic,30,4665181
+all,all,all,2021,hispanic,35,4513399
+all,all,all,2021,hispanic,40,4229491
+all,all,all,2021,hispanic,45,3862201
+all,all,all,2021,hispanic,50,3388031
+all,all,all,2021,hispanic,55,2926665
+all,all,all,2021,hispanic,60,2329263
+all,all,all,2021,hispanic,65,1725067
+all,all,all,2021,hispanic,70,1253519
+all,all,all,2021,hispanic,75,820153
+all,all,all,2021,hispanic,80,548313
+all,all,all,2021,hispanic,85,534768
+all,all,all,2021,More than one race,0,991183
+all,all,all,2021,More than one race,5,983060
+all,all,all,2021,More than one race,10,908111
+all,all,all,2021,More than one race,15,775419
+all,all,all,2021,More than one race,20,692210
+all,all,all,2021,More than one race,25,608484
+all,all,all,2021,More than one race,30,468263
+all,all,all,2021,More than one race,35,385424
+all,all,all,2021,More than one race,40,324261
+all,all,all,2021,More than one race,45,276936
+all,all,all,2021,More than one race,50,244364
+all,all,all,2021,More than one race,55,234936
+all,all,all,2021,More than one race,60,210801
+all,all,all,2021,More than one race,65,162997
+all,all,all,2021,More than one race,70,121040
+all,all,all,2021,More than one race,75,76895
+all,all,all,2021,More than one race,80,47233
+all,all,all,2021,More than one race,85,45854
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,0,44258
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,5,43795
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,10,42224
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,15,41807
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,20,42916
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,25,49711
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,30,53354
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,35,50031
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,40,42796
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,45,37629
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,50,35693
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,55,34819
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,60,30138
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,65,23285
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,70,17732
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,75,10694
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,80,6515
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,85,6110
+all,all,all,2021,White,0,9347920
+all,all,all,2021,White,5,9959335
+all,all,all,2021,White,10,10342236
+all,all,all,2021,White,15,10897824
+all,all,all,2021,White,20,11494014
+all,all,all,2021,White,25,12443335
+all,all,all,2021,White,30,12623723
+all,all,all,2021,White,35,12296527
+all,all,all,2021,White,40,11498214
+all,all,all,2021,White,45,11708316
+all,all,all,2021,White,50,12824273
+all,all,all,2021,White,55,14528254
+all,all,all,2021,White,60,14671824
+all,all,all,2021,White,65,13103149
+all,all,all,2021,White,70,11133708
+all,all,all,2021,White,75,7714273
+all,all,all,2021,White,80,4977652
+all,all,all,2021,White,85,5208813
+all,all,all,2022,American Indian or Alaska Native,0,147997
+all,all,all,2022,American Indian or Alaska Native,5,165935
+all,all,all,2022,American Indian or Alaska Native,10,175476
+all,all,all,2022,American Indian or Alaska Native,15,175915
+all,all,all,2022,American Indian or Alaska Native,20,181390
+all,all,all,2022,American Indian or Alaska Native,25,197916
+all,all,all,2022,American Indian or Alaska Native,30,181510
+all,all,all,2022,American Indian or Alaska Native,35,160442
+all,all,all,2022,American Indian or Alaska Native,40,145650
+all,all,all,2022,American Indian or Alaska Native,45,140258
+all,all,all,2022,American Indian or Alaska Native,50,142590
+all,all,all,2022,American Indian or Alaska Native,55,155170
+all,all,all,2022,American Indian or Alaska Native,60,144543
+all,all,all,2022,American Indian or Alaska Native,65,114759
+all,all,all,2022,American Indian or Alaska Native,70,86663
+all,all,all,2022,American Indian or Alaska Native,75,54076
+all,all,all,2022,American Indian or Alaska Native,80,33178
+all,all,all,2022,American Indian or Alaska Native,85,28870
+all,all,all,2022,Asian,0,1088502
+all,all,all,2022,Asian,5,1135208
+all,all,all,2022,Asian,10,1057249
+all,all,all,2022,Asian,15,1108791
+all,all,all,2022,Asian,20,1237726
+all,all,all,2022,Asian,25,1531610
+all,all,all,2022,Asian,30,1683958
+all,all,all,2022,Asian,35,1629573
+all,all,all,2022,Asian,40,1464535
+all,all,all,2022,Asian,45,1423370
+all,all,all,2022,Asian,50,1240000
+all,all,all,2022,Asian,55,1125808
+all,all,all,2022,Asian,60,1021363
+all,all,all,2022,Asian,65,869190
+all,all,all,2022,Asian,70,691915
+all,all,all,2022,Asian,75,448599
+all,all,all,2022,Asian,80,300460
+all,all,all,2022,Asian,85,309340
+all,all,all,2022,Black or African American,0,2681631
+all,all,all,2022,Black or African American,5,2777908
+all,all,all,2022,Black or African American,10,2860425
+all,all,all,2022,Black or African American,15,2854747
+all,all,all,2022,Black or African American,20,3039212
+all,all,all,2022,Black or African American,25,3438045
+all,all,all,2022,Black or African American,30,3162414
+all,all,all,2022,Black or African American,35,2792908
+all,all,all,2022,Black or African American,40,2602941
+all,all,all,2022,Black or African American,45,2521896
+all,all,all,2022,Black or African American,50,2520576
+all,all,all,2022,Black or African American,55,2597447
+all,all,all,2022,Black or African American,60,2392646
+all,all,all,2022,Black or African American,65,1875220
+all,all,all,2022,Black or African American,70,1371154
+all,all,all,2022,Black or African American,75,862143
+all,all,all,2022,Black or African American,80,551363
+all,all,all,2022,Black or African American,85,524665
+all,all,all,2022,hispanic,0,4999801
+all,all,all,2022,hispanic,5,5172470
+all,all,all,2022,hispanic,10,5368702
+all,all,all,2022,hispanic,15,5106426
+all,all,all,2022,hispanic,20,4907287
+all,all,all,2022,hispanic,25,4962142
+all,all,all,2022,hispanic,30,4665181
+all,all,all,2022,hispanic,35,4513399
+all,all,all,2022,hispanic,40,4229491
+all,all,all,2022,hispanic,45,3862201
+all,all,all,2022,hispanic,50,3388031
+all,all,all,2022,hispanic,55,2926665
+all,all,all,2022,hispanic,60,2329263
+all,all,all,2022,hispanic,65,1725067
+all,all,all,2022,hispanic,70,1253519
+all,all,all,2022,hispanic,75,820153
+all,all,all,2022,hispanic,80,548313
+all,all,all,2022,hispanic,85,534768
+all,all,all,2022,More than one race,0,991183
+all,all,all,2022,More than one race,5,983060
+all,all,all,2022,More than one race,10,908111
+all,all,all,2022,More than one race,15,775419
+all,all,all,2022,More than one race,20,692210
+all,all,all,2022,More than one race,25,608484
+all,all,all,2022,More than one race,30,468263
+all,all,all,2022,More than one race,35,385424
+all,all,all,2022,More than one race,40,324261
+all,all,all,2022,More than one race,45,276936
+all,all,all,2022,More than one race,50,244364
+all,all,all,2022,More than one race,55,234936
+all,all,all,2022,More than one race,60,210801
+all,all,all,2022,More than one race,65,162997
+all,all,all,2022,More than one race,70,121040
+all,all,all,2022,More than one race,75,76895
+all,all,all,2022,More than one race,80,47233
+all,all,all,2022,More than one race,85,45854
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,0,44258
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,5,43795
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,10,42224
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,15,41807
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,20,42916
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,25,49711
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,30,53354
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,35,50031
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,40,42796
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,45,37629
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,50,35693
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,55,34819
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,60,30138
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,65,23285
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,70,17732
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,75,10694
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,80,6515
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,85,6110
+all,all,all,2022,White,0,9347920
+all,all,all,2022,White,5,9959335
+all,all,all,2022,White,10,10342236
+all,all,all,2022,White,15,10897824
+all,all,all,2022,White,20,11494014
+all,all,all,2022,White,25,12443335
+all,all,all,2022,White,30,12623723
+all,all,all,2022,White,35,12296527
+all,all,all,2022,White,40,11498214
+all,all,all,2022,White,45,11708316
+all,all,all,2022,White,50,12824273
+all,all,all,2022,White,55,14528254
+all,all,all,2022,White,60,14671824
+all,all,all,2022,White,65,13103149
+all,all,all,2022,White,70,11133708
+all,all,all,2022,White,75,7714273
+all,all,all,2022,White,80,4977652
+all,all,all,2022,White,85,5208813

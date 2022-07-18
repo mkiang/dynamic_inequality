@@ -1,0 +1,803 @@
+geography,sex,educ,year,race_eth,age_grp,pop
+all,all,all,2018,American Indian or Alaska Native,< 1 year,31525
+all,all,all,2018,American Indian or Alaska Native,1-4 years,130716
+all,all,all,2018,American Indian or Alaska Native,5-9 years,171054
+all,all,all,2018,American Indian or Alaska Native,10-14 years,177641
+all,all,all,2018,American Indian or Alaska Native,15-19 years,178610
+all,all,all,2018,American Indian or Alaska Native,20-24 years,184162
+all,all,all,2018,American Indian or Alaska Native,25-29 years,200130
+all,all,all,2018,American Indian or Alaska Native,30-34 years,170496
+all,all,all,2018,American Indian or Alaska Native,35-39 years,156743
+all,all,all,2018,American Indian or Alaska Native,40-44 years,140766
+all,all,all,2018,American Indian or Alaska Native,45-49 years,144577
+all,all,all,2018,American Indian or Alaska Native,50-54 years,149197
+all,all,all,2018,American Indian or Alaska Native,55-59 years,156860
+all,all,all,2018,American Indian or Alaska Native,60-64 years ,137914
+all,all,all,2018,American Indian or Alaska Native,65-69 years,106787
+all,all,all,2018,American Indian or Alaska Native,70-74 years,76293
+all,all,all,2018,American Indian or Alaska Native,75-79 years,48614
+all,all,all,2018,American Indian or Alaska Native,80-84 years,29364
+all,all,all,2018,American Indian or Alaska Native,85-89 years,NA
+all,all,all,2018,American Indian or Alaska Native,90-94 years,NA
+all,all,all,2018,American Indian or Alaska Native,95-99 years,NA
+all,all,all,2018,American Indian or Alaska Native,100+ years,NA
+all,all,all,2018,American Indian or Alaska Native,All ages,2417371
+all,all,all,2019,American Indian or Alaska Native,< 1 year,31497
+all,all,all,2019,American Indian or Alaska Native,1-4 years,130397
+all,all,all,2019,American Indian or Alaska Native,5-9 years,172598
+all,all,all,2019,American Indian or Alaska Native,10-14 years,176829
+all,all,all,2019,American Indian or Alaska Native,15-19 years,177333
+all,all,all,2019,American Indian or Alaska Native,20-24 years,181686
+all,all,all,2019,American Indian or Alaska Native,25-29 years,200776
+all,all,all,2019,American Indian or Alaska Native,30-34 years,175046
+all,all,all,2019,American Indian or Alaska Native,35-39 years,159155
+all,all,all,2019,American Indian or Alaska Native,40-44 years,142290
+all,all,all,2019,American Indian or Alaska Native,45-49 years,142567
+all,all,all,2019,American Indian or Alaska Native,50-54 years,145125
+all,all,all,2019,American Indian or Alaska Native,55-59 years,157082
+all,all,all,2019,American Indian or Alaska Native,60-64 years ,141109
+all,all,all,2019,American Indian or Alaska Native,65-69 years,110613
+all,all,all,2019,American Indian or Alaska Native,70-74 years,81240
+all,all,all,2019,American Indian or Alaska Native,75-79 years,51392
+all,all,all,2019,American Indian or Alaska Native,80-84 years,31257
+all,all,all,2019,American Indian or Alaska Native,85-89 years,NA
+all,all,all,2019,American Indian or Alaska Native,90-94 years,NA
+all,all,all,2019,American Indian or Alaska Native,95-99 years,NA
+all,all,all,2019,American Indian or Alaska Native,100+ years,NA
+all,all,all,2019,American Indian or Alaska Native,All ages,2434908
+all,all,all,2020,American Indian or Alaska Native,< 1 year,28154
+all,all,all,2020,American Indian or Alaska Native,1-4 years,119843
+all,all,all,2020,American Indian or Alaska Native,5-9 years,165935
+all,all,all,2020,American Indian or Alaska Native,10-14 years,175476
+all,all,all,2020,American Indian or Alaska Native,15-19 years,175915
+all,all,all,2020,American Indian or Alaska Native,20-24 years,181390
+all,all,all,2020,American Indian or Alaska Native,25-29 years,197916
+all,all,all,2020,American Indian or Alaska Native,30-34 years,181510
+all,all,all,2020,American Indian or Alaska Native,35-39 years,160442
+all,all,all,2020,American Indian or Alaska Native,40-44 years,145650
+all,all,all,2020,American Indian or Alaska Native,45-49 years,140258
+all,all,all,2020,American Indian or Alaska Native,50-54 years,142590
+all,all,all,2020,American Indian or Alaska Native,55-59 years,155170
+all,all,all,2020,American Indian or Alaska Native,60-64 years ,144543
+all,all,all,2020,American Indian or Alaska Native,65-69 years,114759
+all,all,all,2020,American Indian or Alaska Native,70-74 years,86663
+all,all,all,2020,American Indian or Alaska Native,75-79 years,54076
+all,all,all,2020,American Indian or Alaska Native,80-84 years,33178
+all,all,all,2020,American Indian or Alaska Native,85-89 years,NA
+all,all,all,2020,American Indian or Alaska Native,90-94 years,NA
+all,all,all,2020,American Indian or Alaska Native,95-99 years,NA
+all,all,all,2020,American Indian or Alaska Native,100+ years,NA
+all,all,all,2020,American Indian or Alaska Native,All ages,2432338
+all,all,all,2021,American Indian or Alaska Native,< 1 year,28154
+all,all,all,2021,American Indian or Alaska Native,1-4 years,119843
+all,all,all,2021,American Indian or Alaska Native,5-9 years,165935
+all,all,all,2021,American Indian or Alaska Native,10-14 years,175476
+all,all,all,2021,American Indian or Alaska Native,15-19 years,175915
+all,all,all,2021,American Indian or Alaska Native,20-24 years,181390
+all,all,all,2021,American Indian or Alaska Native,25-29 years,197916
+all,all,all,2021,American Indian or Alaska Native,30-34 years,181510
+all,all,all,2021,American Indian or Alaska Native,35-39 years,160442
+all,all,all,2021,American Indian or Alaska Native,40-44 years,145650
+all,all,all,2021,American Indian or Alaska Native,45-49 years,140258
+all,all,all,2021,American Indian or Alaska Native,50-54 years,142590
+all,all,all,2021,American Indian or Alaska Native,55-59 years,155170
+all,all,all,2021,American Indian or Alaska Native,60-64 years ,144543
+all,all,all,2021,American Indian or Alaska Native,65-69 years,114759
+all,all,all,2021,American Indian or Alaska Native,70-74 years,86663
+all,all,all,2021,American Indian or Alaska Native,75-79 years,54076
+all,all,all,2021,American Indian or Alaska Native,80-84 years,33178
+all,all,all,2021,American Indian or Alaska Native,85-89 years,NA
+all,all,all,2021,American Indian or Alaska Native,90-94 years,NA
+all,all,all,2021,American Indian or Alaska Native,95-99 years,NA
+all,all,all,2021,American Indian or Alaska Native,100+ years,NA
+all,all,all,2021,American Indian or Alaska Native,All ages,2432338
+all,all,all,2022,American Indian or Alaska Native,< 1 year,28154
+all,all,all,2022,American Indian or Alaska Native,1-4 years,119843
+all,all,all,2022,American Indian or Alaska Native,5-9 years,165935
+all,all,all,2022,American Indian or Alaska Native,15-19 years,175915
+all,all,all,2022,American Indian or Alaska Native,20-24 years,181390
+all,all,all,2022,American Indian or Alaska Native,25-29 years,197916
+all,all,all,2022,American Indian or Alaska Native,30-34 years,181510
+all,all,all,2022,American Indian or Alaska Native,35-39 years,160442
+all,all,all,2022,American Indian or Alaska Native,40-44 years,145650
+all,all,all,2022,American Indian or Alaska Native,45-49 years,140258
+all,all,all,2022,American Indian or Alaska Native,50-54 years,142590
+all,all,all,2022,American Indian or Alaska Native,55-59 years,155170
+all,all,all,2022,American Indian or Alaska Native,60-64 years ,144543
+all,all,all,2022,American Indian or Alaska Native,65-69 years,114759
+all,all,all,2022,American Indian or Alaska Native,70-74 years,86663
+all,all,all,2022,American Indian or Alaska Native,75-79 years,54076
+all,all,all,2022,American Indian or Alaska Native,80-84 years,33178
+all,all,all,2022,American Indian or Alaska Native,85-89 years,NA
+all,all,all,2022,American Indian or Alaska Native,90-94 years,NA
+all,all,all,2022,American Indian or Alaska Native,95-99 years,NA
+all,all,all,2022,American Indian or Alaska Native,100+ years,NA
+all,all,all,2022,American Indian or Alaska Native,All ages,2432338
+all,all,all,2018,Asian,< 1 year,182275
+all,all,all,2018,Asian,1-4 years,810104
+all,all,all,2018,Asian,5-9 years,1024398
+all,all,all,2018,Asian,10-14 years,1061466
+all,all,all,2018,Asian,15-19 years,1097417
+all,all,all,2018,Asian,20-24 years,1292983
+all,all,all,2018,Asian,25-29 years,1605360
+all,all,all,2018,Asian,30-34 years,1634132
+all,all,all,2018,Asian,35-39 years,1562088
+all,all,all,2018,Asian,40-44 years,1437081
+all,all,all,2018,Asian,45-49 years,1390607
+all,all,all,2018,Asian,50-54 years,1183352
+all,all,all,2018,Asian,55-59 years,1091473
+all,all,all,2018,Asian,60-64 years ,986559
+all,all,all,2018,Asian,65-69 years,823758
+all,all,all,2018,Asian,70-74 years,599679
+all,all,all,2018,Asian,75-79 years,404835
+all,all,all,2018,Asian,80-84 years,268634
+all,all,all,2018,Asian,85-89 years,NA
+all,all,all,2018,Asian,90-94 years,NA
+all,all,all,2018,Asian,95-99 years,NA
+all,all,all,2018,Asian,100+ years,NA
+all,all,all,2018,Asian,All ages,18728675
+all,all,all,2019,Asian,< 1 year,175227
+all,all,all,2019,Asian,1-4 years,784029
+all,all,all,2019,Asian,5-9 years,1019975
+all,all,all,2019,Asian,10-14 years,1055572
+all,all,all,2019,Asian,15-19 years,1107305
+all,all,all,2019,Asian,20-24 years,1256369
+all,all,all,2019,Asian,25-29 years,1575091
+all,all,all,2019,Asian,30-34 years,1661341
+all,all,all,2019,Asian,35-39 years,1600457
+all,all,all,2019,Asian,40-44 years,1445094
+all,all,all,2019,Asian,45-49 years,1411300
+all,all,all,2019,Asian,50-54 years,1201079
+all,all,all,2019,Asian,55-59 years,1117164
+all,all,all,2019,Asian,60-64 years ,1003002
+all,all,all,2019,Asian,65-69 years,848563
+all,all,all,2019,Asian,70-74 years,643700
+all,all,all,2019,Asian,75-79 years,426489
+all,all,all,2019,Asian,80-84 years,283340
+all,all,all,2019,Asian,85-89 years,NA
+all,all,all,2019,Asian,90-94 years,NA
+all,all,all,2019,Asian,95-99 years,NA
+all,all,all,2019,Asian,100+ years,NA
+all,all,all,2019,Asian,All ages,18905879
+all,all,all,2020,Asian,< 1 year,201653
+all,all,all,2020,Asian,1-4 years,886849
+all,all,all,2020,Asian,5-9 years,1135208
+all,all,all,2020,Asian,10-14 years,1057249
+all,all,all,2020,Asian,15-19 years,1108791
+all,all,all,2020,Asian,20-24 years,1237726
+all,all,all,2020,Asian,25-29 years,1531610
+all,all,all,2020,Asian,30-34 years,1683958
+all,all,all,2020,Asian,35-39 years,1629573
+all,all,all,2020,Asian,40-44 years,1464535
+all,all,all,2020,Asian,45-49 years,1423370
+all,all,all,2020,Asian,50-54 years,1240000
+all,all,all,2020,Asian,55-59 years,1125808
+all,all,all,2020,Asian,60-64 years ,1021363
+all,all,all,2020,Asian,65-69 years,869190
+all,all,all,2020,Asian,70-74 years,691915
+all,all,all,2020,Asian,75-79 years,448599
+all,all,all,2020,Asian,80-84 years,300460
+all,all,all,2020,Asian,85-89 years,NA
+all,all,all,2020,Asian,90-94 years,NA
+all,all,all,2020,Asian,95-99 years,NA
+all,all,all,2020,Asian,100+ years,NA
+all,all,all,2020,Asian,All ages,19367197
+all,all,all,2021,Asian,< 1 year,201653
+all,all,all,2021,Asian,1-4 years,886849
+all,all,all,2021,Asian,5-9 years,1135208
+all,all,all,2021,Asian,10-14 years,1057249
+all,all,all,2021,Asian,15-19 years,1108791
+all,all,all,2021,Asian,20-24 years,1237726
+all,all,all,2021,Asian,25-29 years,1531610
+all,all,all,2021,Asian,30-34 years,1683958
+all,all,all,2021,Asian,35-39 years,1629573
+all,all,all,2021,Asian,40-44 years,1464535
+all,all,all,2021,Asian,45-49 years,1423370
+all,all,all,2021,Asian,50-54 years,1240000
+all,all,all,2021,Asian,55-59 years,1125808
+all,all,all,2021,Asian,60-64 years ,1021363
+all,all,all,2021,Asian,65-69 years,869190
+all,all,all,2021,Asian,70-74 years,691915
+all,all,all,2021,Asian,75-79 years,448599
+all,all,all,2021,Asian,80-84 years,300460
+all,all,all,2021,Asian,85-89 years,NA
+all,all,all,2021,Asian,90-94 years,NA
+all,all,all,2021,Asian,95-99 years,NA
+all,all,all,2021,Asian,100+ years,NA
+all,all,all,2021,Asian,All ages,19367197
+all,all,all,2022,Asian,< 1 year,201653
+all,all,all,2022,Asian,1-4 years,886849
+all,all,all,2022,Asian,5-9 years,1135208
+all,all,all,2022,Asian,10-14 years,1057249
+all,all,all,2022,Asian,15-19 years,1108791
+all,all,all,2022,Asian,20-24 years,1237726
+all,all,all,2022,Asian,25-29 years,1531610
+all,all,all,2022,Asian,30-34 years,1683958
+all,all,all,2022,Asian,35-39 years,1629573
+all,all,all,2022,Asian,40-44 years,1464535
+all,all,all,2022,Asian,45-49 years,1423370
+all,all,all,2022,Asian,50-54 years,1240000
+all,all,all,2022,Asian,55-59 years,1125808
+all,all,all,2022,Asian,60-64 years ,1021363
+all,all,all,2022,Asian,65-69 years,869190
+all,all,all,2022,Asian,70-74 years,691915
+all,all,all,2022,Asian,75-79 years,448599
+all,all,all,2022,Asian,80-84 years,300460
+all,all,all,2022,Asian,85-89 years,NA
+all,all,all,2022,Asian,90-94 years,NA
+all,all,all,2022,Asian,95-99 years,NA
+all,all,all,2022,Asian,100+ years,NA
+all,all,all,2022,Asian,All ages,19367197
+all,all,all,2018,Black or African American,< 1 year,528430
+all,all,all,2018,Black or African American,1-4 years,2195577
+all,all,all,2018,Black or African American,5-9 years,2781726
+all,all,all,2018,Black or African American,10-14 years,2846100
+all,all,all,2018,Black or African American,15-19 years,2927001
+all,all,all,2018,Black or African American,20-24 years,3127543
+all,all,all,2018,Black or African American,25-29 years,3477092
+all,all,all,2018,Black or African American,30-34 years,2915530
+all,all,all,2018,Black or African American,35-39 years,2767220
+all,all,all,2018,Black or African American,40-44 years,2490221
+all,all,all,2018,Black or African American,45-49 years,2589420
+all,all,all,2018,Black or African American,50-54 years,2591715
+all,all,all,2018,Black or African American,55-59 years,2609607
+all,all,all,2018,Black or African American,60-64 years ,2284200
+all,all,all,2018,Black or African American,65-69 years,1754604
+all,all,all,2018,Black or African American,70-74 years,1205737
+all,all,all,2018,Black or African American,75-79 years,796677
+all,all,all,2018,Black or African American,80-84 years,513818
+all,all,all,2018,Black or African American,85-89 years,NA
+all,all,all,2018,Black or African American,90-94 years,NA
+all,all,all,2018,Black or African American,95-99 years,NA
+all,all,all,2018,Black or African American,100+ years,NA
+all,all,all,2018,Black or African American,All ages,40902223
+all,all,all,2019,Black or African American,< 1 year,518590
+all,all,all,2019,Black or African American,1-4 years,2165799
+all,all,all,2019,Black or African American,5-9 years,2776150
+all,all,all,2019,Black or African American,10-14 years,2856810
+all,all,all,2019,Black or African American,15-19 years,2895818
+all,all,all,2019,Black or African American,20-24 years,3060213
+all,all,all,2019,Black or African American,25-29 years,3493114
+all,all,all,2019,Black or African American,30-34 years,3026581
+all,all,all,2019,Black or African American,35-39 years,2783964
+all,all,all,2019,Black or African American,40-44 years,2533979
+all,all,all,2019,Black or African American,45-49 years,2566124
+all,all,all,2019,Black or African American,50-54 years,2537690
+all,all,all,2019,Black or African American,55-59 years,2612639
+all,all,all,2019,Black or African American,60-64 years ,2340884
+all,all,all,2019,Black or African American,65-69 years,1814861
+all,all,all,2019,Black or African American,70-74 years,1285799
+all,all,all,2019,Black or African American,75-79 years,831780
+all,all,all,2019,Black or African American,80-84 years,535153
+all,all,all,2019,Black or African American,85-89 years,NA
+all,all,all,2019,Black or African American,90-94 years,NA
+all,all,all,2019,Black or African American,95-99 years,NA
+all,all,all,2019,Black or African American,100+ years,NA
+all,all,all,2019,Black or African American,All ages,41147488
+all,all,all,2020,Black or African American,< 1 year,522731
+all,all,all,2020,Black or African American,1-4 years,2158900
+all,all,all,2020,Black or African American,5-9 years,2777908
+all,all,all,2020,Black or African American,10-14 years,2860425
+all,all,all,2020,Black or African American,15-19 years,2854747
+all,all,all,2020,Black or African American,20-24 years,3039212
+all,all,all,2020,Black or African American,25-29 years,3438045
+all,all,all,2020,Black or African American,30-34 years,3162414
+all,all,all,2020,Black or African American,35-39 years,2792908
+all,all,all,2020,Black or African American,40-44 years,2602941
+all,all,all,2020,Black or African American,45-49 years,2521896
+all,all,all,2020,Black or African American,50-54 years,2520576
+all,all,all,2020,Black or African American,55-59 years,2597447
+all,all,all,2020,Black or African American,60-64 years ,2392646
+all,all,all,2020,Black or African American,65-69 years,1875220
+all,all,all,2020,Black or African American,70-74 years,1371154
+all,all,all,2020,Black or African American,75-79 years,862143
+all,all,all,2020,Black or African American,80-84 years,551363
+all,all,all,2020,Black or African American,85-89 years,NA
+all,all,all,2020,Black or African American,90-94 years,NA
+all,all,all,2020,Black or African American,95-99 years,NA
+all,all,all,2020,Black or African American,100+ years,NA
+all,all,all,2020,Black or African American,All ages,41427341
+all,all,all,2021,Black or African American,< 1 year,522731
+all,all,all,2021,Black or African American,1-4 years,2158900
+all,all,all,2021,Black or African American,5-9 years,2777908
+all,all,all,2021,Black or African American,10-14 years,2860425
+all,all,all,2021,Black or African American,15-19 years,2854747
+all,all,all,2021,Black or African American,20-24 years,3039212
+all,all,all,2021,Black or African American,25-29 years,3438045
+all,all,all,2021,Black or African American,30-34 years,3162414
+all,all,all,2021,Black or African American,35-39 years,2792908
+all,all,all,2021,Black or African American,40-44 years,2602941
+all,all,all,2021,Black or African American,45-49 years,2521896
+all,all,all,2021,Black or African American,50-54 years,2520576
+all,all,all,2021,Black or African American,55-59 years,2597447
+all,all,all,2021,Black or African American,60-64 years ,2392646
+all,all,all,2021,Black or African American,65-69 years,1875220
+all,all,all,2021,Black or African American,70-74 years,1371154
+all,all,all,2021,Black or African American,75-79 years,862143
+all,all,all,2021,Black or African American,80-84 years,551363
+all,all,all,2021,Black or African American,85-89 years,NA
+all,all,all,2021,Black or African American,90-94 years,NA
+all,all,all,2021,Black or African American,95-99 years,NA
+all,all,all,2021,Black or African American,100+ years,NA
+all,all,all,2021,Black or African American,All ages,41427341
+all,all,all,2022,Black or African American,< 1 year,522731
+all,all,all,2022,Black or African American,1-4 years,2158900
+all,all,all,2022,Black or African American,5-9 years,2777908
+all,all,all,2022,Black or African American,10-14 years,2860425
+all,all,all,2022,Black or African American,15-19 years,2854747
+all,all,all,2022,Black or African American,20-24 years,3039212
+all,all,all,2022,Black or African American,25-29 years,3438045
+all,all,all,2022,Black or African American,30-34 years,3162414
+all,all,all,2022,Black or African American,35-39 years,2792908
+all,all,all,2022,Black or African American,40-44 years,2602941
+all,all,all,2022,Black or African American,45-49 years,2521896
+all,all,all,2022,Black or African American,50-54 years,2520576
+all,all,all,2022,Black or African American,55-59 years,2597447
+all,all,all,2022,Black or African American,60-64 years ,2392646
+all,all,all,2022,Black or African American,65-69 years,1875220
+all,all,all,2022,Black or African American,70-74 years,1371154
+all,all,all,2022,Black or African American,75-79 years,862143
+all,all,all,2022,Black or African American,80-84 years,551363
+all,all,all,2022,Black or African American,85-89 years,NA
+all,all,all,2022,Black or African American,90-94 years,NA
+all,all,all,2022,Black or African American,95-99 years,NA
+all,all,all,2022,Black or African American,100+ years,NA
+all,all,all,2022,Black or African American,All ages,41427341
+all,all,all,2018,hispanic,< 1 year,1007577
+all,all,all,2018,hispanic,1-4 years,4164396
+all,all,all,2018,hispanic,5-9 years,5256407
+all,all,all,2018,hispanic,10-14 years,5278748
+all,all,all,2018,hispanic,15-19 years,4975084
+all,all,all,2018,hispanic,20-24 years,4839172
+all,all,all,2018,hispanic,25-29 years,4877375
+all,all,all,2018,hispanic,30-34 years,4551791
+all,all,all,2018,hispanic,35-39 years,4478782
+all,all,all,2018,hispanic,40-44 years,4108330
+all,all,all,2018,hispanic,45-49 years,3760917
+all,all,all,2018,hispanic,50-54 years,3264648
+all,all,all,2018,hispanic,55-59 years,2749799
+all,all,all,2018,hispanic,60-64 years ,2140634
+all,all,all,2018,hispanic,65-69 years,1566030
+all,all,all,2018,hispanic,70-74 years,1116654
+all,all,all,2018,hispanic,75-79 years,740775
+all,all,all,2018,hispanic,80-84 years,495599
+all,all,all,2018,hispanic,85-89 years,NA
+all,all,all,2018,hispanic,90-94 years,NA
+all,all,all,2018,hispanic,95-99 years,NA
+all,all,all,2018,hispanic,100+ years,NA
+all,all,all,2018,hispanic,All ages,59871746
+all,all,all,2019,hispanic,< 1 year,983479
+all,all,all,2019,hispanic,1-4 years,4110732
+all,all,all,2019,hispanic,5-9 years,5243825
+all,all,all,2019,hispanic,10-14 years,5323761
+all,all,all,2019,hispanic,15-19 years,5040048
+all,all,all,2019,hispanic,20-24 years,4844542
+all,all,all,2019,hispanic,25-29 years,4939078
+all,all,all,2019,hispanic,30-34 years,4586185
+all,all,all,2019,hispanic,35-39 years,4509927
+all,all,all,2019,hispanic,40-44 years,4146558
+all,all,all,2019,hispanic,45-49 years,3815729
+all,all,all,2019,hispanic,50-54 years,3312479
+all,all,all,2019,hispanic,55-59 years,2848574
+all,all,all,2019,hispanic,60-64 years ,2228354
+all,all,all,2019,hispanic,65-69 years,1640334
+all,all,all,2019,hispanic,70-74 years,1181785
+all,all,all,2019,hispanic,75-79 years,780314
+all,all,all,2019,hispanic,80-84 years,527437
+all,all,all,2019,hispanic,85-89 years,NA
+all,all,all,2019,hispanic,90-94 years,NA
+all,all,all,2019,hispanic,95-99 years,NA
+all,all,all,2019,hispanic,100+ years,NA
+all,all,all,2019,hispanic,All ages,60572237
+all,all,all,2020,hispanic,< 1 year,970381
+all,all,all,2020,hispanic,1-4 years,4029420
+all,all,all,2020,hispanic,5-9 years,5172470
+all,all,all,2020,hispanic,10-14 years,5368702
+all,all,all,2020,hispanic,15-19 years,5106426
+all,all,all,2020,hispanic,20-24 years,4907287
+all,all,all,2020,hispanic,25-29 years,4962142
+all,all,all,2020,hispanic,30-34 years,4665181
+all,all,all,2020,hispanic,35-39 years,4513399
+all,all,all,2020,hispanic,40-44 years,4229491
+all,all,all,2020,hispanic,45-49 years,3862201
+all,all,all,2020,hispanic,50-54 years,3388031
+all,all,all,2020,hispanic,55-59 years,2926665
+all,all,all,2020,hispanic,60-64 years ,2329263
+all,all,all,2020,hispanic,65-69 years,1725067
+all,all,all,2020,hispanic,70-74 years,1253519
+all,all,all,2020,hispanic,75-79 years,820153
+all,all,all,2020,hispanic,80-84 years,548313
+all,all,all,2020,hispanic,85-89 years,NA
+all,all,all,2020,hispanic,90-94 years,NA
+all,all,all,2020,hispanic,95-99 years,NA
+all,all,all,2020,hispanic,100+ years,NA
+all,all,all,2020,hispanic,All ages,61312879
+all,all,all,2021,hispanic,< 1 year,970381
+all,all,all,2021,hispanic,1-4 years,4029420
+all,all,all,2021,hispanic,5-9 years,5172470
+all,all,all,2021,hispanic,10-14 years,5368702
+all,all,all,2021,hispanic,15-19 years,5106426
+all,all,all,2021,hispanic,20-24 years,4907287
+all,all,all,2021,hispanic,25-29 years,4962142
+all,all,all,2021,hispanic,30-34 years,4665181
+all,all,all,2021,hispanic,35-39 years,4513399
+all,all,all,2021,hispanic,40-44 years,4229491
+all,all,all,2021,hispanic,45-49 years,3862201
+all,all,all,2021,hispanic,50-54 years,3388031
+all,all,all,2021,hispanic,55-59 years,2926665
+all,all,all,2021,hispanic,60-64 years ,2329263
+all,all,all,2021,hispanic,65-69 years,1725067
+all,all,all,2021,hispanic,70-74 years,1253519
+all,all,all,2021,hispanic,75-79 years,820153
+all,all,all,2021,hispanic,80-84 years,548313
+all,all,all,2021,hispanic,85-89 years,NA
+all,all,all,2021,hispanic,90-94 years,NA
+all,all,all,2021,hispanic,95-99 years,NA
+all,all,all,2021,hispanic,100+ years,NA
+all,all,all,2021,hispanic,All ages,61312879
+all,all,all,2022,hispanic,< 1 year,970381
+all,all,all,2022,hispanic,1-4 years,4029420
+all,all,all,2022,hispanic,5-9 years,5172470
+all,all,all,2022,hispanic,10-14 years,5368702
+all,all,all,2022,hispanic,15-19 years,5106426
+all,all,all,2022,hispanic,20-24 years,4907287
+all,all,all,2022,hispanic,25-29 years,4962142
+all,all,all,2022,hispanic,30-34 years,4665181
+all,all,all,2022,hispanic,35-39 years,4513399
+all,all,all,2022,hispanic,40-44 years,4229491
+all,all,all,2022,hispanic,45-49 years,3862201
+all,all,all,2022,hispanic,50-54 years,3388031
+all,all,all,2022,hispanic,55-59 years,2926665
+all,all,all,2022,hispanic,60-64 years ,2329263
+all,all,all,2022,hispanic,65-69 years,1725067
+all,all,all,2022,hispanic,70-74 years,1253519
+all,all,all,2022,hispanic,75-79 years,820153
+all,all,all,2022,hispanic,80-84 years,548313
+all,all,all,2022,hispanic,85-89 years,NA
+all,all,all,2022,hispanic,90-94 years,NA
+all,all,all,2022,hispanic,95-99 years,NA
+all,all,all,2022,hispanic,100+ years,NA
+all,all,all,2022,hispanic,All ages,61312879
+all,all,all,2018,More than one race,< 1 year,188683
+all,all,all,2018,More than one race,1-4 years,763790
+all,all,all,2018,More than one race,5-9 years,927883
+all,all,all,2018,More than one race,10-14 years,858969
+all,all,all,2018,More than one race,15-19 years,735443
+all,all,all,2018,More than one race,20-24 years,655799
+all,all,all,2018,More than one race,25-29 years,556658
+all,all,all,2018,More than one race,30-34 years,421184
+all,all,all,2018,More than one race,35-39 years,366630
+all,all,all,2018,More than one race,40-44 years,296807
+all,all,all,2018,More than one race,45-49 years,271889
+all,all,all,2018,More than one race,50-54 years,236575
+all,all,all,2018,More than one race,55-59 years,232251
+all,all,all,2018,More than one race,60-64 years ,197268
+all,all,all,2018,More than one race,65-69 years,148029
+all,all,all,2018,More than one race,70-74 years,105991
+all,all,all,2018,More than one race,75-79 years,67898
+all,all,all,2018,More than one race,80-84 years,42185
+all,all,all,2018,More than one race,85-89 years,NA
+all,all,all,2018,More than one race,90-94 years,NA
+all,all,all,2018,More than one race,95-99 years,NA
+all,all,all,2018,More than one race,100+ years,NA
+all,all,all,2018,More than one race,All ages,7114666
+all,all,all,2019,More than one race,< 1 year,184864
+all,all,all,2019,More than one race,1-4 years,754739
+all,all,all,2019,More than one race,5-9 years,932226
+all,all,all,2019,More than one race,10-14 years,882122
+all,all,all,2019,More than one race,15-19 years,754363
+all,all,all,2019,More than one race,20-24 years,672604
+all,all,all,2019,More than one race,25-29 years,584149
+all,all,all,2019,More than one race,30-34 years,441660
+all,all,all,2019,More than one race,35-39 years,376828
+all,all,all,2019,More than one race,40-44 years,308365
+all,all,all,2019,More than one race,45-49 years,275317
+all,all,all,2019,More than one race,50-54 years,237962
+all,all,all,2019,More than one race,55-59 years,234946
+all,all,all,2019,More than one race,60-64 years ,204115
+all,all,all,2019,More than one race,65-69 years,155063
+all,all,all,2019,More than one race,70-74 years,113277
+all,all,all,2019,More than one race,75-79 years,72571
+all,all,all,2019,More than one race,80-84 years,44581
+all,all,all,2019,More than one race,85-89 years,NA
+all,all,all,2019,More than one race,90-94 years,NA
+all,all,all,2019,More than one race,95-99 years,NA
+all,all,all,2019,More than one race,100+ years,NA
+all,all,all,2019,More than one race,All ages,7273281
+all,all,all,2020,More than one race,< 1 year,196690
+all,all,all,2020,More than one race,1-4 years,794493
+all,all,all,2020,More than one race,5-9 years,983060
+all,all,all,2020,More than one race,10-14 years,908111
+all,all,all,2020,More than one race,15-19 years,775419
+all,all,all,2020,More than one race,20-24 years,692210
+all,all,all,2020,More than one race,25-29 years,608484
+all,all,all,2020,More than one race,30-34 years,468263
+all,all,all,2020,More than one race,35-39 years,385424
+all,all,all,2020,More than one race,40-44 years,324261
+all,all,all,2020,More than one race,45-49 years,276936
+all,all,all,2020,More than one race,50-54 years,244364
+all,all,all,2020,More than one race,55-59 years,234936
+all,all,all,2020,More than one race,60-64 years ,210801
+all,all,all,2020,More than one race,65-69 years,162997
+all,all,all,2020,More than one race,70-74 years,121040
+all,all,all,2020,More than one race,75-79 years,76895
+all,all,all,2020,More than one race,80-84 years,47233
+all,all,all,2020,More than one race,85-89 years,NA
+all,all,all,2020,More than one race,90-94 years,NA
+all,all,all,2020,More than one race,95-99 years,NA
+all,all,all,2020,More than one race,100+ years,NA
+all,all,all,2020,More than one race,All ages,7557471
+all,all,all,2021,More than one race,< 1 year,196690
+all,all,all,2021,More than one race,1-4 years,794493
+all,all,all,2021,More than one race,5-9 years,983060
+all,all,all,2021,More than one race,10-14 years,908111
+all,all,all,2021,More than one race,15-19 years,775419
+all,all,all,2021,More than one race,20-24 years,692210
+all,all,all,2021,More than one race,25-29 years,608484
+all,all,all,2021,More than one race,30-34 years,468263
+all,all,all,2021,More than one race,35-39 years,385424
+all,all,all,2021,More than one race,40-44 years,324261
+all,all,all,2021,More than one race,45-49 years,276936
+all,all,all,2021,More than one race,50-54 years,244364
+all,all,all,2021,More than one race,55-59 years,234936
+all,all,all,2021,More than one race,60-64 years ,210801
+all,all,all,2021,More than one race,65-69 years,162997
+all,all,all,2021,More than one race,70-74 years,121040
+all,all,all,2021,More than one race,75-79 years,76895
+all,all,all,2021,More than one race,80-84 years,47233
+all,all,all,2021,More than one race,85-89 years,NA
+all,all,all,2021,More than one race,90-94 years,NA
+all,all,all,2021,More than one race,95-99 years,NA
+all,all,all,2021,More than one race,100+ years,NA
+all,all,all,2021,More than one race,All ages,7557471
+all,all,all,2022,More than one race,< 1 year,196690
+all,all,all,2022,More than one race,1-4 years,794493
+all,all,all,2022,More than one race,5-9 years,983060
+all,all,all,2022,More than one race,10-14 years,908111
+all,all,all,2022,More than one race,15-19 years,775419
+all,all,all,2022,More than one race,20-24 years,692210
+all,all,all,2022,More than one race,25-29 years,608484
+all,all,all,2022,More than one race,30-34 years,468263
+all,all,all,2022,More than one race,35-39 years,385424
+all,all,all,2022,More than one race,40-44 years,324261
+all,all,all,2022,More than one race,45-49 years,276936
+all,all,all,2022,More than one race,50-54 years,244364
+all,all,all,2022,More than one race,55-59 years,234936
+all,all,all,2022,More than one race,60-64 years ,210801
+all,all,all,2022,More than one race,65-69 years,162997
+all,all,all,2022,More than one race,70-74 years,121040
+all,all,all,2022,More than one race,75-79 years,76895
+all,all,all,2022,More than one race,80-84 years,47233
+all,all,all,2022,More than one race,85-89 years,NA
+all,all,all,2022,More than one race,90-94 years,NA
+all,all,all,2022,More than one race,95-99 years,NA
+all,all,all,2022,More than one race,100+ years,NA
+all,all,all,2022,More than one race,All ages,7557471
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,< 1 year,7856
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,1-4 years,32818
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,5-9 years,40354
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,10-14 years,41889
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,15-19 years,40969
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,20-24 years,43835
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,25-29 years,51313
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,30-34 years,50670
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,35-39 years,47615
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,40-44 years,39421
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,45-49 years,36989
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,50-54 years,34697
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,55-59 years,33467
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,60-64 years ,27659
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,65-69 years,21656
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,70-74 years,15153
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,75-79 years,9142
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,80-84 years,5655
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,85-89 years,NA
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,90-94 years,NA
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,95-99 years,NA
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,100+ years,NA
+all,all,all,2018,Native Hawaiian or Other Pacific Islander,All ages,586346
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,< 1 year,7621
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,1-4 years,32464
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,5-9 years,40058
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,10-14 years,42183
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,15-19 years,41462
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,20-24 years,43020
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,25-29 years,50839
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,30-34 years,52049
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,35-39 years,49305
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,40-44 years,40787
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,45-49 years,37302
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,50-54 years,35062
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,55-59 years,34337
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,60-64 years ,28962
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,65-69 years,22369
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,70-74 years,16508
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,75-79 years,9873
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,80-84 years,6046
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,85-89 years,NA
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,90-94 years,NA
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,95-99 years,NA
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,100+ years,NA
+all,all,all,2019,Native Hawaiian or Other Pacific Islander,All ages,595908
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,< 1 year,8467
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,1-4 years,35791
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,5-9 years,43795
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,10-14 years,42224
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,15-19 years,41807
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,20-24 years,42916
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,25-29 years,49711
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,30-34 years,53354
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,35-39 years,50031
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,40-44 years,42796
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,45-49 years,37629
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,50-54 years,35693
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,55-59 years,34819
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,60-64 years ,30138
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,65-69 years,23285
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,70-74 years,17732
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,75-79 years,10694
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,80-84 years,6515
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,85-89 years,NA
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,90-94 years,NA
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,95-99 years,NA
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,100+ years,NA
+all,all,all,2020,Native Hawaiian or Other Pacific Islander,All ages,613507
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,< 1 year,8467
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,1-4 years,35791
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,5-9 years,43795
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,10-14 years,42224
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,15-19 years,41807
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,20-24 years,42916
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,25-29 years,49711
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,30-34 years,53354
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,35-39 years,50031
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,40-44 years,42796
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,45-49 years,37629
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,50-54 years,35693
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,55-59 years,34819
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,60-64 years ,30138
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,65-69 years,23285
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,70-74 years,17732
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,75-79 years,10694
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,80-84 years,6515
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,85-89 years,NA
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,90-94 years,NA
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,95-99 years,NA
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,100+ years,NA
+all,all,all,2021,Native Hawaiian or Other Pacific Islander,All ages,613507
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,< 1 year,8467
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,5-9 years,43795
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,10-14 years,42224
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,15-19 years,41807
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,20-24 years,42916
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,25-29 years,49711
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,30-34 years,53354
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,35-39 years,50031
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,40-44 years,42796
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,45-49 years,37629
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,50-54 years,35693
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,55-59 years,34819
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,60-64 years ,30138
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,65-69 years,23285
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,70-74 years,17732
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,75-79 years,10694
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,80-84 years,6515
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,85-89 years,NA
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,90-94 years,NA
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,95-99 years,NA
+all,all,all,2022,Native Hawaiian or Other Pacific Islander,All ages,613507
+all,all,all,2018,White,< 1 year,1901862
+all,all,all,2018,White,1-4 years,7864666
+all,all,all,2018,White,5-9 years,9993820
+all,all,all,2018,White,10-14 years,10614714
+all,all,all,2018,White,15-19 years,11142697
+all,all,all,2018,White,20-24 years,11730085
+all,all,all,2018,White,25-29 years,12793828
+all,all,all,2018,White,30-34 years,12392215
+all,all,all,2018,White,35-39 years,12184509
+all,all,all,2018,White,40-44 years,11201675
+all,all,all,2018,White,45-49 years,12552736
+all,all,all,2018,White,50-54 years,13424380
+all,all,all,2018,White,55-59 years,15067528
+all,all,all,2018,White,60-64 years ,14557417
+all,all,all,2018,White,65-69 years,12666029
+all,all,all,2018,White,70-74 years,10285916
+all,all,all,2018,White,75-79 years,7199125
+all,all,all,2018,White,80-84 years,4772053
+all,all,all,2018,White,85-89 years,NA
+all,all,all,2018,White,90-94 years,NA
+all,all,all,2018,White,95-99 years,NA
+all,all,all,2018,White,100+ years,NA
+all,all,all,2018,White,All ages,197546407
+all,all,all,2019,White,< 1 year,1881774
+all,all,all,2019,White,1-4 years,7815471
+all,all,all,2019,White,5-9 years,10011063
+all,all,all,2019,White,10-14 years,10460991
+all,all,all,2019,White,15-19 years,11038241
+all,all,all,2019,White,20-24 years,11574506
+all,all,all,2019,White,25-29 years,12665969
+all,all,all,2019,White,30-34 years,12488443
+all,all,all,2019,White,35-39 years,12257885
+all,all,all,2019,White,40-44 years,11304550
+all,all,all,2019,White,45-49 years,12149412
+all,all,all,2019,White,50-54 years,13007754
+all,all,all,2019,White,55-59 years,14872649
+all,all,all,2019,White,60-64 years ,14624720
+all,all,all,2019,White,65-69 years,12863198
+all,all,all,2019,White,70-74 years,10706123
+all,all,all,2019,White,75-79 years,7480246
+all,all,all,2019,White,80-84 years,4889393
+all,all,all,2019,White,85-89 years,NA
+all,all,all,2019,White,90-94 years,NA
+all,all,all,2019,White,95-99 years,NA
+all,all,all,2019,White,100+ years,NA
+all,all,all,2019,White,All ages,197309822
+all,all,all,2020,White,< 1 year,1806934
+all,all,all,2020,White,1-4 years,7540986
+all,all,all,2020,White,5-9 years,9959335
+all,all,all,2020,White,10-14 years,10342236
+all,all,all,2020,White,15-19 years,10897824
+all,all,all,2020,White,20-24 years,11494014
+all,all,all,2020,White,25-29 years,12443335
+all,all,all,2020,White,30-34 years,12623723
+all,all,all,2020,White,35-39 years,12296527
+all,all,all,2020,White,40-44 years,11498214
+all,all,all,2020,White,45-49 years,11708316
+all,all,all,2020,White,50-54 years,12824273
+all,all,all,2020,White,55-59 years,14528254
+all,all,all,2020,White,60-64 years ,14671824
+all,all,all,2020,White,65-69 years,13103149
+all,all,all,2020,White,70-74 years,11133708
+all,all,all,2020,White,75-79 years,7714273
+all,all,all,2020,White,80-84 years,4977652
+all,all,all,2020,White,85-89 years,NA
+all,all,all,2020,White,90-94 years,NA
+all,all,all,2020,White,95-99 years,NA
+all,all,all,2020,White,100+ years,NA
+all,all,all,2020,White,All ages,196773390
+all,all,all,2021,White,< 1 year,1806934
+all,all,all,2021,White,1-4 years,7540986
+all,all,all,2021,White,5-9 years,9959335
+all,all,all,2021,White,10-14 years,10342236
+all,all,all,2021,White,15-19 years,10897824
+all,all,all,2021,White,20-24 years,11494014
+all,all,all,2021,White,25-29 years,12443335
+all,all,all,2021,White,30-34 years,12623723
+all,all,all,2021,White,35-39 years,12296527
+all,all,all,2021,White,40-44 years,11498214
+all,all,all,2021,White,45-49 years,11708316
+all,all,all,2021,White,50-54 years,12824273
+all,all,all,2021,White,55-59 years,14528254
+all,all,all,2021,White,60-64 years ,14671824
+all,all,all,2021,White,65-69 years,13103149
+all,all,all,2021,White,70-74 years,11133708
+all,all,all,2021,White,75-79 years,7714273
+all,all,all,2021,White,80-84 years,4977652
+all,all,all,2021,White,85-89 years,NA
+all,all,all,2021,White,90-94 years,NA
+all,all,all,2021,White,95-99 years,NA
+all,all,all,2021,White,100+ years,NA
+all,all,all,2021,White,All ages,196773390
+all,all,all,2022,White,< 1 year,1806934
+all,all,all,2022,White,1-4 years,7540986
+all,all,all,2022,White,5-9 years,9959335
+all,all,all,2022,White,10-14 years,10342236
+all,all,all,2022,White,15-19 years,10897824
+all,all,all,2022,White,20-24 years,11494014
+all,all,all,2022,White,25-29 years,12443335
+all,all,all,2022,White,30-34 years,12623723
+all,all,all,2022,White,35-39 years,12296527
+all,all,all,2022,White,40-44 years,11498214
+all,all,all,2022,White,45-49 years,11708316
+all,all,all,2022,White,50-54 years,12824273
+all,all,all,2022,White,55-59 years,14528254
+all,all,all,2022,White,60-64 years ,14671824
+all,all,all,2022,White,65-69 years,13103149
+all,all,all,2022,White,70-74 years,11133708
+all,all,all,2022,White,75-79 years,7714273
+all,all,all,2022,White,80-84 years,4977652
+all,all,all,2022,White,85-89 years,NA
+all,all,all,2022,White,90-94 years,NA
+all,all,all,2022,White,95-99 years,NA
+all,all,all,2022,White,100+ years,NA
+all,all,all,2022,White,All ages,196773390
