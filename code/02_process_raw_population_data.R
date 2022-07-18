@@ -106,7 +106,7 @@ write_csv(collapsed_pop,
 ## Linearly extrapolate and interpolate population data ----
 ## Population estimates are midyear, so we need to extrapolate first six
 ## months of 2018 year and all of 2021 is just a repeat of 2020 data so 
-## we will extrapolate all of 2021.
+## we will extrapolate all of 2021 and the first two months of 2022. 
 
 ### Get 2017 data by extrapolate backwards from 2019 and 2018 ----
 pop_2017 <- collapsed_pop %>% 

@@ -44,5 +44,10 @@ saveRDS(age_std_death,
         here("data", "age_standardized_death_rates.RDS"))
 write_csv(age_std_death,
         here("data", "age_standardized_death_rates.csv"))
+
+## Save results for joinpoint analyses ----
 write_csv(age_std_death,
           here("joinpoint", "age_standardized_death_rates.csv"))
+write_csv(age_std_death %>% 
+              filter(year < 2022),
+          here("joinpoint", "supplemental_analysis", "age_standardized_death_rates.csv"))

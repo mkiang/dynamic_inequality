@@ -51,7 +51,7 @@ p1a <- ggplot(age_std,
         alpha = .5
     ) + 
     facet_grid(age_cat ~ race_cat, 
-               # scales = "free", 
+               scales = "free_y",
                labeller = label_wrap_gen(width = 20, multi_line = TRUE)) + 
     scale_color_brewer("Race/Ethnicity", palette = "Dark2") + 
     scale_x_date(NULL, 

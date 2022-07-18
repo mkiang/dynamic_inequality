@@ -52,12 +52,12 @@ categorize_race <- function(df) {
                     "White"
                 ),
                 labels = c(
-                    "Non-Hispanic American Indian or Alaska Native",
+                    "Non-Hispanic American\nIndian or Alaska Native",
                     "Non-Hispanic Asian",
                     "Non-Hispanic Black",
                     "Hispanic",
                     "More than one race",
-                    "Non-Hispanic Native Hawaiian or Other Pacific Islander",
+                    "Non-Hispanic Native Hawaiian\nor Other Pacific Islander",
                     "Non-Hispanic White"
                 ),
                 ordered = TRUE
@@ -77,12 +77,12 @@ categorize_race <- function(df) {
                 ),
                 labels = rev(
                     c(
-                        "Non-Hispanic American Indian or Alaska Native",
+                        "Non-Hispanic American\nIndian or Alaska Native",
                         "Non-Hispanic Asian",
                         "Non-Hispanic Black",
                         "Hispanic",
                         "More than one race",
-                        "Non-Hispanic Native Hawaiian or Other Pacific Islander",
+                        "Non-Hispanic Native Hawaiian\nor Other Pacific Islander",
                         "Non-Hispanic White"
                     )
                 ),
@@ -133,6 +133,56 @@ categorize_race <- function(df) {
                         "Hispanic",
                         "Multiracial",
                         "NHOPI",
+                        "White"
+                    )
+                ),
+                ordered = TRUE
+            )
+        ) %>% 
+        mutate(
+            race_med_cat = factor(
+                race_eth,
+                levels = c(
+                    "American Indian or Alaska Native",
+                    "Asian",
+                    "Black or African American",
+                    "hispanic",
+                    "More than one race",
+                    "Native Hawaiian or Other Pacific Islander",
+                    "White"
+                ),
+                labels = c(
+                    "American Indian / Alaska Native",
+                    "Asian",
+                    "Black",
+                    "Hispanic",
+                    "More than one race",
+                    "Native Hawaiian / Other Pacific Islander",
+                    "White"
+                ),
+                ordered = TRUE
+            ),
+            race_med_cat_rev = factor(
+                race_eth,
+                levels = rev(
+                    c(
+                        "American Indian or Alaska Native",
+                        "Asian",
+                        "Black or African American",
+                        "hispanic",
+                        "More than one race",
+                        "Native Hawaiian or Other Pacific Islander",
+                        "White"
+                    )
+                ),
+                labels = rev(
+                    c(
+                        "American Indian / Alaska Native",
+                        "Asian",
+                        "Black",
+                        "Hispanic",
+                        "More than one race",
+                        "Native Hawaiian / Other Pacific Islander",
                         "White"
                     )
                 ),

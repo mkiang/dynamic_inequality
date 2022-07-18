@@ -5,8 +5,22 @@ library(janitor)
 source(here("code", "utils.R"))
 
 ## Read in raw data ----
-## We're going to read in 2018 through 2021 using the Feb 2022 data pull,
-## and then append 2022 to current using whatever new files there are. 
+## Note that NCHS has changed how they handle provisional data. Specifically,
+## they state: 
+##      Privacy policy: As of March 23, 2022, all statistics representing 
+##      zero through nine deaths are suppressed, in the provisional 
+##      mortality online database for years 2018 and later. 
+##      
+##      (See: https://wonder.cdc.gov/wonder/help/mcd-provisional.html)
+##      
+## This is a departure from the standard NCHS data use agreement rules which
+## specify that 0-9 deaths are *not* supposed as long as the data are national.
+## CDC WONDER subnational data are always suppressed in cases where there are
+## fewer than 10 deaths. 
+## 
+## To get the most accurate count possible, we're going to read in 2018 
+## through 2021 using the Feb 2022 data pull, and then append more current for
+## the remaining period.  
 death_df <- bind_rows(
     read_delim(here(
         "data_raw", "age_year_month_hispanic_2018_2022_feb2022download.txt"
@@ -43,7 +57,7 @@ death_df <- bind_rows(
 ## Now read in a more recent data pull (as necessary)
 new_death_df <- bind_rows(
     read_delim(here(
-        "data_raw", "age_year_month_hispanic_2018_2022_may2022download.txt"
+        "data_raw", "age_year_month_hispanic_2018_2022_jul2022download.txt"
     )) %>%
         janitor::clean_names() %>%
         filter(is.na(notes),
@@ -60,7 +74,7 @@ new_death_df <- bind_rows(
     read_delim(
         here(
             "data_raw",
-            "age_year_month_nonhisp_singlerace_2018_2022_may2022download.txt"
+            "age_year_month_nonhisp_singlerace_2018_2022_jul2022download.txt"
         )
     ) %>%
         janitor::clean_names() %>%
@@ -80,7 +94,6 @@ new_death_df <- bind_rows(
 death_df <- bind_rows(death_df, new_death_df)
 
 ## Add tuple info in case we expand later ----
-## Also remove 2022 since we only have part of January
 death_df <- death_df %>% 
     mutate(
         geography = "all",

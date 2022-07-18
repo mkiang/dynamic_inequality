@@ -127,5 +127,9 @@ write_csv(rr_long,
 saveRDS(rr_long,
         here("data", "rate_ratios.RDS"))
 
+## Save a version for the joinpoint analyses ----
 write_csv(rr_long,
           here("joinpoint", "rate_ratios.csv"))
+write_csv(rr_long %>% 
+              filter(year < 2022),
+          here("joinpoint", "supplemental_analysis", "rate_ratios.csv"))
