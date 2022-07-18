@@ -31,6 +31,8 @@ This is reproducible code and data for our forthcoming paper, *Dynamics of racia
 ## Authors (alphabetical)
 
 -   [Hélène Aschmann](https://profiles.ucsf.edu/helene.aschmann) 
+    (![Github](http://i.imgur.com/9I6NRUm.png):
+    [heleneaschmann](https://github.com/heleneaschmann) \|
     (![Twitter](http://i.imgur.com/wWzX9uB.png): 
     [\@LnAschmann](https://twitter.com/LnAschmann))
 -   [Kirsten Bibbins-Domingo](https://profiles.ucsf.edu/kirsten.bibbins-domingo)
@@ -54,7 +56,7 @@ This is reproducible code and data for our forthcoming paper, *Dynamics of racia
     [mkiang](https://github.com/mkiang) \| 
     ![Twitter](http://i.imgur.com/wWzX9uB.png): 
     [\@mathewkiang](https://twitter.com/mathewkiang))
--   [Alicia Riley]()
+-   [Alicia Riley](http://www.arriley.com)
     (![Github](http://i.imgur.com/9I6NRUm.png): 
     [aliciarr](https://github.com/aliciarr) \| 
     ![Twitter](http://i.imgur.com/wWzX9uB.png): 

@@ -24,6 +24,8 @@ age-standardized mortality rates. The full citation is:
 ## Authors (alphabetical)
 
 -   [Hélène Aschmann](https://profiles.ucsf.edu/helene.aschmann)
+    (![Github](http://i.imgur.com/9I6NRUm.png):
+    [heleneaschmann](https://github.com/heleneaschmann) \|
     (![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@LnAschmann](https://twitter.com/LnAschmann))
 -   [Kirsten
@@ -48,7 +50,8 @@ age-standardized mortality rates. The full citation is:
     [mkiang](https://github.com/mkiang) \|
     ![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@mathewkiang](https://twitter.com/mathewkiang))
--   [Alicia Riley]() (![Github](http://i.imgur.com/9I6NRUm.png):
+-   [Alicia Riley](http://www.arriley.com)
+    (![Github](http://i.imgur.com/9I6NRUm.png):
     [aliciarr](https://github.com/aliciarr) \|
     ![Twitter](http://i.imgur.com/wWzX9uB.png):
     [@aliciacita](https://twitter.com/aliciacita))
