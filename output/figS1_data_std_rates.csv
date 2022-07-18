@@ -1,54 +1,104 @@
 age_cat,race_cat,date,all_cause_rate,all_cause_var
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-01-01,384.83231771970105,2.6104590772149687
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-02-01,291.0784877413714,1.9665561366538644
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-03-01,335.5219863729111,2.268153617517139
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-04-01,291.98727234118354,1.9630090094838109
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-05-01,285.13760925081556,1.8892959789971824
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-06-01,280.24295173382876,1.85586279559491
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-07-01,299.336062871526,1.9800208234245222
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-08-01,260.061144756344,1.6830473556839172
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-09-01,276.74942895477886,1.8131414251693083
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-10-01,271.3328961126431,1.7460996891793756
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-11-01,288.53435472977014,1.8916823224014043
-65 and over,Non-Hispanic American Indian or Alaska Native,2018-12-01,310.7488171301249,2.0346485729621686
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-01-01,330.6299523716204,2.14152927934809
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-02-01,300.8873377204892,1.9183526990953415
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-03-01,305.7616742561925,1.9524517838816637
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-04-01,304.1421580522206,1.9175309588177625
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-05-01,286.72799812691466,1.8253820452699243
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-06-01,265.05513986924745,1.6644358403033046
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-07-01,265.8412226910292,1.683748171833648
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-08-01,261.91516552688785,1.6473966617103468
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-09-01,269.575578370932,1.6741318004049692
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-10-01,289.9615214969048,1.7833287550166927
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-11-01,283.88615181980464,1.7585873954719384
-65 and over,Non-Hispanic American Indian or Alaska Native,2019-12-01,294.84977035747795,1.802119726615637
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-01-01,334.93420278807736,2.061565992182609
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-02-01,284.85295899232233,1.72271766033434
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-03-01,315.54559329041035,1.9052448471171712
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-04-01,361.88095496069144,2.1826086471811266
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-05-01,356.30201255463817,2.1347908928054795
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-06-01,334.0365227213708,1.9749051691688204
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-07-01,339.44790277922925,1.9700246850552627
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-08-01,346.6455856346397,2.031094562539837
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-09-01,330.8187365629832,1.9236887135169498
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-10-01,387.62807722582664,2.247960514810705
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-11-01,454.171871666666,2.58540710452835
-65 and over,Non-Hispanic American Indian or Alaska Native,2020-12-01,558.9526947202053,3.1869186827774088
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-01-01,518.4625655668701,2.940615801351002
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-02-01,352.16205905857794,1.9690628571985413
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-03-01,314.00245808268875,1.7952757843771365
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-04-01,285.6611922944392,1.594432010382395
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-05-01,287.48005220130045,1.5924177346796013
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-06-01,289.52442465939555,1.6023884016656207
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-07-01,294.07229081519205,1.6218285706508457
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-08-01,358.30895656237465,1.9870990611594674
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-09-01,369.1496406839458,2.045877831917045
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-10-01,382.4493111870222,2.1304130186308483
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-11-01,363.39085582403754,2.067714545089211
-65 and over,Non-Hispanic American Indian or Alaska Native,2021-12-01,365.1393452515343,2.0903888408788935
-65 and over,Non-Hispanic American Indian or Alaska Native,2022-01-01,434.6204040268818,2.503749525164496
-65 and over,Non-Hispanic American Indian or Alaska Native,2022-02-01,323.1957187782077,1.869019206810375
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-01-01,384.83231771970105,2.6104590772149687
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-02-01,291.0784877413714,1.9665561366538644
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-03-01,335.5219863729111,2.268153617517139
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-04-01,291.98727234118354,1.9630090094838109
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-05-01,285.13760925081556,1.8892959789971824
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-06-01,280.24295173382876,1.85586279559491
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-07-01,299.336062871526,1.9800208234245222
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-08-01,260.061144756344,1.6830473556839172
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-09-01,276.74942895477886,1.8131414251693083
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-10-01,271.3328961126431,1.7460996891793756
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-11-01,288.53435472977014,1.8916823224014043
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2018-12-01,310.7488171301249,2.0346485729621686
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-01-01,330.6299523716204,2.14152927934809
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-02-01,300.8873377204892,1.9183526990953415
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-03-01,305.7616742561925,1.9524517838816637
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-04-01,304.1421580522206,1.9175309588177625
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-05-01,286.72799812691466,1.8253820452699243
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-06-01,265.05513986924745,1.6644358403033046
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-07-01,265.8412226910292,1.683748171833648
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-08-01,261.91516552688785,1.6473966617103468
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-09-01,269.575578370932,1.6741318004049692
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-10-01,289.9615214969048,1.7833287550166927
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-11-01,283.88615181980464,1.7585873954719384
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2019-12-01,294.84977035747795,1.802119726615637
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-01-01,334.93420278807736,2.061565992182609
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-02-01,284.85295899232233,1.72271766033434
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-03-01,315.54559329041035,1.9052448471171712
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-04-01,361.88095496069144,2.1826086471811266
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-05-01,356.30201255463817,2.1347908928054795
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-06-01,334.0365227213708,1.9749051691688204
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-07-01,339.44790277922925,1.9700246850552627
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-08-01,346.6455856346397,2.031094562539837
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-09-01,330.8187365629832,1.9236887135169498
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-10-01,387.62807722582664,2.247960514810705
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-11-01,454.171871666666,2.58540710452835
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2020-12-01,558.9526947202053,3.1869186827774088
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-01-01,518.4625655668701,2.940615801351002
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-02-01,352.16205905857794,1.9690628571985413
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-03-01,314.00245808268875,1.7952757843771365
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-04-01,285.6611922944392,1.594432010382395
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-05-01,287.48005220130045,1.5924177346796013
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-06-01,289.52442465939555,1.6023884016656207
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-07-01,294.07229081519205,1.6218285706508457
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-08-01,358.30895656237465,1.9870990611594674
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-09-01,369.1496406839458,2.045877831917045
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-10-01,382.4493111870222,2.1304130186308483
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-11-01,363.39085582403754,2.067714545089211
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2021-12-01,365.1393452515343,2.0903888408788935
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2022-01-01,441.4927431769206,2.5398178171809875
+65 and over,"Non-Hispanic American
+Indian or Alaska Native",2022-02-01,365.40343328398143,2.1094809192472566
 65 and over,Non-Hispanic Asian,2018-01-01,252.26884904740066,0.19261886026515812
 65 and over,Non-Hispanic Asian,2018-02-01,202.61551411970368,0.15360500439624514
 65 and over,Non-Hispanic Asian,2018-03-01,218.40484732177896,0.16530730792522894
@@ -97,8 +147,8 @@ age_cat,race_cat,date,all_cause_rate,all_cause_var
 65 and over,Non-Hispanic Asian,2021-10-01,217.08017855934432,0.13804893844525407
 65 and over,Non-Hispanic Asian,2021-11-01,212.44225644978468,0.135926165751477
 65 and over,Non-Hispanic Asian,2021-12-01,236.38399622497911,0.1519414342258198
-65 and over,Non-Hispanic Asian,2022-01-01,311.14714126309013,0.20100490202849192
-65 and over,Non-Hispanic Asian,2022-02-01,229.80744136325862,0.14905027312075764
+65 and over,Non-Hispanic Asian,2022-01-01,309.43480229239043,0.19983747150401612
+65 and over,Non-Hispanic Asian,2022-02-01,242.75736348241918,0.1573948815828349
 65 and over,Non-Hispanic Black,2018-01-01,479.5436409425336,0.18547023661235476
 65 and over,Non-Hispanic Black,2018-02-01,396.9093634652846,0.15306049270119584
 65 and over,Non-Hispanic Black,2018-03-01,407.60378261289907,0.15644006138628078
@@ -147,8 +197,8 @@ age_cat,race_cat,date,all_cause_rate,all_cause_var
 65 and over,Non-Hispanic Black,2021-10-01,415.15708261443126,0.14167610724960078
 65 and over,Non-Hispanic Black,2021-11-01,401.8317120279365,0.1382037320147157
 65 and over,Non-Hispanic Black,2021-12-01,416.2635641016593,0.14356125926708047
-65 and over,Non-Hispanic Black,2022-01-01,601.2247586080787,0.20903384577843587
-65 and over,Non-Hispanic Black,2022-02-01,386.964003433915,0.13473878917553064
+65 and over,Non-Hispanic Black,2022-01-01,609.2221497617995,0.21184646540627083
+65 and over,Non-Hispanic Black,2022-02-01,434.20692561899375,0.15101794031918758
 65 and over,Hispanic,2018-01-01,318.75561920652257,0.13069598633363635
 65 and over,Hispanic,2018-02-01,260.84948166576095,0.1062650366537304
 65 and over,Hispanic,2018-03-01,273.2772193401795,0.11124293489534136
@@ -197,8 +247,8 @@ age_cat,race_cat,date,all_cause_rate,all_cause_var
 65 and over,Hispanic,2021-10-01,300.67644197801116,0.1060674323678474
 65 and over,Hispanic,2021-11-01,299.1543567194555,0.10622556251631642
 65 and over,Hispanic,2021-12-01,320.56929865548096,0.11443379826563367
-65 and over,Hispanic,2022-01-01,444.7795218346793,0.1597785045375971
-65 and over,Hispanic,2022-02-01,317.5435845620518,0.11442292569394767
+65 and over,Hispanic,2022-01-01,442.3772420525156,0.15888179660408405
+65 and over,Hispanic,2022-02-01,336.6061314691116,0.12120073914679495
 65 and over,More than one race,2018-01-01,181.57808891949912,0.8601547427202431
 65 and over,More than one race,2018-02-01,151.6086533802876,0.7109738080780248
 65 and over,More than one race,2018-03-01,171.3667310589336,0.8024364968565061
@@ -247,58 +297,108 @@ age_cat,race_cat,date,all_cause_rate,all_cause_var
 65 and over,More than one race,2021-10-01,177.78032365451395,0.6913192655453224
 65 and over,More than one race,2021-11-01,164.26945500973346,0.6353984271279697
 65 and over,More than one race,2021-12-01,167.8626611752262,0.6582560579700061
-65 and over,More than one race,2022-01-01,208.18467237093404,0.8197142182188036
-65 and over,More than one race,2022-02-01,157.60253211691602,0.6326713725792966
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-01-01,355.6500495842661,12.304399259485363
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-02-01,252.36292440369408,8.564034525336044
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-03-01,329.6981397187864,11.130846922765546
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-04-01,301.2745559979096,10.487258823690368
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-05-01,246.835502953417,8.295405292065618
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-06-01,262.9506224484824,8.82491121578749
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-07-01,279.3789752013775,9.25584675409863
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-08-01,228.85078970930527,7.567062646245009
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-09-01,261.35104862163513,8.781631536675576
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-10-01,267.04954257101036,8.700128650993149
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-11-01,260.2640810999949,8.505688781779046
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-12-01,280.1075561637534,8.990022749254619
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-01-01,295.6915641068978,9.311188096134915
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-02-01,274.66879118677844,8.7277519395214
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-03-01,296.8437865314824,9.270007962347306
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-04-01,297.6321517685422,9.210143888525367
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-05-01,290.6180074255878,9.0525795682735275
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-06-01,250.7796540851659,7.749678545206402
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-07-01,234.72463419897292,7.305549225217513
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-08-01,240.95356021066175,7.1661935735508235
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-09-01,250.6013799142157,7.42569028742402
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-10-01,278.1262832594666,8.316973537193066
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-11-01,289.68446576034313,8.740446720044048
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-12-01,253.40925839108712,7.498389218344628
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-01-01,326.9330363440121,9.553980473071315
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-02-01,315.3275275814571,9.446139110078217
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-03-01,259.34946864613266,7.542779180537927
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-04-01,325.0850045460774,9.757594375758304
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-05-01,263.0828289266981,7.661700198539925
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-06-01,289.3163540890323,8.03996304327573
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-07-01,325.3995761656298,9.24983201144091
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-08-01,318.39663429297696,9.082432379766152
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-09-01,289.3653945738674,8.031881537681569
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-10-01,297.5386949598632,8.531608882218649
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-11-01,342.6513337860197,9.451665050223816
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-12-01,454.96734448968914,12.334859320841504
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-01-01,474.0483392933699,13.078707651917078
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-02-01,343.3593428136375,9.317606239015811
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-03-01,312.7709001336242,8.44916260983532
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-04-01,312.5278684002896,8.498838313321807
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-05-01,273.0454274865636,7.401773797501915
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-06-01,260.8012618058301,6.669056032333795
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-07-01,272.55518617986644,7.348223091846937
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-08-01,346.32716045657486,9.083639967828066
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-09-01,367.7243974086221,9.871309130450701
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-10-01,317.13472198282454,8.413325684367322
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-11-01,287.0954922529447,7.906310148770028
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-12-01,382.1671114640886,10.645388832276437
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-01-01,471.37676913393045,13.125713695256014
-65 and over,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-02-01,356.72432526044724,10.062196851766798
+65 and over,More than one race,2022-01-01,205.75619827852404,0.8104847613414241
+65 and over,More than one race,2022-02-01,164.81221540941226,0.6596145932218447
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-01-01,355.6500495842661,12.304399259485363
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-02-01,252.36292440369408,8.564034525336044
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-03-01,329.6981397187864,11.130846922765546
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-04-01,301.2745559979096,10.487258823690368
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-05-01,246.835502953417,8.295405292065618
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-06-01,262.9506224484824,8.82491121578749
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-07-01,279.3789752013775,9.25584675409863
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-08-01,228.85078970930527,7.567062646245009
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-09-01,261.35104862163513,8.781631536675576
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-10-01,267.04954257101036,8.700128650993149
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-11-01,260.2640810999949,8.505688781779046
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-12-01,280.1075561637534,8.990022749254619
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-01-01,295.6915641068978,9.311188096134915
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-02-01,274.66879118677844,8.7277519395214
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-03-01,296.8437865314824,9.270007962347306
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-04-01,297.6321517685422,9.210143888525367
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-05-01,290.6180074255878,9.0525795682735275
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-06-01,250.7796540851659,7.749678545206402
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-07-01,234.72463419897292,7.305549225217513
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-08-01,240.95356021066175,7.1661935735508235
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-09-01,250.6013799142157,7.42569028742402
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-10-01,278.1262832594666,8.316973537193066
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-11-01,289.68446576034313,8.740446720044048
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-12-01,253.40925839108712,7.498389218344628
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-01-01,326.9330363440121,9.553980473071315
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-02-01,315.3275275814571,9.446139110078217
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-03-01,259.34946864613266,7.542779180537927
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-04-01,325.0850045460774,9.757594375758304
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-05-01,263.0828289266981,7.661700198539925
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-06-01,289.3163540890323,8.03996304327573
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-07-01,325.3995761656298,9.24983201144091
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-08-01,318.39663429297696,9.082432379766152
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-09-01,289.3653945738674,8.031881537681569
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-10-01,297.5386949598632,8.531608882218649
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-11-01,342.6513337860197,9.451665050223816
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-12-01,454.96734448968914,12.334859320841504
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-01-01,474.0483392933699,13.078707651917078
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-02-01,343.3593428136375,9.317606239015811
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-03-01,312.7709001336242,8.44916260983532
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-04-01,312.5278684002896,8.498838313321807
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-05-01,273.0454274865636,7.401773797501915
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-06-01,260.8012618058301,6.669056032333795
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-07-01,272.55518617986644,7.348223091846937
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-08-01,346.32716045657486,9.083639967828066
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-09-01,367.7243974086221,9.871309130450701
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-10-01,317.13472198282454,8.413325684367322
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-11-01,287.0954922529447,7.906310148770028
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-12-01,382.1671114640886,10.645388832276437
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-01-01,475.84706066200215,13.277434440507303
+65 and over,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-02-01,384.10860835930583,10.808623832538634
 65 and over,Non-Hispanic White,2018-01-01,450.69836792799435,0.01866818227808293
 65 and over,Non-Hispanic White,2018-02-01,368.495297096584,0.015253089978745447
 65 and over,Non-Hispanic White,2018-03-01,382.2336521382697,0.01579074556583402
@@ -347,58 +447,108 @@ age_cat,race_cat,date,all_cause_rate,all_cause_var
 65 and over,Non-Hispanic White,2021-10-01,408.7045485891254,0.016031927074799324
 65 and over,Non-Hispanic White,2021-11-01,397.47862997756465,0.015634555824334203
 65 and over,Non-Hispanic White,2021-12-01,427.58764257502935,0.016831313034487136
-65 and over,Non-Hispanic White,2022-01-01,509.37937515229487,0.02010307166701295
-65 and over,Non-Hispanic White,2022-02-01,387.4269026180507,0.015325718645337723
-All ages,Non-Hispanic American Indian or Alaska Native,2018-01-01,77.880733694573,3.8207587646538648
-All ages,Non-Hispanic American Indian or Alaska Native,2018-02-01,63.99733054928716,3.090845386451182
-All ages,Non-Hispanic American Indian or Alaska Native,2018-03-01,72.15302569651708,3.51784003885903
-All ages,Non-Hispanic American Indian or Alaska Native,2018-04-01,64.34434643846188,3.0979958309053117
-All ages,Non-Hispanic American Indian or Alaska Native,2018-05-01,65.48694475017004,3.113001248312753
-All ages,Non-Hispanic American Indian or Alaska Native,2018-06-01,62.89001662283048,3.008501576766627
-All ages,Non-Hispanic American Indian or Alaska Native,2018-07-01,67.79669021366145,3.2329518757423834
-All ages,Non-Hispanic American Indian or Alaska Native,2018-08-01,62.137389834909406,2.897895820093327
-All ages,Non-Hispanic American Indian or Alaska Native,2018-09-01,61.58510488489185,2.9156166016656795
-All ages,Non-Hispanic American Indian or Alaska Native,2018-10-01,62.53145003452227,2.921131801192698
-All ages,Non-Hispanic American Indian or Alaska Native,2018-11-01,63.510440336721295,2.995594636151577
-All ages,Non-Hispanic American Indian or Alaska Native,2018-12-01,69.2970875100815,3.2782724969469177
-All ages,Non-Hispanic American Indian or Alaska Native,2019-01-01,73.32668320675815,3.46083022467065
-All ages,Non-Hispanic American Indian or Alaska Native,2019-02-01,65.25373403868775,3.0351143885518224
-All ages,Non-Hispanic American Indian or Alaska Native,2019-03-01,69.49260380623927,3.2316989747354463
-All ages,Non-Hispanic American Indian or Alaska Native,2019-04-01,66.20301684478,3.0797382354140814
-All ages,Non-Hispanic American Indian or Alaska Native,2019-05-01,65.7811227612302,3.053967504759279
-All ages,Non-Hispanic American Indian or Alaska Native,2019-06-01,60.621791825601825,2.804145636993911
-All ages,Non-Hispanic American Indian or Alaska Native,2019-07-01,63.12579525715838,2.917478413596214
-All ages,Non-Hispanic American Indian or Alaska Native,2019-08-01,61.227249620685946,2.849638367346406
-All ages,Non-Hispanic American Indian or Alaska Native,2019-09-01,61.166466415383766,2.814481879748229
-All ages,Non-Hispanic American Indian or Alaska Native,2019-10-01,65.39897070751945,2.99004584054138
-All ages,Non-Hispanic American Indian or Alaska Native,2019-11-01,64.70950640554373,2.95779753409775
-All ages,Non-Hispanic American Indian or Alaska Native,2019-12-01,67.69837940871597,3.0439905503784286
-All ages,Non-Hispanic American Indian or Alaska Native,2020-01-01,73.863204327387,3.3776853804987286
-All ages,Non-Hispanic American Indian or Alaska Native,2020-02-01,65.0955063915155,2.9293944254127746
-All ages,Non-Hispanic American Indian or Alaska Native,2020-03-01,71.91352614442039,3.246222238408503
-All ages,Non-Hispanic American Indian or Alaska Native,2020-04-01,80.99533916338306,3.6522273454787566
-All ages,Non-Hispanic American Indian or Alaska Native,2020-05-01,84.86032414687095,3.7983145877787425
-All ages,Non-Hispanic American Indian or Alaska Native,2020-06-01,84.99833607287195,3.768689521595109
-All ages,Non-Hispanic American Indian or Alaska Native,2020-07-01,90.73744092653155,3.9781488712460185
-All ages,Non-Hispanic American Indian or Alaska Native,2020-08-01,86.49522478799125,3.835787532251027
-All ages,Non-Hispanic American Indian or Alaska Native,2020-09-01,80.88006862416137,3.5639026909668727
-All ages,Non-Hispanic American Indian or Alaska Native,2020-10-01,92.09274572838542,4.065841970610408
-All ages,Non-Hispanic American Indian or Alaska Native,2020-11-01,102.9098339284374,4.504690996986399
-All ages,Non-Hispanic American Indian or Alaska Native,2020-12-01,120.84273335723378,5.249923694247537
-All ages,Non-Hispanic American Indian or Alaska Native,2021-01-01,120.47777240467845,5.213426850136944
-All ages,Non-Hispanic American Indian or Alaska Native,2021-02-01,85.56803659029526,3.6894423768639477
-All ages,Non-Hispanic American Indian or Alaska Native,2021-03-01,78.5845542002526,3.4250878555218294
-All ages,Non-Hispanic American Indian or Alaska Native,2021-04-01,73.69528518390996,3.180773949914575
-All ages,Non-Hispanic American Indian or Alaska Native,2021-05-01,77.38429378486437,3.310986787786486
-All ages,Non-Hispanic American Indian or Alaska Native,2021-06-01,76.94971699785523,3.2931714696498995
-All ages,Non-Hispanic American Indian or Alaska Native,2021-07-01,78.90653005321484,3.393576271347659
-All ages,Non-Hispanic American Indian or Alaska Native,2021-08-01,98.48327275709426,4.26440605373641
-All ages,Non-Hispanic American Indian or Alaska Native,2021-09-01,100.11162067957049,4.317449242158148
-All ages,Non-Hispanic American Indian or Alaska Native,2021-10-01,99.44452164882253,4.299410047626608
-All ages,Non-Hispanic American Indian or Alaska Native,2021-11-01,90.16785103745798,3.916260304221316
-All ages,Non-Hispanic American Indian or Alaska Native,2021-12-01,91.34378035625572,4.00078380176975
-All ages,Non-Hispanic American Indian or Alaska Native,2022-01-01,102.50944844558926,4.4810131131292446
-All ages,Non-Hispanic American Indian or Alaska Native,2022-02-01,73.49540712117461,3.216094503122718
+65 and over,Non-Hispanic White,2022-01-01,500.8276183443678,0.01976503178365059
+65 and over,Non-Hispanic White,2022-02-01,404.026202164264,0.015980021120825548
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-01-01,77.880733694573,3.8207587646538648
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-02-01,63.99733054928716,3.090845386451182
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-03-01,72.15302569651708,3.51784003885903
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-04-01,64.34434643846188,3.0979958309053117
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-05-01,65.48694475017004,3.113001248312753
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-06-01,62.89001662283048,3.008501576766627
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-07-01,67.79669021366145,3.2329518757423834
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-08-01,62.137389834909406,2.897895820093327
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-09-01,61.58510488489185,2.9156166016656795
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-10-01,62.53145003452227,2.921131801192698
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-11-01,63.510440336721295,2.995594636151577
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2018-12-01,69.2970875100815,3.2782724969469177
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-01-01,73.32668320675815,3.46083022467065
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-02-01,65.25373403868775,3.0351143885518224
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-03-01,69.49260380623927,3.2316989747354463
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-04-01,66.20301684478,3.0797382354140814
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-05-01,65.7811227612302,3.053967504759279
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-06-01,60.621791825601825,2.804145636993911
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-07-01,63.12579525715838,2.917478413596214
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-08-01,61.227249620685946,2.849638367346406
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-09-01,61.166466415383766,2.814481879748229
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-10-01,65.39897070751945,2.99004584054138
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-11-01,64.70950640554373,2.95779753409775
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2019-12-01,67.69837940871597,3.0439905503784286
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-01-01,73.863204327387,3.3776853804987286
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-02-01,65.0955063915155,2.9293944254127746
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-03-01,71.91352614442039,3.246222238408503
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-04-01,80.99533916338306,3.6522273454787566
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-05-01,84.86032414687095,3.7983145877787425
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-06-01,84.99833607287195,3.768689521595109
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-07-01,90.73744092653155,3.9781488712460185
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-08-01,86.49522478799125,3.835787532251027
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-09-01,80.88006862416137,3.5639026909668727
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-10-01,92.09274572838542,4.065841970610408
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-11-01,102.9098339284374,4.504690996986399
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2020-12-01,120.84273335723378,5.249923694247537
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-01-01,120.47777240467845,5.213426850136944
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-02-01,85.56803659029526,3.6894423768639477
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-03-01,78.5845542002526,3.4250878555218294
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-04-01,73.69528518390996,3.180773949914575
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-05-01,77.38429378486437,3.310986787786486
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-06-01,76.94971699785523,3.2931714696498995
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-07-01,78.90653005321484,3.393576271347659
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-08-01,98.48327275709426,4.26440605373641
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-09-01,100.11162067957049,4.317449242158148
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-10-01,99.44452164882253,4.299410047626608
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-11-01,90.16785103745798,3.916260304221316
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2021-12-01,91.34378035625572,4.00078380176975
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2022-01-01,101.2019692341653,4.42150409214385
+All ages,"Non-Hispanic American
+Indian or Alaska Native",2022-02-01,83.88267562722731,3.6714475831196505
 All ages,Non-Hispanic Asian,2018-01-01,39.12319554986979,0.22844130804181564
 All ages,Non-Hispanic Asian,2018-02-01,31.61681036060938,0.18341011344682442
 All ages,Non-Hispanic Asian,2018-03-01,34.69825443345917,0.2006190041683262
@@ -447,8 +597,8 @@ All ages,Non-Hispanic Asian,2021-09-01,34.892149501462924,0.17198910802093065
 All ages,Non-Hispanic Asian,2021-10-01,35.82453906508153,0.1774427628944099
 All ages,Non-Hispanic Asian,2021-11-01,34.550574956555714,0.17215613502736876
 All ages,Non-Hispanic Asian,2021-12-01,37.61207211522137,0.18812672914389006
-All ages,Non-Hispanic Asian,2022-01-01,48.351607887972854,0.24278809801523746
-All ages,Non-Hispanic Asian,2022-02-01,35.72162513359173,0.18003439511204408
+All ages,Non-Hispanic Asian,2022-01-01,47.94560752850698,0.24065577333255433
+All ages,Non-Hispanic Asian,2022-02-01,37.80749491111479,0.19040519989241272
 All ages,Non-Hispanic Black,2018-01-01,89.35757162646537,0.2515729744358079
 All ages,Non-Hispanic Black,2018-02-01,74.46916813762573,0.20937695298761688
 All ages,Non-Hispanic Black,2018-03-01,77.7697274841121,0.21703919414047973
@@ -497,8 +647,8 @@ All ages,Non-Hispanic Black,2021-09-01,97.10229737346295,0.24698635764272978
 All ages,Non-Hispanic Black,2021-10-01,87.1523395838256,0.22239584053943381
 All ages,Non-Hispanic Black,2021-11-01,80.47741839667655,0.20715031490004226
 All ages,Non-Hispanic Black,2021-12-01,82.74021658463681,0.21349803083671506
-All ages,Non-Hispanic Black,2022-01-01,113.92842615864777,0.2964940106434973
-All ages,Non-Hispanic Black,2022-02-01,73.52994933049496,0.19172539422654056
+All ages,Non-Hispanic Black,2022-01-01,114.52295912128068,0.2981192327708582
+All ages,Non-Hispanic Black,2022-02-01,81.93044843092862,0.21349112279478877
 All ages,Hispanic,2018-01-01,53.472686434038195,0.15419307966523024
 All ages,Hispanic,2018-02-01,43.99481207502436,0.125860642233755
 All ages,Hispanic,2018-03-01,46.40966989660704,0.13230700115245858
@@ -547,8 +697,8 @@ All ages,Hispanic,2021-09-01,63.63941865571825,0.15163933001871047
 All ages,Hispanic,2021-10-01,57.545280574917975,0.13896189316096716
 All ages,Hispanic,2021-11-01,54.93301097287788,0.13501931133648515
 All ages,Hispanic,2021-12-01,58.30573686649883,0.14443893354639284
-All ages,Hispanic,2022-01-01,76.6831293324418,0.1944027850816255
-All ages,Hispanic,2022-02-01,54.37073776708933,0.13848560248396183
+All ages,Hispanic,2022-01-01,75.70947505265087,0.19241727286961044
+All ages,Hispanic,2022-02-01,57.48806429963593,0.14649997368893022
 All ages,More than one race,2018-01-01,33.401173552877964,1.079846071560671
 All ages,More than one race,2018-02-01,28.122118382079837,0.8989173203652295
 All ages,More than one race,2018-03-01,31.51624590258592,1.0121062935116285
@@ -597,58 +747,108 @@ All ages,More than one race,2021-09-01,35.86293773352555,0.9376000377236268
 All ages,More than one race,2021-10-01,36.67565408069501,0.9750967959714608
 All ages,More than one race,2021-11-01,33.17354262078526,0.8864556030020048
 All ages,More than one race,2021-12-01,33.73125727152141,0.9103860932697871
-All ages,More than one race,2022-01-01,40.56129939588278,1.1117811890507772
-All ages,More than one race,2022-02-01,30.652542350085078,0.8531797722025525
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-01-01,70.80922615627694,16.567017365866462
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-02-01,50.860991083138764,11.738825117051766
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-03-01,63.5635059107688,14.727287338789449
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-04-01,59.06602754834954,13.990537632618008
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-05-01,53.11173985707953,11.901456068826779
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-06-01,57.177947620286574,12.762192854754641
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-07-01,56.331904904183965,12.739576377819526
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-08-01,50.416564449546904,11.23307323842202
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-09-01,56.43131957425877,12.627728211712817
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-10-01,53.649291602664654,11.91348757951023
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-11-01,50.57520044647529,11.385321744798775
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-12-01,55.88406957803591,12.334481198733615
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-01-01,62.526872149762816,13.401954438594444
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-02-01,54.678904119571605,11.9618816419752
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-03-01,61.889224933720186,13.187487756398808
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-04-01,60.28066022891133,12.894082300069515
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-05-01,60.224941024962796,12.922780917501878
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-06-01,53.12674017561352,11.30854134944022
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-07-01,51.96306921045337,10.863490677823357
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-08-01,51.166563945195364,10.546581901311145
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-09-01,51.833358673623984,10.643112983246409
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-10-01,58.64077545975646,12.113322743687533
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-11-01,58.229822799661164,12.22845996505638
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-12-01,55.57020345560259,11.339253850663239
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-01-01,64.4063579867741,13.145162083891082
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-02-01,59.59659904672127,12.565078362034193
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-03-01,58.55540262327957,11.633106189914262
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-04-01,67.45272919334045,13.943858428892252
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-05-01,64.20865348685143,12.725111371633366
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-06-01,62.38294014671052,12.13006795059054
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-07-01,77.15968041613608,15.019494111121668
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-08-01,68.19715765423084,13.462896710230353
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-09-01,62.67243820417324,12.14098772670837
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-10-01,69.98235759157222,13.719549096708654
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-11-01,71.73736956359257,13.907481122216225
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-12-01,93.71837033570708,17.970339449306937
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-01-01,95.11368821229595,18.576052954820128
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-02-01,70.15948235551082,13.486303355472689
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-03-01,72.59510933607739,13.66561412929393
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-04-01,67.44328809145789,12.92784911937577
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-05-01,60.3631999709315,11.384122621463478
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-06-01,63.67833836780781,11.520793664897223
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-07-01,68.00583757394394,12.682514071213351
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-08-01,94.14919031789549,16.990883665564493
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-09-01,94.81298412778376,17.544623361687744
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-10-01,77.4188871858135,14.310766357331437
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-11-01,72.73938105439225,13.766620740515675
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-12-01,82.62980926066757,16.088188726280165
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-01-01,94.00381770930464,18.67284349346058
-All ages,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-02-01,68.28233878446962,13.767476393331771
+All ages,More than one race,2022-01-01,39.6301832042713,1.0913235268729042
+All ages,More than one race,2022-02-01,31.756419872708694,0.8862827387481089
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-01-01,70.80922615627694,16.567017365866462
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-02-01,50.860991083138764,11.738825117051766
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-03-01,63.5635059107688,14.727287338789449
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-04-01,59.06602754834954,13.990537632618008
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-05-01,53.11173985707953,11.901456068826779
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-06-01,57.177947620286574,12.762192854754641
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-07-01,56.331904904183965,12.739576377819526
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-08-01,50.416564449546904,11.23307323842202
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-09-01,56.43131957425877,12.627728211712817
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-10-01,53.649291602664654,11.91348757951023
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-11-01,50.57520044647529,11.385321744798775
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-12-01,55.88406957803591,12.334481198733615
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-01-01,62.526872149762816,13.401954438594444
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-02-01,54.678904119571605,11.9618816419752
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-03-01,61.889224933720186,13.187487756398808
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-04-01,60.28066022891133,12.894082300069515
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-05-01,60.224941024962796,12.922780917501878
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-06-01,53.12674017561352,11.30854134944022
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-07-01,51.96306921045337,10.863490677823357
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-08-01,51.166563945195364,10.546581901311145
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-09-01,51.833358673623984,10.643112983246409
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-10-01,58.64077545975646,12.113322743687533
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-11-01,58.229822799661164,12.22845996505638
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-12-01,55.57020345560259,11.339253850663239
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-01-01,64.4063579867741,13.145162083891082
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-02-01,59.59659904672127,12.565078362034193
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-03-01,58.55540262327957,11.633106189914262
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-04-01,67.45272919334045,13.943858428892252
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-05-01,64.20865348685143,12.725111371633366
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-06-01,62.38294014671052,12.13006795059054
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-07-01,77.15968041613608,15.019494111121668
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-08-01,68.19715765423084,13.462896710230353
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-09-01,62.67243820417324,12.14098772670837
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-10-01,69.98235759157222,13.719549096708654
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-11-01,71.73736956359257,13.907481122216225
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-12-01,93.71837033570708,17.970339449306937
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-01-01,95.11368821229595,18.576052954820128
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-02-01,70.15948235551082,13.486303355472689
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-03-01,72.59510933607739,13.66561412929393
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-04-01,67.44328809145789,12.92784911937577
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-05-01,60.3631999709315,11.384122621463478
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-06-01,63.67833836780781,11.520793664897223
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-07-01,68.00583757394394,12.682514071213351
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-08-01,94.14919031789549,16.990883665564493
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-09-01,94.81298412778376,17.544623361687744
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-10-01,77.4188871858135,14.310766357331437
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-11-01,72.73938105439225,13.766620740515675
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-12-01,82.62980926066757,16.088188726280165
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-01-01,94.41189730108735,18.800163901916246
+All ages,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-02-01,74.81318932802213,15.022684817711934
 All ages,Non-Hispanic White,2018-01-01,75.75290229719438,0.02748517027615621
 All ages,Non-Hispanic White,2018-02-01,62.75748946663863,0.02290483825111214
 All ages,Non-Hispanic White,2018-03-01,65.70945415211885,0.024047629680839334
@@ -697,58 +897,108 @@ All ages,Non-Hispanic White,2021-09-01,76.50461228440047,0.02829667728801679
 All ages,Non-Hispanic White,2021-10-01,74.36581593413484,0.027231480214164872
 All ages,Non-Hispanic White,2021-11-01,70.35173349815162,0.025455068519418707
 All ages,Non-Hispanic White,2021-12-01,75.09509014259956,0.027025623120364384
-All ages,Non-Hispanic White,2022-01-01,87.65014289265781,0.03127746063162758
-All ages,Non-Hispanic White,2022-02-01,65.7169986177776,0.02339130836273244
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-01-01,33.47449391498589,1.2102996874388958
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-02-01,31.1458293989549,1.1242892497973176
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-03-01,34.05182072818177,1.249686421341891
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-04-01,31.411575024793272,1.1349868214215009
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-05-01,33.710402183890835,1.2237052693155708
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-06-01,31.445883229643957,1.1526387811717174
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-07-01,34.300225507948745,1.2529310523178612
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-08-01,33.50404771670109,1.2148484644094102
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-09-01,30.45759467182184,1.102475176496371
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-10-01,32.324448137732844,1.175032112013322
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-11-01,30.95655751375142,1.1039123137501727
-Under 65,Non-Hispanic American Indian or Alaska Native,2018-12-01,34.36661652145174,1.243623923984749
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-01-01,36.10299301830434,1.3193009453225604
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-02-01,31.1649628780682,1.116761689456481
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-03-01,35.31190059135737,1.2792471908537826
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-04-01,31.780706919376,1.162207276596319
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-05-01,33.81705925199631,1.2285854594893548
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-06-01,31.046716326311525,1.1397097966906067
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-07-01,33.79924883701337,1.233730241762566
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-08-01,32.19402034806272,1.202241705636059
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-09-01,31.016222926197948,1.14035007934326
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-10-01,32.911832686909605,1.2067170855246871
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-11-01,33.001539491926344,1.1992101386258114
-Under 65,Non-Hispanic American Indian or Alaska Native,2019-12-01,34.83671764282749,1.2418708237627918
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-01-01,36.09444221475174,1.3161193883161197
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-02-01,33.30351494590757,1.2066767650784347
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-03-01,36.667628893094786,1.3409773912913319
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-04-01,40.360025143595585,1.46961869829763
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-05-01,45.59124938417311,1.663523694973263
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-06-01,48.970343366108494,1.7937843524262886
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-07-01,54.7568596899199,2.0081241861907557
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-08-01,48.85964998165087,1.8046929697111902
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-09-01,44.72180459717613,1.640213977449923
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-10-01,49.33807861860176,1.8178814557997027
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-11-01,52.09326517604016,1.919283892458049
-Under 65,Non-Hispanic American Indian or Alaska Native,2020-12-01,57.46200165031703,2.063005011470128
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-01-01,62.901890495097255,2.2728110487859414
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-02-01,47.000266617288496,1.7203795196654064
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-03-01,44.52698801627927,1.629812071144693
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-04-01,43.03048530629374,1.5863419395321796
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-05-01,46.99004560222356,1.7185690531068847
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-06-01,46.19684282887478,1.6907830679842788
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-07-01,47.7788119959871,1.7717477006968134
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-08-01,60.89466850669906,2.277306992576943
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-09-01,61.19028113319556,2.271571410241102
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-10-01,58.502629842275965,2.16899702899576
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-11-01,50.64107582179758,1.8485457591321046
-Under 65,Non-Hispanic American Indian or Alaska Native,2021-12-01,51.73417370137711,1.9103949608908564
-Under 65,Non-Hispanic American Indian or Alaska Native,2022-01-01,54.46343892975834,1.9772635879647484
-Under 65,Non-Hispanic American Indian or Alaska Native,2022-02-01,37.37162575123673,1.3470752963123434
+All ages,Non-Hispanic White,2022-01-01,85.45846110269306,0.03030897681723758
+All ages,Non-Hispanic White,2022-02-01,68.37511492022998,0.024246099810758107
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-01-01,33.47449391498589,1.2102996874388958
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-02-01,31.1458293989549,1.1242892497973176
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-03-01,34.05182072818177,1.249686421341891
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-04-01,31.411575024793272,1.1349868214215009
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-05-01,33.710402183890835,1.2237052693155708
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-06-01,31.445883229643957,1.1526387811717174
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-07-01,34.300225507948745,1.2529310523178612
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-08-01,33.50404771670109,1.2148484644094102
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-09-01,30.45759467182184,1.102475176496371
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-10-01,32.324448137732844,1.175032112013322
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-11-01,30.95655751375142,1.1039123137501727
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2018-12-01,34.36661652145174,1.243623923984749
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-01-01,36.10299301830434,1.3193009453225604
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-02-01,31.1649628780682,1.116761689456481
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-03-01,35.31190059135737,1.2792471908537826
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-04-01,31.780706919376,1.162207276596319
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-05-01,33.81705925199631,1.2285854594893548
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-06-01,31.046716326311525,1.1397097966906067
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-07-01,33.79924883701337,1.233730241762566
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-08-01,32.19402034806272,1.202241705636059
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-09-01,31.016222926197948,1.14035007934326
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-10-01,32.911832686909605,1.2067170855246871
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-11-01,33.001539491926344,1.1992101386258114
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2019-12-01,34.83671764282749,1.2418708237627918
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-01-01,36.09444221475174,1.3161193883161197
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-02-01,33.30351494590757,1.2066767650784347
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-03-01,36.667628893094786,1.3409773912913319
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-04-01,40.360025143595585,1.46961869829763
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-05-01,45.59124938417311,1.663523694973263
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-06-01,48.970343366108494,1.7937843524262886
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-07-01,54.7568596899199,2.0081241861907557
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-08-01,48.85964998165087,1.8046929697111902
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-09-01,44.72180459717613,1.640213977449923
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-10-01,49.33807861860176,1.8178814557997027
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-11-01,52.09326517604016,1.919283892458049
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2020-12-01,57.46200165031703,2.063005011470128
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-01-01,62.901890495097255,2.2728110487859414
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-02-01,47.000266617288496,1.7203795196654064
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-03-01,44.52698801627927,1.629812071144693
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-04-01,43.03048530629374,1.5863419395321796
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-05-01,46.99004560222356,1.7185690531068847
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-06-01,46.19684282887478,1.6907830679842788
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-07-01,47.7788119959871,1.7717477006968134
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-08-01,60.89466850669906,2.277306992576943
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-09-01,61.19028113319556,2.271571410241102
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-10-01,58.502629842275965,2.16899702899576
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-11-01,50.64107582179758,1.8485457591321046
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2021-12-01,51.73417370137711,1.9103949608908564
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2022-01-01,51.97259727807783,1.8816862749628631
+Under 65,"Non-Hispanic American
+Indian or Alaska Native",2022-02-01,43.15547655724805,1.5619666638723937
 Under 65,Non-Hispanic Asian,2018-01-01,8.287723476158945,0.03582244777665753
 Under 65,Non-Hispanic Asian,2018-02-01,6.878676282424258,0.029805109050579284
 Under 65,Non-Hispanic Asian,2018-03-01,8.121688494571869,0.03531169624309725
@@ -797,8 +1047,8 @@ Under 65,Non-Hispanic Asian,2021-09-01,9.724329009192134,0.03962457945605842
 Under 65,Non-Hispanic Asian,2021-10-01,9.602548993429954,0.03939382444915585
 Under 65,Non-Hispanic Asian,2021-11-01,8.815243802390423,0.03622996927589177
 Under 65,Non-Hispanic Asian,2021-12-01,8.85602659259846,0.036185294918070245
-Under 65,Non-Hispanic Asian,2022-01-01,10.3333598143463,0.04178319598674553
-Under 65,Non-Hispanic Asian,2022-02-01,7.643512030888477,0.03098412199128643
+Under 65,Non-Hispanic Asian,2022-01-01,10.11634556416545,0.04081830182853821
+Under 65,Non-Hispanic Asian,2022-02-01,8.15769513739163,0.03301031830957782
 Under 65,Non-Hispanic Black,2018-01-01,32.90991976718875,0.06610273782345315
 Under 65,Non-Hispanic Black,2018-02-01,27.822213459832703,0.05631646028642103
 Under 65,Non-Hispanic Black,2018-03-01,30.0531138492939,0.06059913275419896
@@ -847,8 +1097,8 @@ Under 65,Non-Hispanic Black,2021-09-01,46.45796779678629,0.09505196918369549
 Under 65,Non-Hispanic Black,2021-10-01,39.700369872971926,0.08071973328983303
 Under 65,Non-Hispanic Black,2021-11-01,33.987559539908546,0.06894658288532658
 Under 65,Non-Hispanic Black,2021-12-01,34.48987837912026,0.0699367715696346
-Under 65,Non-Hispanic Black,2022-01-01,43.43197359532956,0.08746016486506143
-Under 65,Non-Hispanic Black,2022-02-01,28.185900021190402,0.056986605051009914
+Under 65,Non-Hispanic Black,2022-01-01,42.95554581693297,0.0862727673645874
+Under 65,Non-Hispanic Black,2022-02-01,30.96712219690971,0.062473182475601186
 Under 65,Hispanic,2018-01-01,15.09458990281892,0.0234970933315939
 Under 65,Hispanic,2018-02-01,12.622762030867996,0.01959560558002461
 Under 65,Hispanic,2018-03-01,13.589071068962962,0.021064066257117212
@@ -897,8 +1147,8 @@ Under 65,Hispanic,2021-09-01,26.0529973805469,0.038450722511655204
 Under 65,Hispanic,2021-10-01,22.37184862979594,0.03289446079311976
 Under 65,Hispanic,2021-11-01,19.601863642398,0.02879374882016873
 Under 65,Hispanic,2021-12-01,20.36444834949053,0.030005135280759175
-Under 65,Hispanic,2022-01-01,23.431158930108726,0.0346242805440284
-Under 65,Hispanic,2022-02-01,16.29790430910349,0.024062676790014153
+Under 65,Hispanic,2022-01-01,22.664181826508592,0.03353547626552638
+Under 65,Hispanic,2022-02-01,17.108458972275983,0.025299234542135257
 Under 65,More than one race,2018-01-01,11.964634450245068,0.21969132884042808
 Under 65,More than one race,2018-02-01,10.257500741820696,0.18794351228720468
 Under 65,More than one race,2018-03-01,11.284279363406984,0.20966979665512242
@@ -947,58 +1197,108 @@ Under 65,More than one race,2021-09-01,17.05294671458945,0.3025430556412503
 Under 65,More than one race,2021-10-01,16.262246503682917,0.2837775304261384
 Under 65,More than one race,2021-11-01,14.208087406875004,0.25105717587403514
 Under 65,More than one race,2021-12-01,14.326661909560475,0.25213003529978106
-Under 65,More than one race,2022-01-01,16.311469519181642,0.2920669708319735
-Under 65,More than one race,2022-02-01,12.286871739502624,0.22050839962325589
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-01-01,29.601717993938028,4.262618106381098
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-02-01,21.709999093631893,3.174790591715722
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-03-01,25.062195027929434,3.5964404160239023
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-04-01,24.026071572388116,3.5032788089276394
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-05-01,25.086004455252578,3.606050776761161
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-06-01,27.409113660596567,3.9372816389671517
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-07-01,24.064009244975484,3.483729623720896
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-08-01,24.60274427678299,3.6660105921770123
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-09-01,26.785880041681274,3.8460966750372414
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-10-01,22.776987282682175,3.2133589285170827
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-11-01,20.239814678760386,2.8796329630197306
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2018-12-01,23.445983483242227,3.344458449478996
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-01-01,28.795274861981785,4.090766342459529
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-02-01,22.85328671734651,3.2341297024537985
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-03-01,27.898689805014413,3.9174797940515025
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-04-01,25.943364727322848,3.683938411544148
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-05-01,26.89431078034756,3.8702013492283514
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-06-01,24.5325802331675,3.558862804233819
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-07-01,25.523219085072,3.557941452605844
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-08-01,23.710354882198697,3.380388327760321
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-09-01,23.077877773413967,3.217422695822388
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-10-01,26.888125873493095,3.7963492064944666
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-11-01,24.74561581616056,3.488013245012333
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2019-12-01,26.949114761325504,3.8408646323186106
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-01-01,26.427004778042313,3.5911816108197665
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-02-01,22.60037709322814,3.1189392519559753
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-03-01,29.50681676747527,4.090327009376335
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-04-01,30.181442157604888,4.186264053133948
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-05-01,35.43781541283598,5.063411173093441
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-06-01,29.552812797707883,4.090104907314809
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-07-01,41.24717529412533,5.76966209968076
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-08-01,32.00116281148121,4.3804643304642035
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-09-01,29.877097502911262,4.109106189026802
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-10-01,37.062112815400205,5.1879402144900055
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-11-01,32.544639892209794,4.45581607199241
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2020-12-01,41.45700599917912,5.635480128465432
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-01-01,40.2937626851391,5.497345302903047
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-02-01,30.636055396227988,4.168697116456879
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-03-01,37.84922656345511,5.21645151945861
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-04-01,31.987257870800967,4.429010806053962
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-05-01,29.59477106084414,3.9823488239615625
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-06-01,35.16085137700792,4.851737632563428
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-07-01,38.413980441812754,5.334290979366414
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-08-01,57.66696969449247,7.907243697736426
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-09-01,55.33128640263762,7.673314231237045
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-10-01,42.73954557965146,5.897440672964113
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-11-01,41.72879382339911,5.860310591745647
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2021-12-01,39.29618286215752,5.4427998940037305
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-01-01,39.409821002903634,5.547129798204565
-Under 65,Non-Hispanic Native Hawaiian or Other Pacific Islander,2022-02-01,26.55385559506822,3.7052795415649737
+Under 65,More than one race,2022-01-01,15.596973919999733,0.2808387655314802
+Under 65,More than one race,2022-02-01,12.507431210760998,0.2266681455262643
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-01-01,29.601717993938028,4.262618106381098
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-02-01,21.709999093631893,3.174790591715722
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-03-01,25.062195027929434,3.5964404160239023
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-04-01,24.026071572388116,3.5032788089276394
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-05-01,25.086004455252578,3.606050776761161
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-06-01,27.409113660596567,3.9372816389671517
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-07-01,24.064009244975484,3.483729623720896
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-08-01,24.60274427678299,3.6660105921770123
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-09-01,26.785880041681274,3.8460966750372414
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-10-01,22.776987282682175,3.2133589285170827
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-11-01,20.239814678760386,2.8796329630197306
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2018-12-01,23.445983483242227,3.344458449478996
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-01-01,28.795274861981785,4.090766342459529
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-02-01,22.85328671734651,3.2341297024537985
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-03-01,27.898689805014413,3.9174797940515025
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-04-01,25.943364727322848,3.683938411544148
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-05-01,26.89431078034756,3.8702013492283514
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-06-01,24.5325802331675,3.558862804233819
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-07-01,25.523219085072,3.557941452605844
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-08-01,23.710354882198697,3.380388327760321
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-09-01,23.077877773413967,3.217422695822388
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-10-01,26.888125873493095,3.7963492064944666
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-11-01,24.74561581616056,3.488013245012333
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2019-12-01,26.949114761325504,3.8408646323186106
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-01-01,26.427004778042313,3.5911816108197665
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-02-01,22.60037709322814,3.1189392519559753
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-03-01,29.50681676747527,4.090327009376335
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-04-01,30.181442157604888,4.186264053133948
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-05-01,35.43781541283598,5.063411173093441
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-06-01,29.552812797707883,4.090104907314809
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-07-01,41.24717529412533,5.76966209968076
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-08-01,32.00116281148121,4.3804643304642035
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-09-01,29.877097502911262,4.109106189026802
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-10-01,37.062112815400205,5.1879402144900055
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-11-01,32.544639892209794,4.45581607199241
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2020-12-01,41.45700599917912,5.635480128465432
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-01-01,40.2937626851391,5.497345302903047
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-02-01,30.636055396227988,4.168697116456879
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-03-01,37.84922656345511,5.21645151945861
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-04-01,31.987257870800967,4.429010806053962
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-05-01,29.59477106084414,3.9823488239615625
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-06-01,35.16085137700792,4.851737632563428
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-07-01,38.413980441812754,5.334290979366414
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-08-01,57.66696969449247,7.907243697736426
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-09-01,55.33128640263762,7.673314231237045
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-10-01,42.73954557965146,5.897440672964113
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-11-01,41.72879382339911,5.860310591745647
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2021-12-01,39.29618286215752,5.4427998940037305
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-01-01,39.230226294678225,5.522729461408944
+Under 65,"Non-Hispanic Native Hawaiian
+or Other Pacific Islander",2022-02-01,30.067870342775606,4.214060985173298
 Under 65,Non-Hispanic White,2018-01-01,21.51008643439295,0.008816987998073279
 Under 65,Non-Hispanic White,2018-02-01,18.526844954997333,0.007651748272366692
 Under 65,Non-Hispanic White,2018-03-01,19.918358216077426,0.008256884115005313
@@ -1047,5 +1347,5 @@ Under 65,Non-Hispanic White,2021-09-01,28.685410719161847,0.012365338827107887
 Under 65,Non-Hispanic White,2021-10-01,25.99751714514609,0.011199553139365548
 Under 65,Non-Hispanic White,2021-11-01,23.026760572689206,0.009820512695084504
 Under 65,Non-Hispanic White,2021-12-01,24.100504616851754,0.010194310085877248
-Under 65,Non-Hispanic White,2022-01-01,26.639187470288853,0.01117438896461463
-Under 65,Non-Hispanic White,2022-02-01,19.175694125488075,0.008065589717394718
+Under 65,Non-Hispanic White,2022-01-01,25.36760849445612,0.010543945033586993
+Under 65,Non-Hispanic White,2022-02-01,19.816959699185354,0.008266078689932559
