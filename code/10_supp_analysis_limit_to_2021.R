@@ -1,3 +1,12 @@
+## 10_supp_analysis_limit_to_2021.R ----
+## 
+## Do our results change if we limit our follow up to December 2021? One
+## reviewer was concerned that using Feb 2022 may bias our results because of
+## delayed reporting. We reran our analysis using only data through Dec 2021
+## and the results are nearly identical. This makes sense since our most recent
+## data pull is five months after Feb 2022. NCHS reporting delays at this point
+## would include only the most extreme cases. 
+
 ## Imports ----
 library(tidyverse)
 library(here)

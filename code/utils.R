@@ -1,9 +1,11 @@
+## Imports ----
 library(tidyverse)
 
+## Data munging helpers ----
 create_new_age <- function(df) {
     df %>%
-        mutate(
-            age = case_when(
+        dplyr::mutate(
+            age = dplyr::case_when(
                 age_grp == "< 1 year" ~      0,
                 age_grp == "1-4 years" ~     0,
                 age_grp == "5-9 years" ~     5,
@@ -37,9 +39,26 @@ import_jp <- function(f_path, ctypes = NULL) {
         janitor::clean_names(.)
 }
 
+make_race_eth <- function(df) {
+    df %>%
+        dplyr::mutate(
+            race_eth = dplyr::case_when(
+                race == "aian" ~ "American Indian or Alaska Native",
+                race == "asian" ~ "Asian",
+                race == "black" ~ "Black or African American",
+                race == "hisp" ~ "hispanic",
+                race == "multirace" ~ "More than one race",
+                race == "nhopi" ~ "Native Hawaiian or Other Pacific Islander",
+                race == "white" ~ "White",
+                TRUE ~ NA_character_
+            )
+        )
+}
+
+## Plotting / factoring helpers ----
 categorize_race <- function(df) {
     df %>%
-        mutate(
+        dplyr::mutate(
             race_cat = factor(
                 race_eth,
                 levels = c(
@@ -88,8 +107,8 @@ categorize_race <- function(df) {
                 ),
                 ordered = TRUE
             )
-        ) %>% 
-        mutate(
+        ) %>%
+        dplyr::mutate(
             race_short_cat = factor(
                 race_eth,
                 levels = c(
@@ -138,8 +157,8 @@ categorize_race <- function(df) {
                 ),
                 ordered = TRUE
             )
-        ) %>% 
-        mutate(
+        ) %>%
+        dplyr::mutate(
             race_med_cat = factor(
                 race_eth,
                 levels = c(
@@ -191,23 +210,9 @@ categorize_race <- function(df) {
         )
 }
 
-make_race_eth <- function(df) {
-    df %>% 
-        mutate(race_eth = case_when(
-              race == "aian" ~ "American Indian or Alaska Native",
-              race == "asian" ~ "Asian",
-              race == "black" ~ "Black or African American",
-              race == "hisp" ~ "hispanic",
-              race == "multirace" ~ "More than one race",
-              race == "nhopi" ~ "Native Hawaiian or Other Pacific Islander",
-              race == "white" ~ "White",
-              TRUE ~ NA_character_
-        ))
-}
-
 categorize_age_groups <- function(df) {
-    df %>% 
-        mutate(
+    df %>%
+        dplyr::mutate(
             age_cat = factor(
                 age_grp,
                 levels = c("under65", "65andup", "all_ages"),
