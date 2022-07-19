@@ -1,27 +1,37 @@
+## 05_gather_joinpoint_results.R ----
+##
+## After running the joinpoint regression program, producing results, and
+## exporting the results, this file will gather up all results and prepare
+## them for plotting.
+
 ## Imports ----
 library(tidyverse)
 library(here)
-source(here("code", "utils.R"))
+source(here::here("code", "utils.R"))
 
-age_std <- read_csv(here("joinpoint", "age_standardized_death_rates.csv")) %>%
-    left_join(
-        import_jp(here(
-            "joinpoint", "age_standardized_death_rates.data.txt"
-        )) %>%
-            select(
-                age_grp, 
+## Read in joinpoint export files ----
+age_std <-
+    readr::read_csv(
+        here::here("joinpoint", "age_standardized_death_rates.csv")
+        ) %>%
+    dplyr::left_join(
+        import_jp(
+            here::here("joinpoint", "age_standardized_death_rates.data.txt")
+        ) %>%
+            dplyr::select(
+                age_grp,
                 race_eth,
                 month_from_start,
                 modeled_rate = model,
                 modeled_se = standard_error
             )
     ) %>%
-    left_join(
-        import_jp(here(
-            "joinpoint", "age_standardized_death_rates.ampc.txt"
-        )) %>%
-            select(
-                age_grp, 
+    dplyr::left_join(
+        import_jp(
+            here::here("joinpoint", "age_standardized_death_rates.ampc.txt")
+        ) %>%
+            dplyr::select(
+                age_grp,
                 race_eth,
                 ampc,
                 ampc_lower = ampc_c_i_low,
@@ -29,12 +39,12 @@ age_std <- read_csv(here("joinpoint", "age_standardized_death_rates.csv")) %>%
                 ampc_pval = p_value
             )
     ) %>%
-    left_join(
-        import_jp(here(
-            "joinpoint", "age_standardized_death_rates.mpc.txt"
-        )) %>%
-            transmute(
-                age_grp, 
+    dplyr::left_join(
+        import_jp(
+            here::here("joinpoint", "age_standardized_death_rates.mpc.txt")
+        ) %>%
+            dplyr::transmute(
+                age_grp,
                 race_eth,
                 jp_model = model,
                 segment = segment + 1,
@@ -46,17 +56,20 @@ age_std <- read_csv(here("joinpoint", "age_standardized_death_rates.csv")) %>%
             )
     ) %>%
     categorize_race() %>%
-    categorize_age_groups() %>% 
-    arrange(geography, sex, educ, age_cat, race_cat, date) %>% 
+    categorize_age_groups() %>%
+    dplyr::arrange(geography, sex, educ, age_cat, race_cat, date) %>%
     zoo::na.locf(na.rm = FALSE) %>%
-    left_join(
+    dplyr::left_join(
         import_jp(
-            here("joinpoint", "age_standardized_death_rates.modelestimates.txt")
+            here::here(
+                "joinpoint",
+                "age_standardized_death_rates.modelestimates.txt"
+            )
         ) %>%
-            transmute(
+            dplyr::transmute(
                 age_grp,
                 race_eth,
-                month_from_start = joinpoint, 
+                month_from_start = joinpoint,
                 jp_model = model,
                 slope_change = slope_chg_estimate,
                 slope_change_se = slope_chg_std_error,
@@ -64,26 +77,27 @@ age_std <- read_csv(here("joinpoint", "age_standardized_death_rates.csv")) %>%
             )
     )
 
-rr_df <- read_csv(here("joinpoint", "rate_ratios.csv")) %>%
-    rename(rr_var = var) %>% 
-    left_join(
-        import_jp(here(
+rr_df <-
+    readr::read_csv(here::here("joinpoint", "rate_ratios.csv")) %>%
+    dplyr::rename(rr_var = var) %>%
+    dplyr::left_join(
+        import_jp(here::here(
             "joinpoint", "race_only_rate_ratios.data.txt"
         )) %>%
-            select(
-                age_grp, 
+            dplyr::select(
+                age_grp,
                 race,
                 month_from_start,
                 modeled_rr = model,
                 modeled_se = standard_error
             )
     ) %>%
-    left_join(
-        import_jp(here(
+    dplyr::left_join(
+        import_jp(here::here(
             "joinpoint", "race_only_rate_ratios.ampc.txt"
         )) %>%
-            select(
-                age_grp, 
+            dplyr::select(
+                age_grp,
                 race,
                 ampc,
                 ampc_lower = ampc_c_i_low,
@@ -91,12 +105,12 @@ rr_df <- read_csv(here("joinpoint", "rate_ratios.csv")) %>%
                 ampc_pval = p_value
             )
     ) %>%
-    left_join(
-        import_jp(here(
+    dplyr::left_join(
+        import_jp(here::here(
             "joinpoint", "race_only_rate_ratios.mpc.txt"
         )) %>%
-            transmute(
-                age_grp, 
+            dplyr::transmute(
+                age_grp,
                 race,
                 jp_model = model,
                 segment = segment + 1,
@@ -109,17 +123,17 @@ rr_df <- read_csv(here("joinpoint", "rate_ratios.csv")) %>%
     ) %>%
     make_race_eth() %>%
     categorize_race() %>%
-    categorize_age_groups() %>% 
-    arrange(geography, sex, educ, age_cat, race_cat, date) %>% 
+    categorize_age_groups() %>%
+    dplyr::arrange(geography, sex, educ, age_cat, race_cat, date) %>%
     zoo::na.locf(na.rm = FALSE) %>%
-    left_join(
+    dplyr::left_join(
         import_jp(
-            here("joinpoint", "race_only_rate_ratios.modelestimates.txt")
+            here::here("joinpoint", "race_only_rate_ratios.modelestimates.txt")
         ) %>%
-            transmute(
+            dplyr::transmute(
                 age_grp,
                 race,
-                month_from_start = joinpoint, 
+                month_from_start = joinpoint,
                 jp_model = model,
                 slope_change = slope_chg_estimate,
                 slope_change_se = slope_chg_std_error,
@@ -127,5 +141,8 @@ rr_df <- read_csv(here("joinpoint", "rate_ratios.csv")) %>%
             )
     )
 
-saveRDS(age_std, here("data", "joinpoint_std_rate_results.RDS"))
-saveRDS(rr_df, here("data", "joinpoint_rate_ratio_results.RDS"))
+## Save ----
+saveRDS(age_std,
+        here::here("data", "joinpoint_std_rate_results.RDS"))
+saveRDS(rr_df,
+        here::here("data", "joinpoint_rate_ratio_results.RDS"))

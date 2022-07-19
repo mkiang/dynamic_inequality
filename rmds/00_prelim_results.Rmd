@@ -1,7 +1,7 @@
 ---
 title: "Preliminary Results"
 author: "Mathew Kiang"
-date: "2/22/2022"
+date: "7/18/2022"
 output: 
   html_document:
     toc: true
@@ -85,10 +85,10 @@ age_std %>%
         segment,
         date,
         mpc = sprintf(
-            "%0.1f%% (%0.1f, %0.1f)",
-            round(mpc, 1),
-            round(mpc_lower, 1),
-            round(mpc_upper, 1)
+            "%0.2f%% (%0.2f, %0.2f)",
+            round(mpc, 2),
+            round(mpc_lower, 2),
+            round(mpc_upper, 2)
         ),
         mpc_pval = round(mpc_pval, 3)
     ) %>%
@@ -157,10 +157,10 @@ rr_df %>%
         segment,
         date,
         mpc = sprintf(
-            "%0.1f%% (%0.1f, %0.1f)",
-            round(mpc, 1),
-            round(mpc_lower, 1),
-            round(mpc_upper, 1)
+            "%0.2f%% (%0.2f, %0.2f)",
+            round(mpc, 2),
+            round(mpc_lower, 2),
+            round(mpc_upper, 2)
         ),
         mpc_pval = round(mpc_pval, 3)
     ) %>%
@@ -178,10 +178,10 @@ rr_df %>%
     transmute(
         race_eth,
         ampc = sprintf(
-            "%0.1f%% (%0.1f, %0.1f)",
-            round(ampc, 1),
-            round(ampc_lower, 1),
-            round(ampc_upper, 1)
+            "%0.2f%% (%0.2f, %0.2f)",
+            round(ampc, 2),
+            round(ampc_lower, 2),
+            round(ampc_upper, 2)
         ),
         ampc_pval = round(mpc_pval, 3)
     ) %>%

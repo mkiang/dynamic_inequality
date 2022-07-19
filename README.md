@@ -19,7 +19,40 @@ age-standardized mortality rates. The full citation is:
 
 > TODO
 
+### Abstract
+
+TODO
+
 ## Reproducibility
+
+All analyses are conducted using `R`, which can be [downloaded via
+CRAN](https://cran.r-project.org/). We also recommend the use of
+[RStudio](https://www.rstudio.com/products/rstudio/download/) when
+running `R`, which will allow users to take advantage of
+[`renv`](https://rstudio.github.io/renv/index.html) for dependency
+management. If not using `renv`, we provide session information at the
+end of this file to ensure packages are the correct version. Note that
+for the joinpoint analyses, you must use an external program, [Joinpoint
+Regression Program](https://surveillance.cancer.gov/joinpoint/) which
+can be downloaded from the National Cancer Institute website.
+
+We use publicly available data — the `README.md` file in `data_raw` has
+links to our CDC WONDER query and each query file has the dates of data
+access.
+
+The code files (in `code`) are designed to be run in order. Files `01`
+to `04` manipulate the raw data into files that can be run in the
+Joinpoint regression program. After running these files, one must run
+joinpoint analyses in Joinpoint Regression Program. For convenience, we
+have provided our saved analysis settings (files ending in `.jps`) as
+well as our model results (files ending in `.jpo`). Once files have been
+exported out of the Joinpoint Regression Program, one can run code files
+`05` and higher to gather the results and create plots.
+
+## Figure data
+
+The numeric representations of the figures in our paper are available in
+`output`.
 
 ## Authors (alphabetical)
 
