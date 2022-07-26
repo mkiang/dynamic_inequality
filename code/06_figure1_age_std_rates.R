@@ -1,7 +1,7 @@
 ## 06_figure1_age_std_rates.R ----
-## 
+##
 ## Create Figure 1 — monthly age standardized mortality rates by race/ethnicity
-## and age group. 
+## and age group.
 
 ## Imports ----
 library(tidyverse)
@@ -20,6 +20,66 @@ p1 <- ggplot2::ggplot(age_std,
                       ggplot2::aes(x = date,
                                    color = age_cat,
                                    group = age_cat)) +
+    ggplot2::geom_rect(
+        data = age_std %>% dplyr::group_by(race_med_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2020-03-15")),
+            xmax = c(as.Date("2020-05-15")),
+            ymin = 5,
+            ymax = 829
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = age_std %>% dplyr::group_by(race_med_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2020-10-15")),
+            xmax = c(as.Date("2021-01-15")),
+            ymin = 5,
+            ymax = 829
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = age_std %>% dplyr::group_by(race_med_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2021-07-15")),
+            xmax = c(as.Date("2021-10-15")),
+            ymin = 5,
+            ymax = 829
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = age_std %>% dplyr::group_by(race_med_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2021-12-01")),
+            xmax = c(as.Date("2022-02-01")),
+            ymin = 5,
+            ymax = 829
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
     ggplot2::geom_vline(
         xintercept = as.Date("2020-03-01"),
         linetype = "dashed",
@@ -34,9 +94,9 @@ p1 <- ggplot2::ggplot(age_std,
         fatten = 1.25,
         alpha = .5
     ) +
-    ggplot2::facet_wrap( ~ race_med_cat,
-                         # labeller = label_wrap_gen(width = 20, multi_line = TRUE),
-                         ncol = 4) +
+    ggplot2::facet_wrap(~ race_med_cat,
+                        # labeller = label_wrap_gen(width = 20, multi_line = TRUE),
+                        ncol = 4) +
     ggplot2::scale_color_brewer("Age Groups", palette = "Set1") +
     ggplot2::scale_x_date(NULL,
                           breaks = as.Date(sprintf("%s-01-01", 2018:2022)),
@@ -51,7 +111,9 @@ p2 <- p1 +
     ggplot2::scale_y_continuous(
         "(log) Monthly all-cause\nmortality rate (per 100,000)",
         trans = "log1p",
-        breaks = c(0, 10, 20, 50, 100, 200, 400, 800)
+        breaks = c(0, 10, 20, 50, 100, 200, 400, 800),
+        limits = c(5, 830),
+        expand = c(0, 0)
     )
 ggplot2::ggsave(
     here::here("plots", "fig1_std_rates_log.pdf"),

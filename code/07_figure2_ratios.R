@@ -20,6 +20,66 @@ p1 <- ggplot2::ggplot(rr_df,
                       ggplot2::aes(x = date,
                                    color = race_cat,
                                    group = race_cat)) +
+    ggplot2::geom_rect(
+        data = rr_df %>% dplyr::group_by(age_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2020-03-15")),
+            xmax = c(as.Date("2020-05-15")),
+            ymin = .3,
+            ymax = 2.7
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = rr_df %>% dplyr::group_by(age_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2020-10-15")),
+            xmax = c(as.Date("2021-01-15")),
+            ymin = .3,
+            ymax = 2.7
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = rr_df %>% dplyr::group_by(age_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2021-07-15")),
+            xmax = c(as.Date("2021-10-15")),
+            ymin = .3,
+            ymax = 2.7
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
+    ggplot2::geom_rect(
+        data = rr_df %>% dplyr::group_by(age_cat) %>% dplyr::slice(1),
+        ggplot2::aes(
+            x = NULL,
+            color = NULL,
+            group = NULL,
+            xmin = c(as.Date("2021-12-01")),
+            xmax = c(as.Date("2022-02-01")),
+            ymin = .3,
+            ymax = 2.7
+        ),
+        color = NA,
+        fill = "black",
+        alpha = .1
+    ) +
     ggplot2::geom_hline(
         yintercept = 1,
         linetype = "solid",
@@ -41,8 +101,8 @@ p1 <- ggplot2::ggplot(rr_df,
     ggplot2::geom_line(ggplot2::aes(y = modeled_rr),
                        size = 1,
                        alpha = .8) +
-    ggplot2::facet_wrap( ~ age_cat,
-                         ncol = 3) +
+    ggplot2::facet_wrap(~ age_cat,
+                        ncol = 3) +
     ggplot2::scale_color_brewer("Race/ethnicity", palette = "Dark2") +
     ggplot2::scale_x_date(NULL,
                           breaks = as.Date(sprintf("%s-01-01", 2018:2022)),
@@ -50,7 +110,9 @@ p1 <- ggplot2::ggplot(rr_df,
     ggplot2::scale_y_continuous(
         "Rate Ratio\n(relative to non-Hispanic white)",
         trans = "log",
-        breaks = c(.5, 1, 2)
+        breaks = c(.5, 1, 2),
+        limits = c(.3, 2.7),
+        expand = c(0, 0)
     ) +
     mk_nytimes(legend.position = "right",
                legend.justification = c(1, 0)) +
