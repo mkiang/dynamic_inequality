@@ -17,11 +17,9 @@ Program](https://surveillance.cancer.gov/joinpoint/) to fit segmented
 regressions (joinpoint models) on trends in rate ratios and
 age-standardized mortality rates. The full citation is:
 
-> TODO
-
-### Abstract
-
-TODO
+> Aschmann HE, Riley AR, Chen R, Chen Y-H, Bibbins-Domingo K, Stokes AC,
+> Glymour MM, Kiang MV, *Dynamics of racial disparities in all-cause
+> mortality during the COVID-19 pandemic*. Forthcoming.
 
 ## Reproducibility
 
