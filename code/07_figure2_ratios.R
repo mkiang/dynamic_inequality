@@ -122,17 +122,19 @@ p1 <- ggplot2::ggplot(rr_df,
 ggplot2::ggsave(
     here::here("plots", "fig2_rate_ratios.pdf"),
     p1,
-    width = 7,
-    height = 2.2,
-    scale = 1.5,
+    width = 12, 
+    height = 4, 
+    units = "cm", 
+    scale = 2.1,
     device = grDevices::cairo_pdf
 )
 ggplot2::ggsave(
     here::here("plots", "fig2_rate_ratios.jpg"),
     p1,
-    width = 7,
-    height = 2.2,
-    scale = 1.5,
+    width = 12, 
+    height = 4, 
+    units = "cm", 
+    scale = 2.1,
     dpi = 300
 )
 

@@ -118,17 +118,19 @@ p2 <- p1 +
 ggplot2::ggsave(
     here::here("plots", "fig1_std_rates_log.pdf"),
     p2,
-    width = 7,
-    height = 2.75,
-    scale = 1.5,
+    width = 12, 
+    height = 4.5, 
+    units = "cm", 
+    scale = 2.1,
     device = grDevices::cairo_pdf
 )
 ggplot2::ggsave(
     here::here("plots", "fig1_std_rates_log.jpg"),
     p2,
-    width = 7,
-    height = 2.75,
-    scale = 1.5,
+    width = 12, 
+    height = 4.5, 
+    units = "cm", 
+    scale = 2.1,
     dpi = 300
 )
 
@@ -136,17 +138,19 @@ ggplot2::ggsave(
 ggplot2::ggsave(
     here::here("plots", "figS1x_std_rates.pdf"),
     p1,
-    width = 7,
-    height = 2.75,
-    scale = 1.5,
+    width = 12, 
+    height = 4.5, 
+    units = "cm", 
+    scale = 2.1,
     device = grDevices::cairo_pdf
 )
 ggplot2::ggsave(
     here::here("plots", "figS1x_std_rates.jpg"),
     p1,
-    width = 7,
-    height = 2.75,
-    scale = 1.5,
+    width = 12, 
+    height = 4.5, 
+    units = "cm", 
+    scale = 2.1,
     dpi = 300
 )
 
