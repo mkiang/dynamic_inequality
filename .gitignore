@@ -1,4 +1,5 @@
 ## Project specific ignores
+/code/99_**
 
 # General OS
 .DS_Store

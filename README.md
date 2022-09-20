@@ -7,47 +7,50 @@
 
 <img src="./plots/fig2_rate_ratios.jpg" width="750px" style="display: block; margin: auto;" />
 
-This is reproducible code and data for our forthcoming paper, *Dynamics
+This is reproducible code and data for our PNAS Brief Report, [*Dynamics
 of racial disparities in all-cause mortality during the COVID-19
-pandemic*, which uses the [CDC WONDER provisional
-data](https://wonder.cdc.gov/mcd.html) to estimate monthly
-age-standardized mortality rates and rate ratios. We use the [NCI
-Joinpoint Regression
+pandemic*](https://www.pnas.org/doi/10.1073/pnas.2210941119), which uses
+the [CDC WONDER provisional data](https://wonder.cdc.gov/mcd.html) to
+estimate monthly age-standardized mortality rates and rate ratios. We
+use the [NCI Joinpoint Regression
 Program](https://surveillance.cancer.gov/joinpoint/) to fit segmented
 regressions (joinpoint models) to summarize trends in the monthly rate
 ratios. The full citation is:
 
-> Aschmann HE, Riley AR, Chen R, Chen Y-H, Bibbins-Domingo K, Stokes AC,
-> Glymour MM, Kiang MV, *Dynamics of racial disparities in all-cause
-> mortality during the COVID-19 pandemic*. Forthcoming.
+> Aschmann, Hélène E., Alicia R. Riley, Ruijia Chen, Yea-Hung Chen,
+> Kirsten Bibbins-Domingo, Andrew C. Stokes, M. Maria Glymour, and
+> Mathew V. Kiang. 2022. “Dynamics of Racial Disparities in All-Cause
+> Mortality during the COVID-19 Pandemic.” *Proceedings of the National
+> Academy of Sciences* 119(40):e2210941119. doi:
+> [10.1073/pnas.2210941119](https://www.pnas.org/doi/10.1073/pnas.2210941119).
 
 ### Abstract
 
-As research documenting the disparate impact of the COVID-19 pandemic by
-race and ethnicity grows, little attention has been given to dynamics in
+As research documenting disparate impacts of COVID-19 by race and
+ethnicity grows, little attention has been given to dynamics in
 mortality disparities during the pandemic and whether changes in
-disparities persist. Here, we explore age-standardized monthly all-cause
-mortality in the US from January 2018 through February 2022 for seven
-racial/ethnic populations. Using joinpoint regression, we estimate
-trends in race-specific monthly rate ratios relative to non-Hispanic
-White mortality, to examine the magnitude of pandemic-related shifts in
-mortality disparities. Pre-pandemic disparities were stable from January
+disparities persist. We estimate age-standardized monthly all-cause
+mortality in the United States from January 2018 through February 2022
+for seven racial/ethnic populations. Using joinpoint regression, we
+quantify trends in race-specific rate ratios relative to non-Hispanic
+White mortality to examine the magnitude of pandemic-related shifts in
+mortality disparities. Prepandemic disparities were stable from January
 2018 through February 2020. With the start of the pandemic, relative
 mortality disadvantages increased for American Indian or Alaska Native
-(AIAN); Native Hawaiian or other Pacific Islander (NHOPI); and Black
-individuals; and relative mortality advantages decreased for Asian and
-Hispanic groups. Rate ratios relative to White mortality generally
-increased during COVID-19 surges, with different patterns in the Summer
-2021 and Winter 2021/2022 surges, when disparities approached
-pre-pandemic levels for Asian and Black individuals. However, two
-populations below age 65 fared worse than White individuals during these
-surges: for AIAN people, the observed rate ratio reached at 2.25 (95%CI
-2.14, 2.37) in October 2021 versus a pre-pandemic mean of 1.74 (1.62,
-1.86), and for NHOPI people, at 2.12 (1.92, 2.33) in August 2021 vs a
-pre-pandemic mean of 1.31 (1.13, 1.49). Our results highlight the
-dynamic nature of racial and ethnic disparities in all-cause mortality
+(AIAN), Native Hawaiian or other Pacific Islander (NHOPI), and Black
+individuals, and relative mortality advantages decreased for Asian and
+Hispanic groups. Rate ratios generally increased during COVID-19 surges,
+with different patterns in the summer 2021 and winter 2021/2022 surges,
+when disparities approached prepandemic levels for Asian and Black
+individuals. However, two populations below age 65 fared worse than
+White individuals during these surges. For AIAN people, the observed
+rate ratio reached 2.25 (95% CI = 2.14, 2.37) in October 2021 vs. a
+prepandemic mean of 1.74 (95% CI = 1.62, 1.86), and for NHOPI people,
+the observed rate ratio reached 2.12 (95% CI = 1.92, 2.33) in August
+2021 vs. a prepandemic mean of 1.31 (95% CI = 1.13, 1.49). Our results
+highlight the dynamic nature of racial/ethnic disparities in mortality
 and raise alarm about the exacerbation of mortality inequities for
-Indigenous groups since the start of the pandemic.
+Indigenous groups due to the pandemic.
 
 ## Reproducibility
 
